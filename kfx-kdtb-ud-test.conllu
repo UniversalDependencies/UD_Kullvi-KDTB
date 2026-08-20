@@ -96,3 +96,65 @@
 9	भी	_	PART	RP	_	8	advmod	_	_
 10	चोला	_	NOUN	NN	_	11	obl	_	_
 11	संगे	_	ADP	PSP	_	7	conj	_	_
+
+# sent_id = 11
+# text = होरी बे ज्ञान आपू बे गोशटे ।
+1	होरी	_	ADV	RB	_	4	advmod	_	_
+2	बे	_	PART	RP	_	4	discourse	_	_
+3	ज्ञान	_	NOUN	NN	_	4	nsubj	_	_
+4	आपू	_	VERB	VM	_	0	root	_	_
+5	बे	_	PART	RP	_	4	discourse	_	_
+6	गोशटे	_	NOUN	NN	_	4	obj	_	SpaceAfter=No
+7	।	_	PUNCT	SYM	_	4	punct	_	_
+
+# sent_id = 12
+# text = जादा गाश एला ता बड़ी तबाही भी होई सक सा
+1	जादा	_	ADV	RB	_	2	advmod	_	_
+2	गाश	_	NOUN	NN	_	6	nsubj	_	_
+3	एला	_	ADV	RB	_	6	advmod	_	_
+4	ता	_	PART	RP	_	6	discourse	_	_
+5	बड़ी	_	ADJ	JJ	_	6	amod	_	_
+6	तबाही	_	NOUN	NN	_	8	nsubj	_	_
+7	भी	_	PART	RP	_	6	advmod	_	_
+8	होई	_	VERB	VM	_	0	root	_	_
+9	सक	_	VERB	VM	_	8	aux	_	_
+10	सा	_	AUX	VAUX	_	8	aux	_	_
+
+# sent_id = 13
+# text = ओजकल गाश न नी जाना ओरे पोरे
+1	ओजकल	_	ADV	RB	_	5	advmod	_	_
+2	गाश	_	NOUN	NN	_	5	obl	_	_
+3	न	_	PART	NEG	_	5	advmod	_	_
+4	नी	_	PART	NEG	_	5	advmod	_	_
+5	जाना	_	VERB	VM	_	0	root	_	_
+6	ओरे	_	ADV	RB	_	5	advmod	_	_
+7	पोरे	_	ADV	RB	_	5	advmod	_	_
+
+# sent_id = 14
+# text = बस न सफ़र केरने रा आपना एक मज़ा सा
+1	बस	_	ADV	RB	_	4	advmod	_	_
+2	न	_	PART	RP	_	4	discourse	_	_
+3	सफ़र	_	NOUN	NN	_	4	obj	_	_
+4	केरने	_	VERB	VM	_	0	root	_	_
+5	रा	_	AUX	VAUX	_	4	aux	_	_
+6	आपना	_	PRON	PRP	_	8	det:poss	_	_
+7	एक	_	NUM	QC	_	8	nummod	_	_
+8	मज़ा	_	NOUN	NN	_	4	nsubj	_	_
+9	सा	_	AUX	VAUX	_	4	aux	_	_
+
+# sent_id = 15
+# text = ओजकल लागू सा सेउ र सीज़न घूमने बे नी टाइम आथी ओ
+1	ओजकल	_	ADV	RB	_	3	advmod	_	_
+2	लागू	_	VERB	VM	_	3	advmod	_	_
+3	सा	_	AUX	VAUX	_	0	root	_	_
+4	सेउ	_	NOUN	NN	_	3	nsubj	_	_
+5	र	_	ADP	PSP	_	4	case	_	_
+6	सीज़न	_	NOUN	NN	_	7	compound	_	_
+7	घूमने	_	VERB	VM	_	9	advcl	_	_
+8	बे	_	PART	RP	_	7	discourse	_	_
+9	नी	_	PART	NEG	_	10	advmod	_	_
+10	टाइम	_	NOUN	NN	_	3	obj	_	_
+11	आथी	_	VERB	VM	_	3	advmod	_	_
+12	ओ	_	PART	RP	_	3	discourse	_	
+
+
