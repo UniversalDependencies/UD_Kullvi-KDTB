@@ -157,4 +157,84 @@
 11	आथी	_	VERB	VM	_	3	advmod	_	_
 12	ओ	_	PART	RP	_	3	discourse	_	
 
+# sent_id = 16
+# text = मु जाना छेत बे गा आनदे तू भी चोल संगे ।
+1	मु	_	PRON	PRP	_	2	nsubj	_	_
+2	जाना	_	VERB	VM	_	0	root	_	_
+3	छेत	_	ADV	RB	_	2	advmod	_	_
+4	बे	_	PART	RP	_	2	discourse	_	_
+5	गा	_	PART	RP	_	2	discourse	_	_
+6	आनदे	_	VERB	VM	_	2	advmod	_	_
+7	तू	_	PRON	PRP	_	9	nsubj	_	_
+8	भी	_	PART	RP	_	7	advmod	_	_
+9	चोल	_	VERB	VM	_	2	conj	_	_
+10	संगे	_	ADP	PSP	_	9	case	_	SpaceAfter=No
+11	।	_	PUNCT	SYM	_	2	punct	_	_
+
+# sent_id = 17
+# text = ओज़ आसरा भारत आजाद हुआ थी, अंग्रेज़े बड़े जुल्म केरे थी आसरे देश पंदे ।
+1	ओज़	_	ADV	RB	_	5	advmod	_	_
+2	आसरा	_	PRON	PRP	_	5	nsubj	_	_
+3	भारत	_	PROPN	NNP	_	5	nsubj	_	_
+4	आजाद	_	ADJ	JJ	_	5	xcomp	_	_
+5	हुआ	_	VERB	VM	_	0	root	_	_
+6	थी	_	AUX	VAUX	_	5	aux	_	SpaceAfter=No
+7	,	_	PUNCT	SYM	_	5	punct	_	_
+8	अंग्रेज़े	_	NOUN	NN	_	11	nsubj	_	_
+9	बड़े	_	ADV	RB	_	10	advmod	_	_
+10	जुल्म	_	NOUN	NN	_	11	obj	_	_
+11	केरे	_	VERB	VM	_	5	conj	_	_
+12	थी	_	AUX	VAUX	_	11	aux	_	_
+13	आसरे	_	PRON	PRP	_	14	det:poss	_	_
+14	देश	_	NOUN	NN	_	11	obl	_	_
+15	पंदे	_	ADP	PSP	_	14	case	_	SpaceAfter=No
+16	।	_	PUNCT	SYM	_	5	punct	_	_
+
+# sent_id = 18
+# text = हिमाचल बड़ा बांका राज्य सा , ओखले लोका बड़े शोभले सी ।
+1	हिमाचल	_	PROPN	NNP	_	4	nsubj	_	_
+2	बड़ा	_	ADV	RB	_	3	advmod	_	_
+3	बांका	_	ADJ	JJ	_	4	amod	_	_
+4	राज्य	_	NOUN	NN	_	5	nsubj	_	_
+5	सा	_	AUX	VAUX	_	0	root	_	SpaceAfter=No
+6	,	_	PUNCT	SYM	_	5	punct	_	_
+7	ओखले	_	ADV	RB	_	9	advmod	_	_
+8	लोका	_	NOUN	NN	_	9	nsubj	_	_
+9	बड़े	_	ADV	RB	_	10	advmod	_	_
+10	शोभले	_	ADJ	JJ	_	11	xcomp	_	_
+11	सी	_	AUX	VAUX	_	5	conj	_	SpaceAfter=No
+12	।	_	PUNCT	SYM	_	5	punct	_	_
+
+# sent_id = 19
+# text = ओज़ ता ध्याड भर सोई सोई थकी कोम किच्छ नी केरू।
+1	ओज़	_	ADV	RB	_	8	advmod	_	_
+2	ता	_	PART	RP	_	8	discourse	_	_
+3	ध्याड	_	NOUN	NN	_	8	obl	_	_
+4	भर	_	ADV	RB	_	3	advmod	_	_
+5	सोई	_	VERB	VM	_	8	advcl	_	_
+6	सोई	_	VERB	VM	_	5	conj	_	_
+7	थकी	_	ADJ	JJ	_	8	amod	_	_
+8	कोम	_	NOUN	NN	_	10	nsubj	_	_
+9	किच्छ	_	PRON	PRP	_	10	obj	_	_
+10	नी	_	PART	NEG	_	11	advmod	_	_
+11	केरू	_	VERB	VM	_	0	root	_	SpaceAfter=No
+12	।	_	PUNCT	SYM	_	11	punct	_	_
+
+# sent_id = 20
+# text = कुल्लू मनाली बड़ा फेमस सा ओखे दूर दूर न लोका एजा सी घुमदे ।
+1	कुल्लू	_	PROPN	NNP	_	3	compound	_	_
+2	मनाली	_	PROPN	NNP	_	3	compound	_	_
+3	बड़ा	_	ADV	RB	_	4	advmod	_	_
+4	फेमस	_	ADJ	JJ	_	5	xcomp	_	_
+5	सा	_	AUX	VAUX	_	0	root	_	_
+6	ओखे	_	ADV	RB	_	10	advmod	_	_
+7	दूर	_	ADV	RB	_	8	advmod	_	_
+8	दूर	_	ADV	RB	_	10	advmod	_	_
+9	न	_	ADP	PSP	_	10	case	_	_
+10	लोका	_	NOUN	NN	_	11	nsubj	_	_
+11	एजा	_	VERB	VM	_	5	conj	_	_
+12	सी	_	AUX	VAUX	_	11	aux	_	_
+13	घुमदे	_	VERB	VM	_	11	advmod	_	SpaceAfter=No
+14	।	_	PUNCT	SYM	_	5	punct	_	_
+
 
