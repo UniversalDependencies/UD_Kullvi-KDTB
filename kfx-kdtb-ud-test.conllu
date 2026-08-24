@@ -237,4 +237,153 @@
 13	घुमदे	_	VERB	VM	_	11	advmod	_	SpaceAfter=No
 14	।	_	PUNCT	SYM	_	5	punct	_	_
 
+# sent_id = 21
+# text = हाऊँ आई सा ओज़ शिमला घुमदी ।
+1	हाऊँ	_	PRON	PRP	_	6	nsubj	_	_
+2	आई	_	PRON	PRP	_	6	nsubj	_	_
+3	सा	_	AUX	VAUX	_	6	aux	_	_
+4	ओज़	_	ADV	RB	_	6	advmod	_	_
+5	शिमला	_	PROPN	NNP	_	6	obj	_	_
+6	घुमदी	_	VERB	VM	_	0	root	_	_
+7	।	_	PUNCT	SYM	_	6	punct	_	_
 
+# sent_id = 22
+# text = हिमाचल री राजधानी शिमला सा , जो घूमने री बाँकी जगह सा।
+1	हिमाचल	_	PROPN	NNP	_	3	nmod	_	_
+2	री	_	ADP	PSP	_	1	case	_	_
+3	राजधानी	_	NOUN	NN	_	4	nsubj	_	_
+4	शिमला	_	PROPN	NNP	_	5	xcomp	_	_
+5	सा	_	AUX	VAUX	_	0	root	_	_
+6	,	_	PUNCT	SYM	_	5	punct	_	_
+7	जो	_	PRON	PRP	_	11	nsubj	_	_
+8	घूमने	_	VERB	VM	_	11	advcl	_	_
+9	री	_	ADP	PSP	_	10	case	_	_
+10	बाँकी	_	ADJ	JJ	_	11	amod	_	_
+11	जगह	_	NOUN	NN	_	5	conj	_	_
+12	सा	_	AUX	VAUX	_	11	cop	_	_
+13	।	_	PUNCT	SYM	_	5	punct	_	_
+
+# sent_id = 23
+# text = कुल्लू मनाली लागी सा ओजकल बरसात बड़ा खतरा हो सा बरसात न ।
+1	कुल्लू	_	PROPN	NNP	_	3	compound	_	_
+2	मनाली	_	PROPN	NNP	_	3	compound	_	_
+3	लागी	_	ADP	PSP	_	4	case	_	_
+4	सा	_	AUX	VAUX	_	0	root	_	_
+5	ओजकल	_	ADV	RB	_	9	advmod	_	_
+6	बरसात	_	NOUN	NN	_	9	nsubj	_	_
+7	बड़ा	_	ADV	RB	_	8	advmod	_	_
+8	खतरा	_	NOUN	NN	_	9	nsubj	_	_
+9	हो	_	VERB	VM	_	4	conj	_	_
+10	सा	_	AUX	VAUX	_	9	aux	_	_
+11	बरसात	_	NOUN	NN	_	12	nmod	_	_
+12	न	_	ADP	PSP	_	9	case	_	_
+13	।	_	PUNCT	SYM	_	4	punct	_	_
+
+# sent_id = 24
+# text = शिमला गेयटी न लागू सा ओजकल प्रोग्राम जोखे ओछे ओछे शोहरू नोचदे लागे सी ।
+1	शिमला	_	PROPN	NNP	_	2	compound	_	_
+2	गेयटी	_	PROPN	NNP	_	4	nsubj	_	_
+3	न	_	ADP	PSP	_	2	case	_	_
+4	लागू	_	VERB	VM	_	0	root	_	_
+5	सा	_	AUX	VAUX	_	4	aux	_	_
+6	ओजकल	_	ADV	RB	_	7	advmod	_	_
+7	प्रोग्राम	_	NOUN	NN	_	10	obj	_	_
+8	जोखे	_	PRON	PRP	_	10	advmod	_	_
+9	ओछे	_	ADJ	JJ	_	10	amod	_	_
+10	ओछे	_	ADJ	JJ	_	11	amod	_	_
+11	शोहरू	_	NOUN	NN	_	12	nsubj	_	_
+12	नोचदे	_	VERB	VM	_	4	conj	_	_
+13	लागे	_	VERB	VM	_	12	advmod	_	_
+14	सी	_	AUX	VAUX	_	12	aux	_	_
+15	।	_	PUNCT	SYM	_	4	punct	_	_
+
+# sent_id = 25
+# text = शिमला माल रोड ता ओजकल बड़ी भारी भीड़ सा कई लोक घुमदे आये सी ।
+1	शिमला	_	PROPN	NNP	_	3	compound	_	_
+2	माल	_	PROPN	NNP	_	3	compound	_	_
+3	रोड	_	NOUN	NN	_	9	nmod	_	_
+4	ता	_	ADP	PSP	_	3	case	_	_
+5	ओजकल	_	ADV	RB	_	9	advmod	_	_
+6	बड़ी	_	ADV	RB	_	7	advmod	_	_
+7	भारी	_	ADJ	JJ	_	8	amod	_	_
+8	भीड़	_	NOUN	NN	_	9	nsubj	_	_
+9	सा	_	AUX	VAUX	_	0	root	_	_
+10	कई	_	DET	DT	_	11	det	_	_
+11	लोक	_	NOUN	NN	_	13	nsubj	_	_
+12	घुमदे	_	VERB	VM	_	13	advmod	_	_
+13	आये	_	VERB	VM	_	9	conj	_	_
+14	सी	_	AUX	VAUX	_	13	aux	_	_
+15	।	_	PUNCT	SYM	_	9	punct	_	_
+
+# sent_id = 26
+# text = साड़ी लाई नोचना बड़ा मुश्किल होआ सा टांगा थकी ।
+1	साड़ी	_	PRON	PRP	_	3	nmod	_	_
+2	लाई	_	ADP	PSP	_	1	case	_	_
+3	नोचना	_	VERB	VM	_	6	nsubj	_	_
+4	बड़ा	_	ADV	RB	_	5	advmod	_	_
+5	मुश्किल	_	ADJ	JJ	_	6	xcomp	_	_
+6	होआ	_	VERB	VM	_	0	root	_	_
+7	सा	_	AUX	VAUX	_	6	aux	_	_
+8	टांगा	_	NOUN	NN	_	9	obl	_	_
+9	थकी	_	ADP	PSP	_	6	advmod	_	_
+10	।	_	PUNCT	SYM	_	6	punct	_	_
+
+# sent_id = 27
+# text = कुल्लू न शिमला पूजने बे सोत घंटे लागा सा , सफ़र न बड़ी बुरी हालत होआ सा ।
+1	कुल्लू	_	PROPN	NNP	_	4	obl	_	_
+2	न	_	ADP	PSP	_	1	case	_	_
+3	शिमला	_	PROPN	NNP	_	4	obl	_	_
+4	पूजने	_	VERB	VM	_	7	advcl	_	_
+5	बे	_	ADP	PSP	_	4	case	_	_
+6	सोत	_	NUM	QC	_	7	nummod	_	_
+7	घंटे	_	NOUN	NN	_	8	nsubj	_	_
+8	लागा	_	VERB	VM	_	0	root	_	_
+9	सा	_	AUX	VAUX	_	8	aux	_	_
+10	,	_	PUNCT	SYM	_	8	punct	_	_
+11	सफ़र	_	NOUN	NN	_	15	nsubj	_	_
+12	न	_	ADP	PSP	_	11	case	_	_
+13	बड़ी	_	ADV	RB	_	14	advmod	_	_
+14	बुरी	_	ADJ	JJ	_	15	amod	_	_
+15	हालत	_	NOUN	NN	_	16	nsubj	_	_
+16	होआ	_	VERB	VM	_	8	conj	_	_
+17	सा	_	AUX	VAUX	_	16	aux	_	_
+18	।	_	PUNCT	SYM	_	8	punct	_	_
+
+# sent_id = 28
+# text = खाने न पहले प्लेटा साफ़ केरनी बड़ी जरूरी होआ सी ।
+1	खाने	_	VERB	VM	_	4	obl	_	_
+2	न	_	ADP	PSP	_	1	case	_	_
+3	पहले	_	ADV	RB	_	4	advmod	_	_
+4	प्लेटा	_	NOUN	NN	_	7	nsubj	_	_
+5	साफ़	_	ADJ	JJ	_	6	advmod	_	_
+6	केरनी	_	VERB	VM	_	7	xcomp	_	_
+7	बड़ी	_	ADV	RB	_	8	advmod	_	_
+8	जरूरी	_	ADJ	JJ	_	9	xcomp	_	_
+9	होआ	_	VERB	VM	_	0	root	_	_
+10	सी	_	AUX	VAUX	_	9	aux	_	_
+11	।	_	PUNCT	SYM	_	9	punct	_	_
+
+# sent_id = 29
+# text = आसे ओज़ शिमला न बड़ा मज़ा केरदे लागे सी
+1	आसे	_	PRON	PRP	_	6	nsubj	_	_
+2	ओज़	_	ADV	RB	_	6	advmod	_	_
+3	शिमला	_	PROPN	NNP	_	4	nmod	_	_
+4	न	_	ADP	PSP	_	3	case	_	_
+5	बड़ा	_	ADV	RB	_	6	advmod	_	_
+6	मज़ा	_	NOUN	NN	_	7	obj	_	_
+7	केरदे	_	VERB	VM	_	8	advmod	_	_
+8	लागे	_	VERB	VM	_	0	root	_	_
+9	सी	_	AUX	VAUX	_	8	aux	_	_
+
+# sent_id = 30
+# text = आसे रात की ब्याली लाई सा सेभीए मिलिए खानी ।
+1	आसे	_	PRON	PRP	_	7	nsubj	_	_
+2	रात	_	NOUN	NN	_	4	nmod	_	_
+3	की	_	ADP	PSP	_	2	case	_	_
+4	ब्याली	_	NOUN	NN	_	7	obl	_	_
+5	लाई	_	ADP	PSP	_	4	case	_	_
+6	सा	_	AUX	VAUX	_	7	aux	_	_
+7	सेभीए	_	PRON	PRP	_	8	nsubj	_	_
+8	मिलिए	_	VERB	VM	_	0	root	_	_
+9	खानी	_	VERB	VM	_	8	conj	_	_
+10	।	_	PUNCT	SYM	_	8	punct	_	_
