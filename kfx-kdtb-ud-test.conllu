@@ -4413,7 +4413,7 @@
 8	।	_	PUNCT	SYM	_	7	punct	_	_
 
 # sent_id = 319
-# text = झूठ बे सच बनाने पंदे आमादा थी।
+# text = झूठ बे सच बनाने पंदे आमादा थी
 1	झूठ	_	NOUN	NN	_	4	obj	_	_
 2	बे	_	ADP	PSP	_	1	case	_	_
 3	सच	_	NOUN	NN	_	4	xcomp	_	_
@@ -4423,7 +4423,7 @@
 7	थी	_	AUX	VAUX	_	6	cop	_	SpaceAfter=No
 
 # sent_id = 320
-# text = तेबे हाऊँ बाहर न प्यार केरदे केरदे डोरी थी।
+# text = तेबे हाऊँ बाहर न प्यार केरदे केरदे डोरी थी
 1	तेबे	_	ADV	RB	_	8	advmod	_	_
 2	हाऊँ	_	PRON	PRP	_	8	nsubj	_	_
 3	बाहर	_	ADV	RB	_	6	advmod	_	_
