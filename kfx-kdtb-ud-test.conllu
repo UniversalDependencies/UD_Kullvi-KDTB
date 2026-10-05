@@ -91,7 +91,7 @@
 4	दुजे	_	ADJ	JJ	_	5	amod	_	_
 5	देश	_	NOUN	NN	_	7	obl	_	_
 6	ना	_	ADP	PSP	_	5	case	_	_
-7	घुमदी	_	VERB	VM	_	3	parataxis	_	_
+7	घुमदी	_	VERB	VM	_	3	parataxis	_	SpaceAfter=No
 8	तुसे	_	PRON	PRP	_	11	nsubj	_	_
 9	भी	_	PART	RP	_	8	advmod	_	_
 10	चोला	_	NOUN	NN	_	11	obl	_	_
@@ -117,7 +117,7 @@
 6	तबाही	_	NOUN	NN	_	8	nsubj	_	_
 7	भी	_	PART	RP	_	6	advmod	_	_
 8	होई	_	VERB	VM	_	0	root	_	_
-9	सक	_	VERB	VM	_	8	aux	_	_
+9	सक	_	AUX	VAUX	_	8	aux	_	_
 10	सा	_	AUX	VAUX	_	8	aux	_	_
 
 # sent_id = 13
@@ -137,7 +137,7 @@
 3	सफ़र	_	NOUN	NN	_	4	obj	_	_
 4	केरने	_	VERB	VM	_	0	root	_	_
 5	रा	_	AUX	VAUX	_	4	aux	_	_
-6	आपना	_	PRON	PRP	_	8	det:poss	_	_
+6	आपना	_	PRON	PRP	_	8	det	_	_
 7	एक	_	NUM	QC	_	8	nummod	_	_
 8	मज़ा	_	NOUN	NN	_	4	nsubj	_	_
 9	सा	_	AUX	VAUX	_	4	aux	_	_
@@ -194,7 +194,7 @@
 # text = ओज़ ता ध्याड भर सोई सोई थकी कोम किच्छ नी केरू।
 1	ओज़	_	ADV	RB	_	8	advmod	_	_
 2	ता	_	PART	RP	_	8	discourse	_	_
-3	ध्याड	_	NOUN	NN	_	8	obl	_	_
+3	ध्याड	_	NOUN	NN	_	8	nmod	_	_
 4	भर	_	ADV	RB	_	3	advmod	_	_
 5	सोई	_	VERB	VM	_	8	advcl	_	_
 6	सोई	_	VERB	VM	_	5	conj	_	_
@@ -202,7 +202,8 @@
 8	कोम	_	NOUN	NN	_	10	nsubj	_	_
 9	किच्छ	_	PRON	PRP	_	10	obj	_	_
 10	नी	_	PART	NEG	_	11	advmod	_	_
-11	केरू	_	VERB	VM	_	0	root	_	_
+11	केरू	_	VERB	VM	_	0	root	_	SpaceAfter=No
+12	।	_	PUNCT	SYM	_	11	punct	_	_
 
 # sent_id = 20
 # text = कुल्लू मनाली बड़ा फेमस सा ओखे दूर दूर न लोका एजा सी घुमदे ।
@@ -351,7 +352,7 @@
 # text = आसे ओज़ शिमला न बड़ा मज़ा केरदे लागे सी
 1	आसे	_	PRON	PRP	_	8	nsubj	_	_
 2	ओज़	_	ADV	RB	_	8	advmod	_	_
-3	शिमला	_	PROPN	NNP	_	6	obl	_	_
+3	शिमला	_	PROPN	NNP	_	6	nmod	_	_
 4	न	_	ADP	PSP	_	3	case	_	_
 5	बड़ा	_	ADV	RB	_	6	advmod	_	_
 6	मज़ा	_	NOUN	NN	_	7	obj	_	_
@@ -414,7 +415,7 @@
 1	बैचेन	_	ADJ	JJ	_	2	xcomp	_	_
 2	होयी	_	VERB	VM	_	3	advcl	_	_
 3	बोलू	_	VERB	VM	_	0	root	_	_
-4	तेस	_	PRON	PRP	_	5	obl	_	_
+4	तेस	_	PRON	PRP	_	5	nmod	_	_
 5	ओगी	_	NOUN	NN	_	7	nmod	_	_
 6	ता	_	PART	RP	_	7	discourse	_	_
 7	पकाह	_	VERB	VM	_	3	conj	_	SpaceAfter=No
@@ -492,7 +493,7 @@
 5	री	_	VERB	VM	_	0	root	_	_
 6	तपस्या	_	NOUN	NN	_	5	obj	_	_
 7	ए	_	PRON	PRP	_	8	det	_	_
-8	शोहरू	_	NOUN	NN	_	5	obj	_	_
+8	शोहरू	_	NOUN	NN	_	5	nmod	_	_
 9	बचाऊ	_	VERB	VM	_	5	conj	_	SpaceAfter=No
 10	।	_	PUNCT	SYM	_	5	punct	_	_
 
@@ -541,9 +542,9 @@
 # sent_id = 44
 # text = गृह प्रवेश रे उत्सव री तैयारी होण्दी लागी।
 1	गृह	_	NOUN	NN	_	2	compound	_	_
-2	प्रवेश	_	NOUN	NN	_	4	obl	_	_
+2	प्रवेश	_	NOUN	NN	_	4	nmod	_	_
 3	रे	_	ADP	PSP	_	2	case	_	_
-4	उत्सव	_	NOUN	NN	_	6	obl	_	_
+4	उत्सव	_	NOUN	NN	_	6	nmod	_	_
 5	री	_	ADP	PSP	_	4	case	_	_
 6	तैयारी	_	NOUN	NN	_	8	nsubj	_	_
 7	होण्दी	_	VERB	VM	_	8	advcl	_	_
@@ -554,7 +555,7 @@
 # text = ओखे झींगुर ध्याड भर मज़दूरी केरा सा ता ओधा पेट नाज मिला सा।
 1	ओखे	_	ADV	RB	_	5	advmod	_	_
 2	झींगुर	_	PROPN	NNP	_	6	nsubj	_	_
-3	ध्याड	_	NOUN	NN	_	5	obl	_	_
+3	ध्याड	_	NOUN	NN	_	5	nmod	_	_
 4	भर	_	ADV	RB	_	3	advmod	_	_
 5	मज़दूरी	_	NOUN	NN	_	6	obj	_	_
 6	केरा	_	VERB	VM	_	0	root	_	_
