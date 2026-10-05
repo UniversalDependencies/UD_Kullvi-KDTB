@@ -5985,3 +5985,302 @@ Today 11:07 AM
 5	खून	_	NOUN	NN	_	_	_	_	_
 6	केरने	_	VERB	VM	_	_	_	_	_
 7	पांदे	_	ADP	PSP	_	_	_	_	_
+
+# sent_id = 409
+# text = इन दुई रूप न तुसरी बेटी तुस बे सुत समेत वापस देंदी लागी
+1	इन	_	PRON	PRP	_	5	obl	_	_
+2	दुई	_	NUM	QC	_	3	nummod	_	_
+3	रूप	_	NOUN	NN	_	5	obl	_	_
+4	न	_	ADP	PSP	_	3	case	_	_
+5	तुसरी	_	PRON	PRP	_	8	nsubj	_	_
+6	बेटी	_	NOUN	NN	_	8	obj	_	_
+7	तुस	_	PRON	PRP	_	8	iobj	_	_
+8	बे	_	VERB	VM	_	0	root	_	_
+9	सुत	_	NOUN	NN	_	8	obj	_	_
+10	समेत	_	ADP	PSP	_	9	case	_	_
+11	वापस	_	ADV	RB	_	8	advmod	_	_
+12	देंदी	_	VERB	VM	_	8	aux	_	_
+13	लागी	_	AUX	VAUX	_	8	aux	_	_
+
+# sent_id = 410
+# text = इन न तू मूमे हेरी सक सा शायद
+1	इन	_	PRON	PRP	_	4	obl	_	_
+2	न	_	ADP	PSP	_	1	case	_	_
+3	तू	_	PRON	PRP	_	4	nsubj	_	_
+4	मूमे	_	VERB	VM	_	0	root	_	_
+5	हेरी	_	VERB	VM	_	4	aux	_	_
+6	सक	_	VERB	VM	_	4	aux	_	_
+7	सा	_	AUX	VAUX	_	4	aux	_	_
+8	शायद	_	ADV	RB	_	4	advmod	_	_
+
+# sent_id = 411
+# text = बाबा तू बोला थी न आत्माए कदी नी मोरदी
+1	बाबा	_	NOUN	NN	_	3	vocative	_	_
+2	तू	_	PRON	PRP	_	3	nsubj	_	_
+3	बोला	_	VERB	VM	_	0	root	_	_
+4	थी	_	AUX	VAUX	_	3	aux	_	_
+5	न	_	PART	RP	_	3	discourse	_	_
+6	आत्माए	_	NOUN	NN	_	8	nsubj	_	_
+7	कदी	_	ADV	RB	_	8	advmod	_	_
+8	नी	_	PART	NEG	_	9	advmod	_	_
+9	मोरदी	_	VERB	VM	_	3	ccomp	_	_
+
+# sent_id = 412
+# text = एई बिराट व्योम न शून्य न तैरदी रोहा सा शांत होइया
+1	एई	_	PRON	PRP	_	3	det	_	_
+2	बिराट	_	ADJ	JJ	_	3	amod	_	_
+3	व्योम	_	NOUN	NN	_	7	obl	_	_
+4	न	_	ADP	PSP	_	3	case	_	_
+5	शून्य	_	NOUN	NN	_	7	obl	_	_
+6	न	_	ADP	PSP	_	5	case	_	_
+7	तैरदी	_	VERB	VM	_	0	root	_	_
+8	रोहा	_	VERB	VM	_	7	aux	_	_
+9	सा	_	AUX	VAUX	_	7	aux	_	_
+10	शांत	_	ADJ	JJ	_	7	xcomp	_	_
+11	होइया	_	VERB	VM	_	10	aux	_	_
+
+# sent_id = 413
+# text = हऊँ तेस शांति बे छूगना चाह सा
+1	हऊँ	_	PRON	PRP	_	5	nsubj	_	_
+2	तेस	_	PRON	PRP	_	3	det	_	_
+3	शांति	_	NOUN	NN	_	5	obj	_	_
+4	बे	_	ADP	PSP	_	3	case	_	_
+5	छूगना	_	VERB	VM	_	0	root	_	_
+6	चाह	_	VERB	VM	_	5	aux	_	_
+7	सा	_	AUX	VAUX	_	5	aux	_	_
+
+# sent_id = 414
+# text = हर शिर री थकने री आपणी एक सीमा हो सा
+1	हर	_	DET	DT	_	2	det	_	_
+2	शिर	_	NOUN	NN	_	8	nsubj	_	_
+3	री	_	ADP	PSP	_	2	case	_	_
+4	थकने	_	NOUN	NN	_	8	obl	_	_
+5	री	_	ADP	PSP	_	4	case	_	_
+6	आपणी	_	PRON	PRP	_	7	det:poss	_	_
+7	एक	_	NUM	QC	_	8	nummod	_	_
+8	सीमा	_	NOUN	NN	_	9	nsubj	_	_
+9	हो	_	VERB	VM	_	0	root	_	_
+10	सा	_	AUX	VAUX	_	9	aux	_	_
+
+# sent_id = 415
+# text = हाँऊ छेके थकी एथ न दोष ता मेरा सा
+1	हाँऊ	_	PRON	PRP	_	3	nsubj	_	_
+2	छेके	_	ADV	RB	_	3	advmod	_	_
+3	थकी	_	VERB	VM	_	0	root	_	_
+4	एथ	_	ADV	RB	_	6	advmod	_	_
+5	न	_	PART	NEG	_	6	advmod	_	_
+6	दोष	_	NOUN	NN	_	8	nsubj	_	_
+7	ता	_	PART	RP	_	8	discourse	_	_
+8	मेरा	_	PRON	PRP	_	3	ccomp	_	_
+9	सा	_	AUX	VAUX	_	8	aux	_	_
+
+# sent_id = 416
+# text = तुस दुइ मुमे माफ़ केरी सक सी ता केरना
+1	तुस	_	PRON	PRP	_	5	nsubj	_	_
+2	दुइ	_	NUM	QC	_	1	nummod	_	_
+3	मुमे	_	PRON	PRP	_	5	obj	_	_
+4	माफ़	_	ADJ	JJ	_	5	xcomp	_	_
+5	केरी	_	VERB	VM	_	0	root	_	_
+6	सक	_	VERB	VM	_	5	aux	_	_
+7	सी	_	AUX	VAUX	_	5	aux	_	_
+8	ता	_	PART	RP	_	9	discourse	_	_
+9	केरना	_	VERB	VM	_	5	conj	_	_
+
+# sent_id = 417
+# text = सोचा होले की एक साल बाद आख़िर हाँऊ तुस सेभी बे चिठ्ठी लिखदी कीबे बेशी
+1	सोचा	_	VERB	VM	_	0	root	_	_
+2	होले	_	ADV	RB	_	1	advmod	_	_
+3	की	_	SCONJ	CC	_	1	mark	_	_
+4	एक	_	NUM	QC	_	5	nummod	_	_
+5	साल	_	NOUN	NN	_	7	obl	_	_
+6	बाद	_	ADP	PSP	_	5	case	_	_
+7	आख़िर	_	ADV	RB	_	9	advmod	_	_
+8	हाँऊ	_	PRON	PRP	_	9	nsubj	_	_
+9	तुस	_	PRON	PRP	_	12	iobj	_	_
+10	सेभी	_	PRON	PRP	_	12	obj	_	_
+11	बे	_	ADP	PSP	_	10	case	_	_
+12	चिठ्ठी	_	NOUN	NN	_	13	obj	_	_
+13	लिखदी	_	VERB	VM	_	1	ccomp	_	_
+14	कीबे	_	ADV	RB	_	13	advmod	_	_
+15	बेशी	_	AUX	VAUX	_	13	aux	_	_
+
+# sent_id = 418
+# text = मता डोरे एंडा किच्छ भी नूया नी घटी रा
+1	मता	_	ADV	RB	_	6	advmod	_	_
+2	डोरे	_	ADV	RB	_	6	advmod	_	_
+3	एंडा	_	ADJ	JJ	_	4	amod	_	_
+4	किच्छ	_	PRON	PRP	_	6	nsubj	_	_
+5	भी	_	PART	RP	_	4	advmod	_	_
+6	नूया	_	ADJ	JJ	_	0	root	_	_
+7	नी	_	PART	NEG	_	6	advmod	_	_
+8	घटी	_	VERB	VM	_	6	aux	_	_
+9	रा	_	AUX	VAUX	_	6	aux	_	_
+
+# sent_id = 419
+# text = किच्छ नुआ होई भी की सक सा
+1	किच्छ	_	PRON	PRP	_	3	nsubj	_	_
+2	नुआ	_	ADJ	JJ	_	3	xcomp	_	_
+3	होई	_	VERB	VM	_	0	root	_	_
+4	भी	_	PART	RP	_	3	advmod	_	_
+5	की	_	PRON	PRP	_	6	nsubj	_	_
+6	सक	_	VERB	VM	_	3	conj	_	_
+7	सा	_	AUX	VAUX	_	6	aux	_	_
+
+# sent_id = 420
+# text = तोभे पता सा न बंबई न बरसात रा मौसम शुरू हुई रा
+1	तोभे	_	PRON	PRP	_	2	iobj	_	_
+2	पता	_	NOUN	NN	_	3	nsubj	_	_
+3	सा	_	AUX	VAUX	_	0	root	_	_
+4	न	_	ADP	PSP	_	5	case	_	_
+5	बंबई	_	PROPN	NNP	_	8	obl	_	_
+6	न	_	ADP	PSP	_	7	case	_	_
+7	बरसात	_	NOUN	NN	_	8	nmod	_	_
+8	रा	_	ADP	PSP	_	9	case	_	_
+9	मौसम	_	NOUN	NN	_	10	nsubj	_	_
+10	शुरू	_	ADJ	JJ	_	3	ccomp	_	_
+11	हुई	_	VERB	VM	_	10	aux	_	_
+12	रा	_	AUX	VAUX	_	10	aux	_	_
+
+# sent_id = 421
+# text = होर मूमे जूनी री डोर थी सोए हुआ
+1	होर	_	CCONJ	CC	_	5	cc	_	_
+2	मूमे	_	PRON	PRP	_	5	nsubj	_	_
+3	जूनी	_	NOUN	NN	_	4	nmod	_	_
+4	री	_	ADP	PSP	_	3	case	_	_
+5	डोर	_	NOUN	NN	_	0	root	_	_
+6	थी	_	AUX	VAUX	_	5	aux	_	_
+7	सोए	_	ADV	RB	_	5	advmod	_	_
+8	हुआ	_	VERB	VM	_	5	aux	_	_
+
+# sent_id = 422
+# text = बस ए यादा सी तौ संगे बोंडना चाह थी
+1	बस	_	ADV	RB	_	5	advmod	_	_
+2	ए	_	PRON	PRP	_	3	det	_	_
+3	यादा	_	NOUN	NN	_	5	obj	_	_
+4	सी	_	ADP	PSP	_	3	case	_	_
+5	तौ	_	PRON	PRP	_	7	obl	_	_
+6	संगे	_	ADP	PSP	_	5	case	_	_
+7	बोंडना	_	VERB	VM	_	0	root	_	_
+8	चाह	_	VERB	VM	_	7	aux	_	_
+9	थी	_	AUX	VAUX	_	7	aux	_	_
+
+# sent_id = 423
+# text = बाबला होर मू न होड़ लागी थी की कुनी केतरे जादा केंचुए मारे
+1	बाबला	_	NOUN	NN	_	4	vocative	_	_
+2	होर	_	CCONJ	CC	_	4	cc	_	_
+3	मू	_	PRON	PRP	_	4	nsubj	_	_
+4	न	_	PART	NEG	_	5	advmod	_	_
+5	होड़	_	NOUN	NN	_	6	obl	_	_
+6	लागी	_	VERB	VM	_	0	root	_	_
+7	थी	_	AUX	VAUX	_	6	aux	_	_
+8	की	_	SCONJ	CC	_	6	mark	_	_
+9	कुनी	_	PRON	PRP	_	12	nsubj	_	_
+10	केतरे	_	ADV	RB	_	12	advmod	_	_
+11	जादा	_	ADV	RB	_	12	advmod	_	_
+12	केंचुए	_	NOUN	NN	_	6	ccomp	_	_
+13	मारे	_	VERB	VM	_	12	aux	_	_
+
+# sent_id = 424
+# text = बाबला ता एक एक केंचुए पंदे मुठी भोरी भोरी लून पा थी
+1	बाबला	_	NOUN	NN	_	11	nsubj	_	_
+2	ता	_	PART	RP	_	1	discourse	_	_
+3	एक	_	NUM	QC	_	4	nummod	_	_
+4	एक	_	NUM	QC	_	5	nummod	_	_
+5	केंचुए	_	NOUN	NN	_	11	obl	_	_
+6	पंदे	_	ADP	PSP	_	5	case	_	_
+7	मुठी	_	NOUN	NN	_	8	nmod	_	_
+8	भोरी	_	ADV	RB	_	11	advmod	_	_
+9	भोरी	_	ADV	RB	_	8	conj	_	_
+10	लून	_	NOUN	NN	_	11	obj	_	_
+11	पा	_	VERB	VM	_	0	root	_	_
+12	थी	_	AUX	VAUX	_	11	aux	_	_
+
+# sent_id = 425
+# text = ओज मुमे लागा सा बाबा तू ठीक बोला थी
+1	ओज	_	ADV	RB	_	3	advmod	_	_
+2	मुमे	_	PRON	PRP	_	3	nsubj	_	_
+3	लागा	_	VERB	VM	_	0	root	_	_
+4	सा	_	AUX	VAUX	_	3	aux	_	_
+5	बाबा	_	NOUN	NN	_	7	vocative	_	_
+6	तू	_	PRON	PRP	_	7	nsubj	_	_
+7	ठीक	_	ADJ	JJ	_	3	ccomp	_	_
+8	बोला	_	VERB	VM	_	7	aux	_	_
+9	थी	_	AUX	VAUX	_	7	aux	_	_
+
+# sent_id = 426
+# text = हत्या चाहे माहनु री हो या पशु री हत्या ता हत्या सा
+1	हत्या	_	NOUN	NN	_	11	nsubj	_	_
+2	चाहे	_	CCONJ	CC	_	5	cc	_	_
+3	माहनु	_	NOUN	NN	_	5	nmod	_	_
+4	री	_	ADP	PSP	_	3	case	_	_
+5	हो	_	VERB	VM	_	1	acl	_	_
+6	या	_	CCONJ	CC	_	8	cc	_	_
+7	पशु	_	NOUN	NN	_	8	nmod	_	_
+8	री	_	ADP	PSP	_	7	case	_	_
+9	हत्या	_	NOUN	NN	_	10	nsubj	_	_
+10	ता	_	PART	RP	_	11	discourse	_	_
+11	हत्या	_	NOUN	NN	_	0	root	_	_
+12	सा	_	AUX	VAUX	_	11	aux	_	_
+
+# sent_id = 427
+# text = ए मेरे ब्याह न बाद की पोंजउई बरसात सा
+1	ए	_	PRON	PRP	_	7	nsubj	_	_
+2	मेरे	_	PRON	PRP	_	3	det:poss	_	_
+3	ब्याह	_	NOUN	NN	_	5	nmod	_	_
+4	न	_	ADP	PSP	_	3	case	_	_
+5	बाद	_	NOUN	NN	_	7	obl	_	_
+6	की	_	ADP	PSP	_	5	case	_	_
+7	पोंजउई	_	ADJ	JJ	_	8	amod	_	_
+8	बरसात	_	NOUN	NN	_	9	nsubj	_	_
+9	सा	_	AUX	VAUX	_	0	root	_	_
+
+# sent_id = 428
+# text = बरसात रे ठीक पहले तें मेरा बयाह कराऊ थी
+1	बरसात	_	NOUN	NN	_	4	obl	_	_
+2	रे	_	ADP	PSP	_	1	case	_	_
+3	ठीक	_	ADV	RB	_	4	advmod	_	_
+4	पहले	_	ADV	RB	_	7	advmod	_	_
+5	तें	_	PRON	PRP	_	7	nsubj	_	_
+6	मेरा	_	PRON	PRP	_	7	obj	_	_
+7	बयाह	_	VERB	VM	_	0	root	_	_
+8	कराऊ	_	VERB	VM	_	7	aux	_	_
+9	थी	_	AUX	VAUX	_	7	aux	_	_
+
+# sent_id = 429
+# text = इतरे माहनु ता मैं आपने पूरे ग्रां न नि हेरे थी
+1	इतरे	_	ADV	RB	_	2	advmod	_	_
+2	माहनु	_	NOUN	NN	_	8	obl	_	_
+3	ता	_	PART	RP	_	2	discourse	_	_
+4	मैं	_	PRON	PRP	_	8	nsubj	_	_
+5	आपने	_	PRON	PRP	_	7	det:poss	_	_
+6	पूरे	_	ADJ	JJ	_	7	amod	_	_
+7	ग्रां	_	NOUN	NN	_	8	obl	_	_
+8	न	_	ADP	PSP	_	9	case	_	_
+9	नि	_	PART	NEG	_	10	advmod	_	_
+10	हेरे	_	VERB	VM	_	0	root	_	_
+11	थी	_	AUX	VAUX	_	10	aux	_	_
+
+# sent_id = 430
+# text = तदी हाँऊ बोहु ख़ुश थी
+1	तदी	_	ADV	RB	_	4	advmod	_	_
+2	हाँऊ	_	PRON	PRP	_	4	nsubj	_	_
+3	बोहु	_	ADV	RB	_	4	advmod	_	_
+4	ख़ुश	_	ADJ	JJ	_	0	root	_	_
+5	थी	_	AUX	VAUX	_	4	aux	_	_
+
+# sent_id = 431
+# text = मूमे लागू मेरा बाँकुड़ा मेरे घुंडू न बोनू होंदा मू संगे संगे उंढदा लागा।
+1	मूमे	_	PRON	PRP	_	2	nsubj	_	_
+2	लागू	_	VERB	VM	_	0	root	_	_
+3	मेरा	_	PRON	PRP	_	4	det:poss	_	_
+4	बाँकुड़ा	_	NOUN	NN	_	8	nsubj	_	_
+5	मेरे	_	PRON	PRP	_	6	det:poss	_	_
+6	घुंडू	_	NOUN	NN	_	8	obl	_	_
+7	न	_	ADP	PSP	_	6	case	_	_
+8	बोनू	_	VERB	VM	_	2	ccomp	_	_
+9	होंदा	_	VERB	VM	_	8	aux	_	_
+10	मू	_	PRON	PRP	_	12	obl	_	_
+11	संगे	_	ADP	PSP	_	10	case	_	_
+12	संगे	_	ADV	RB	_	13	advmod	_	_
+13	उंढदा	_	VERB	VM	_	8	conj	_	_
+14	लागा	_	AUX	VAUX	_	13	aux	_	_
