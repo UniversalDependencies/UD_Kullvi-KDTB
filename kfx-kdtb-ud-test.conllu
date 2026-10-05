@@ -202,8 +202,7 @@
 8	कोम	_	NOUN	NN	_	10	nsubj	_	_
 9	किच्छ	_	PRON	PRP	_	10	obj	_	_
 10	नी	_	PART	NEG	_	11	advmod	_	_
-11	केरू	_	VERB	VM	_	0	root	_	SpaceAfter=No
-12	।	_	PUNCT	SYM	_	11	punct	_	_
+11	केरू	_	VERB	VM	_	0	root	_	_
 
 # sent_id = 20
 # text = कुल्लू मनाली बड़ा फेमस सा ओखे दूर दूर न लोका एजा सी घुमदे ।
@@ -260,8 +259,8 @@
 8	खतरा	_	NOUN	NN	_	9	obj	_	_
 9	हो	_	VERB	VM	_	4	conj	_	_
 10	सा	_	AUX	VAUX	_	9	aux	_	_
-11	बरसात	_	NOUN	NN	_	12	nmod	_	_
-12	न	_	ADP	PSP	_	9	case	_	_
+11	बरसात	_	NOUN	NN	_	9	nmod	_	_
+12	न	_	ADP	PSP	_	11	case	_	_
 13	।	_	PUNCT	SYM	_	4	punct	_	_
 
 # sent_id = 24
@@ -309,7 +308,7 @@
 5	मुश्किल	_	ADJ	JJ	_	6	xcomp	_	_
 6	होआ	_	VERB	VM	_	0	root	_	_
 7	सा	_	AUX	VAUX	_	6	aux	_	_
-8	टांगा	_	NOUN	NN	_	9	obl	_	_
+8	टांगा	_	NOUN	NN	_	6	obl	_	_
 9	थकी	_	ADP	PSP	_	8	case	_	_
 10	।	_	PUNCT	SYM	_	6	punct	_	_
 
