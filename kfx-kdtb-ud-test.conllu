@@ -23,7 +23,7 @@
 
 # sent_id = 4
 # text = मेरे पाहुने लोड़ी आए
-1	मेरे	_	PRON	PRP	_	2	det:poss	_	_
+1	मेरे	_	PRON	PRP	_	2	det	_	_
 2	पाहुने	_	NOUN	NN	_	4	nsubj	_	_
 3	लोड़ी	_	VERB	VM	_	4	advmod	_	_
 4	आए	_	VERB	VM	_	0	root	_	_
@@ -42,8 +42,8 @@
 1	आसे	_	PRON	PRP	_	2	nsubj	_	_
 2	रोहा	_	VERB	VM	_	0	root	_	_
 3	सी	_	AUX	VAUX	_	2	aux	_	_
-4	हिमाचल	_	PROPN	NNP	_	6	compound	_	_
-5	प्रदेश	_	PROPN	NNP	_	6	compound	_	_
+4	हिमाचल	_	PROPN	NNP	_	5	compound	_	_
+5	प्रदेश	_	PROPN	NNP	_	8	compound	_	_
 6	रे	_	ADP	PSP	_	8	case	_	_
 7	कुल्लू	_	PROPN	NNP	_	8	compound	_	_
 8	ज़िला	_	NOUN	NN	_	2	obl	_	_
@@ -67,7 +67,7 @@
 5	जगह	_	NOUN	NN	_	6	nsubj	_	_
 6	सा	_	VERB	VM	_	0	root	_	_
 7	घूमने	_	VERB	VM	_	6	advcl	_	_
-8	बे	_	PART	RP	_	6	discourse	_	SpaceAfter=No
+8	बे	_	PART	RP	_	6	discourse	_	_
 9	।	_	PUNCT	SYM	_	6	punct	_	_
 
 # sent_id = 9
@@ -80,7 +80,7 @@
 6	किच्छ	_	PRON	PRP	_	7	nsubj	_	_
 7	बीमार	_	ADJ	JJ	_	0	root	_	_
 8	होआ	_	VERB	VM	_	7	xcomp	_	_
-9	सी	_	AUX	VAUX	_	8	aux	_	SpaceAfter=No
+9	सी	_	AUX	VAUX	_	8	aux	_	_
 10	।	_	PUNCT	SYM	_	7	punct	_	_
 
 # sent_id = 10
@@ -104,7 +104,7 @@
 3	ज्ञान	_	NOUN	NN	_	4	nsubj	_	_
 4	आपू	_	VERB	VM	_	0	root	_	_
 5	बे	_	PART	RP	_	4	discourse	_	_
-6	गोशटे	_	NOUN	NN	_	4	obj	_	SpaceAfter=No
+6	गोशटे	_	NOUN	NN	_	4	obj	_	_
 7	।	_	PUNCT	SYM	_	4	punct	_	_
 
 # sent_id = 12
