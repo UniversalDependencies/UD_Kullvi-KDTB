@@ -4835,789 +4835,791 @@
 
 # sent_id = 351
 # text = फिरी सो होसू जो की होसी न जादा एक कराह थी होर बोलू चोला
-1	फिरी	_	ADV	RB	_	_	_	_	_
-2	सो	_	PRON	PRP	_	_	_	_	_
-3	होसू	_	VERB	VM	_	_	_	_	_
-4	जो	_	PRON	PRP	_	_	_	_	_
-5	की	_	SCONJ	CC	_	_	_	_	_
-6	होसी	_	VERB	VM	_	_	_	_	_
-7	न	_	PART	NEG	_	_	_	_	_
-8	जादा	_	ADV	RB	_	_	_	_	_
-9	एक	_	NUM	QC	_	_	_	_	_
-10	कराह	_	NOUN	NN	_	_	_	_	_
-11	थी	_	AUX	VAUX	_	_	_	_	_
-12	होर	_	CCONJ	CC	_	_	_	_	_
-13	बोलू	_	VERB	VM	_	_	_	_	_
-14	चोला	_	VERB	VM	_	_	_	_	_
+1	फिरी	_	ADV	RB	_	3	advmod	_	_
+2	सो	_	PRON	PRP	_	3	nsubj	_	_
+3	होसू	_	VERB	VM	_	0	root	_	_
+4	जो	_	PRON	PRP	_	10	nsubj	_	_
+5	की	_	SCONJ	CC	_	10	mark	_	_
+6	होसी	_	VERB	VM	_	10	advcl	_	_
+7	न	_	PART	NEG	_	6	advmod	_	_
+8	जादा	_	ADV	RB	_	10	advmod	_	_
+9	एक	_	NUM	QC	_	10	nummod	_	_
+10	कराह	_	NOUN	NN	_	11	nsubj	_	_
+11	थी	_	AUX	VAUX	_	3	acl	_	_
+12	होर	_	CCONJ	CC	_	13	cc	_	_
+13	बोलू	_	VERB	VM	_	3	conj	_	_
+14	चोला	_	VERB	VM	_	13	xcomp	_	_
 
 # sent_id = 352
 # text = तेई बोलू गल एंडी सा की मू आगे दुआई सा
-1	तेई	_	PRON	PRP	_	_	_	_	_
-2	बोलू	_	VERB	VM	_	_	_	_	_
-3	गल	_	NOUN	NN	_	_	_	_	_
-4	एंडी	_	ADV	RB	_	_	_	_	_
-5	सा	_	AUX	VAUX	_	_	_	_	_
-6	की	_	SCONJ	CC	_	_	_	_	_
-7	मू	_	PRON	PRP	_	_	_	_	_
-8	आगे	_	ADV	RB	_	_	_	_	_
-9	दुआई	_	NOUN	NN	_	_	_	_	_
-10	सा	_	AUX	VAUX	_	_	_	_	_
+1	तेई	_	PRON	PRP	_	2	nsubj	_	_
+2	बोलू	_	VERB	VM	_	0	root	_	_
+3	गल	_	NOUN	NN	_	5	nsubj	_	_
+4	एंडी	_	ADV	RB	_	5	advmod	_	_
+5	सा	_	AUX	VAUX	_	2	ccomp	_	_
+6	की	_	SCONJ	CC	_	10	mark	_	_
+7	मू	_	PRON	PRP	_	10	obl	_	_
+8	आगे	_	ADV	RB	_	10	advmod	_	_
+9	दुआई	_	NOUN	NN	_	10	nsubj	_	_
+10	सा	_	AUX	VAUX	_	5	ccomp	_	_
 
 # sent_id = 353
 # text = गणेश रे जाने न बाद हाऊँ परेशान हुआ
-1	गणेश	_	PROPN	NNP	_	_	_	_	_
-2	रे	_	ADP	PSP	_	_	_	_	_
-3	जाने	_	VERB	VM	_	_	_	_	_
-4	न	_	ADP	PSP	_	_	_	_	_
-5	बाद	_	NOUN	NN	_	_	_	_	_
-6	हाऊँ	_	PRON	PRP	_	_	_	_	_
-7	परेशान	_	ADJ	JJ	_	_	_	_	_
-8	हुआ	_	VERB	VM	_	_	_	_	_
+1	गणेश	_	PROPN	NNP	_	3	nsubj	_	_
+2	रे	_	ADP	PSP	_	1	case	_	_
+3	जाने	_	VERB	VM	_	5	acl	_	_
+4	न	_	ADP	PSP	_	3	case	_	_
+5	बाद	_	NOUN	NN	_	8	obl	_	_
+6	हाऊँ	_	PRON	PRP	_	8	nsubj	_	_
+7	परेशान	_	ADJ	JJ	_	8	xcomp	_	_
+8	हुआ	_	VERB	VM	_	0	root	_	_
 
 # sent_id = 354
 # text = मैं सोचू की गणेश मुमे न याद आऊ न हेरूआ
-1	मैं	_	PRON	PRP	_	_	_	_	_
-2	सोचू	_	VERB	VM	_	_	_	_	_
-3	की	_	SCONJ	CC	_	_	_	_	_
-4	गणेश	_	PROPN	NNP	_	_	_	_	_
-5	मुमे	_	PRON	PRP	_	_	_	_	_
-6	न	_	PART	NEG	_	_	_	_	_
-7	याद	_	NOUN	NN	_	_	_	_	_
-8	आऊ	_	VERB	VM	_	_	_	_	_
-9	न	_	PART	NEG	_	_	_	_	_
-10	हेरूआ	_	VERB	VM	_	_	_	_	_
+1	मैं	_	PRON	PRP	_	2	nsubj	_	_
+2	सोचू	_	VERB	VM	_	0	root	_	_
+3	की	_	SCONJ	CC	_	8	mark	_	_
+4	गणेश	_	PROPN	NNP	_	8	nsubj	_	_
+5	मुमे	_	PRON	PRP	_	8	obl	_	_
+6	न	_	PART	NEG	_	8	advmod	_	_
+7	याद	_	NOUN	NN	_	8	obj	_	_
+8	आऊ	_	VERB	VM	_	2	ccomp	_	_
+9	न	_	PART	NEG	_	10	advmod	_	_
+10	हेरूआ	_	VERB	VM	_	8	conj	_	_
 
 # sent_id = 355
 # text = मैं सोचू की गणेश न बचना
-1	मैं	_	PRON	PRP	_	_	_	_	_
-2	सोचू	_	VERB	VM	_	_	_	_	_
-3	की	_	SCONJ	CC	_	_	_	_	_
-4	गणेश	_	PROPN	NNP	_	_	_	_	_
-5	न	_	ADP	PSP	_	_	_	_	_
-6	बचना	_	VERB	VM	_	_	_	_	_
+1	मैं	_	PRON	PRP	_	2	nsubj	_	_
+2	सोचू	_	VERB	VM	_	0	root	_	_
+3	की	_	SCONJ	CC	_	6	mark	_	_
+4	गणेश	_	PROPN	NNP	_	6	obl	_	_
+5	न	_	ADP	PSP	_	4	case	_	_
+6	बचना	_	VERB	VM	_	2	ccomp	_	_
 
 # sent_id = 356
 # text = हाऊँ निर्णय केरी भी मनुस
-1	हाऊँ	_	PRON	PRP	_	_	_	_	_
-2	निर्णय	_	NOUN	NN	_	_	_	_	_
-3	केरी	_	VERB	VM	_	_	_	_	_
-4	भी	_	PART	RP	_	_	_	_	_
-5	मनुस	_	NOUN	NN	_	_	_	_	_
+1	हाऊँ	_	PRON	PRP	_	3	nsubj	_	_
+2	निर्णय	_	NOUN	NN	_	3	obj	_	_
+3	केरी	_	VERB	VM	_	0	root	_	_
+4	भी	_	PART	RP	_	3	discourse	_	_
+5	मनुस	_	NOUN	NN	_	3	dep	_	_
 
 # sent_id = 357
 # text = हाऊँ बाहर निकली न बाद भी वापस कॉफ़ी हाउंस न पूजू होर बेशू
-1	हाऊँ	_	PRON	PRP	_	_	_	_	_
-2	बाहर	_	ADV	RB	_	_	_	_	_
-3	न	_	ADP	PSP	_	_	_	_	_
-4	बाद	_	NOUN	NN	_	_	_	_	_
-5	भी	_	PART	RP	_	_	_	_	_
-6	वापस	_	ADV	RB	_	_	_	_	_
-7	कॉफ़ी	_	NOUN	NN	_	_	_	_	_
-8	हाउंस	_	NOUN	NN	_	_	_	_	_
-9	न	_	ADP	PSP	_	_	_	_	_
-10	पूजू	_	VERB	VM	_	_	_	_	_
-11	होर	_	CCONJ	CC	_	_	_	_	_
-12	बेशू	_	VERB	VM	_	_	_	_	_
+1	हाऊँ	_	PRON	PRP	_	10	nsubj	_	_
+2	बाहर	_	ADV	RB	_	10	advmod	_	_
+3	न	_	ADP	PSP	_	2	case	_	_
+4	बाद	_	NOUN	NN	_	10	obl	_	_
+5	भी	_	PART	RP	_	4	discourse	_	_
+6	वापस	_	ADV	RB	_	10	advmod	_	_
+7	कॉफ़ी	_	NOUN	NN	_	8	compound	_	_
+8	हाउंस	_	NOUN	NN	_	10	obl	_	_
+9	न	_	ADP	PSP	_	8	case	_	_
+10	पूजू	_	VERB	VM	_	0	root	_	_
+11	होर	_	CCONJ	CC	_	12	cc	_	_
+12	बेशू	_	VERB	VM	_	10	conj	_	_
 
 # sent_id = 358
 # text = तेबे न फेटे हाऊँ ए समझी बेशू
-1	तेबे	_	ADV	RB	_	_	_	_	_
-2	न	_	ADP	PSP	_	_	_	_	_
-3	फेटे	_	ADV	RB	_	_	_	_	_
-4	हाऊँ	_	PRON	PRP	_	_	_	_	_
-5	ए	_	PRON	PRP	_	_	_	_	_
-6	समझी	_	VERB	VM	_	_	_	_	_
-7	बेशू	_	VERB	VM	_	_	_	_	_
+1	तेबे	_	ADV	RB	_	6	advmod	_	_
+2	न	_	ADP	PSP	_	1	case	_	_
+3	फेटे	_	ADV	RB	_	6	advmod	_	_
+4	हाऊँ	_	PRON	PRP	_	6	nsubj	_	_
+5	ए	_	PRON	PRP	_	6	obj	_	_
+6	समझी	_	VERB	VM	_	0	root	_	_
+7	बेशू	_	VERB	VM	_	6	xcomp	_	_
 
 # sent_id = 359
 # text = ए सतीश संगे मेरा पुनर्मिलन हुआ
-1	ए	_	PRON	PRP	_	_	_	_	_
-2	सतीश	_	PROPN	NNP	_	_	_	_	_
-3	संगे	_	ADP	PSP	_	_	_	_	_
-4	मेरा	_	PRON	PRP	_	_	_	_	_
-5	पुनर्मिलन	_	NOUN	NN	_	_	_	_	_
-6	हुआ	_	VERB	VM	_	_	_	_	_
+1	ए	_	PRON	PRP	_	5	det	_	_
+2	सतीश	_	PROPN	NNP	_	5	nmod	_	_
+3	संगे	_	ADP	PSP	_	2	case	_	_
+4	मेरा	_	PRON	PRP	_	5	det	_	_
+5	पुनर्मिलन	_	NOUN	NN	_	6	nsubj	_	_
+6	हुआ	_	VERB	VM	_	0	root	_	_
 
 # sent_id = 360
 # text = पहला साथी सा होर सेभी न लोंबा टाइम तेई संगे बीतू
-1	पहला	_	ADJ	JJ	_	_	_	_	_
-2	साथी	_	NOUN	NN	_	_	_	_	_
-3	सा	_	AUX	VAUX	_	_	_	_	_
-4	होर	_	CCONJ	CC	_	_	_	_	_
-5	सेभी	_	ADV	RB	_	_	_	_	_
-6	न	_	ADP	PSP	_	_	_	_	_
-7	लोंबा	_	ADJ	JJ	_	_	_	_	_
-8	टाइम	_	NOUN	NN	_	_	_	_	_
-9	तेई	_	PRON	PRP	_	_	_	_	_
-10	संगे	_	ADP	PSP	_	_	_	_	_
-11	बीतू	_	VERB	VM	_	_	_	_	_
+1	पहला	_	ADJ	JJ	_	2	amod	_	_
+2	साथी	_	NOUN	NN	_	3	nsubj	_	_
+3	सा	_	AUX	VAUX	_	0	root	_	_
+4	होर	_	CCONJ	CC	_	11	cc	_	_
+5	सेभी	_	ADV	RB	_	8	advmod	_	_
+6	न	_	ADP	PSP	_	5	case	_	_
+7	लोंबा	_	ADJ	JJ	_	8	amod	_	_
+8	टाइम	_	NOUN	NN	_	11	nsubj	_	_
+9	तेई	_	PRON	PRP	_	11	obl	_	_
+10	संगे	_	ADP	PSP	_	9	case	_	_
+11	बीतू	_	VERB	VM	_	3	conj	_	_
 
 # sent_id = 361
 # text = पर दुई वजह संगे मेरी तेईरी खटकी
-1	पर	_	CCONJ	CC	_	_	_	_	_
-2	दुई	_	NUM	QC	_	_	_	_	_
-3	वजह	_	NOUN	NN	_	_	_	_	_
-4	संगे	_	ADP	PSP	_	_	_	_	_
-5	मेरी	_	PRON	PRP	_	_	_	_	_
-6	तेईरी	_	PRON	PRP	_	_	_	_	_
-7	खटकी	_	VERB	VM	_	_	_	_	_
+1	पर	_	CCONJ	CC	_	7	cc	_	_
+2	दुई	_	NUM	QC	_	3	nummod	_	_
+3	वजह	_	NOUN	NN	_	7	obl	_	_
+4	संगे	_	ADP	PSP	_	3	case	_	_
+5	मेरी	_	PRON	PRP	_	7	nsubj	_	_
+6	तेईरी	_	PRON	PRP	_	7	obl	_	_
+7	खटकी	_	VERB	VM	_	0	root	_	_
 
 # sent_id = 362
 # text = तू अंडरवियर छोड़ी आ सेभ चीज़ा मुफ़्त वसूला सी
-1	तू	_	PRON	PRP	_	_	_	_	_
-2	अंडरवियर	_	NOUN	NN	_	_	_	_	_
-3	छोड़ी	_	VERB	VM	_	_	_	_	_
-4	आ	_	AUX	VAUX	_	_	_	_	_
-5	सेभ	_	ADV	RB	_	_	_	_	_
-6	चीज़ा	_	NOUN	NN	_	_	_	_	_
-7	मुफ़्त	_	ADV	RB	_	_	_	_	_
-8	वसूला	_	VERB	VM	_	_	_	_	_
-9	सी	_	AUX	VAUX	_	_	_	_	_
+1	तू	_	PRON	PRP	_	8	nsubj	_	_
+2	अंडरवियर	_	NOUN	NN	_	3	obj	_	_
+3	छोड़ी	_	VERB	VM	_	8	advcl	_	_
+4	आ	_	AUX	VAUX	_	3	aux	_	_
+5	सेभ	_	PRON	PRP	_	6	det	_	_
+6	चीज़ा	_	NOUN	NN	_	8	obj	_	_
+7	मुफ़्त	_	ADV	RB	_	8	advmod	_	_
+8	वसूला	_	VERB	VM	_	0	root	_	_
+9	सी	_	AUX	VAUX	_	8	aux	_	_
 
 # sent_id = 363
 # text = पुनर्मिलन न बाद सतीश हर रोज़ मेरी वजह संगे दुई चार मिंट बे ज़रूर एज़ा सा
-1	पुनर्मिलन	_	NOUN	NN	_	_	_	_	_
-2	न	_	ADP	PSP	_	_	_	_	_
-3	बाद	_	NOUN	NN	_	_	_	_	_
-4	सतीश	_	PROPN	NNP	_	_	_	_	_
-5	हर	_	ADJ	JJ	_	_	_	_	_
-6	रोज़	_	NOUN	NN	_	_	_	_	_
-7	मेरी	_	PRON	PRP	_	_	_	_	_
-8	वजह	_	NOUN	NN	_	_	_	_	_
-9	संगे	_	ADP	PSP	_	_	_	_	_
-10	दुई	_	NUM	QC	_	_	_	_	_
-11	चार	_	NUM	QC	_	_	_	_	_
-12	मिंट	_	NOUN	NN	_	_	_	_	_
-13	बे	_	ADP	PSP	_	_	_	_	_
-14	ज़रूर	_	ADV	RB	_	_	_	_	_
-15	एज़ा	_	VERB	VM	_	_	_	_	_
-16	सा	_	AUX	VAUX	_	_	_	_	_
+1	पुनर्मिलन	_	NOUN	NN	_	3	nmod	_	_
+2	न	_	ADP	PSP	_	1	case	_	_
+3	बाद	_	NOUN	NN	_	15	obl	_	_
+4	सतीश	_	PROPN	NNP	_	15	nsubj	_	_
+5	हर	_	ADJ	JJ	_	6	amod	_	_
+6	रोज़	_	NOUN	NN	_	15	obl	_	_
+7	मेरी	_	PRON	PRP	_	8	det	_	_
+8	वजह	_	NOUN	NN	_	15	obl	_	_
+9	संगे	_	ADP	PSP	_	8	case	_	_
+10	दुई	_	NUM	QC	_	12	nummod	_	_
+11	चार	_	NUM	QC	_	12	nummod	_	_
+12	मिंट	_	NOUN	NN	_	15	obl	_	_
+13	बे	_	ADP	PSP	_	12	case	_	_
+14	ज़रूर	_	ADV	RB	_	15	advmod	_	_
+15	एज़ा	_	VERB	VM	_	0	root	_	_
+16	सा	_	AUX	VAUX	_	15	aux	_	_
 
 # sent_id = 364
 # text = सो मेरा भला केरना चाह सा
-1	सो	_	PRON	PRP	_	_	_	_	_
-2	मेरा	_	PRON	PRP	_	_	_	_	_
-3	भला	_	NOUN	NN	_	_	_	_	_
-4	केरना	_	VERB	VM	_	_	_	_	_
-5	चाह	_	VERB	VM	_	_	_	_	_
-6	सा	_	AUX	VAUX	_	_	_	_	_
+1	सो	_	PRON	PRP	_	5	nsubj	_	_
+2	मेरा	_	PRON	PRP	_	3	det	_	_
+3	भला	_	NOUN	NN	_	4	obj	_	_
+4	केरना	_	VERB	VM	_	5	xcomp	_	_
+5	चाह	_	VERB	VM	_	0	root	_	_
+6	सा	_	AUX	VAUX	_	5	aux	_	_
 
 # sent_id = 365
 # text = सो बोलदा रोहा सा सनीचर न फसी रे
-1	सो	_	PRON	PRP	_	_	_	_	_
-2	बोलदा	_	VERB	VM	_	_	_	_	_
-3	रोहा	_	VERB	VM	_	_	_	_	_
-4	सा	_	AUX	VAUX	_	_	_	_	_
-5	सनीचर	_	NOUN	NN	_	_	_	_	_
-6	न	_	ADP	PSP	_	_	_	_	_
-7	फसी	_	VERB	VM	_	_	_	_	_
-8	रे	_	AUX	VAUX	_	_	_	_	_
+1	सो	_	PRON	PRP	_	3	nsubj	_	_
+2	बोलदा	_	VERB	VM	_	3	xcomp	_	_
+3	रोहा	_	VERB	VM	_	0	root	_	_
+4	सा	_	AUX	VAUX	_	3	aux	_	_
+5	सनीचर	_	NOUN	NN	_	7	obl	_	_
+6	न	_	ADP	PSP	_	5	case	_	_
+7	फसी	_	VERB	VM	_	3	ccomp	_	_
+8	रे	_	AUX	VAUX	_	7	aux	_	_
 
 # sent_id = 366
 # text = रेला आऊ होर मुमे जादा दियाउने भाव सी लागू की केला सा
-1	रेला	_	NOUN	NN	_	_	_	_	_
-2	आऊ	_	VERB	VM	_	_	_	_	_
-3	होर	_	CCONJ	CC	_	_	_	_	_
-4	मुमे	_	PRON	PRP	_	_	_	_	_
-5	जादा	_	ADV	RB	_	_	_	_	_
-6	दियाउने	_	ADJ	JJ	_	_	_	_	_
-7	भाव	_	NOUN	NN	_	_	_	_	_
-8	सी	_	AUX	VAUX	_	_	_	_	_
-9	लागू	_	VERB	VM	_	_	_	_	_
-10	की	_	SCONJ	CC	_	_	_	_	_
-11	केला	_	VERB	VM	_	_	_	_	_
-12	सा	_	AUX	VAUX	_	_	_	_	_
+1	रेला	_	NOUN	NN	_	2	nsubj	_	_
+2	आऊ	_	VERB	VM	_	0	root	_	_
+3	होर	_	CCONJ	CC	_	9	cc	_	_
+4	मुमे	_	PRON	PRP	_	9	obl	_	_
+5	जादा	_	ADV	RB	_	6	advmod	_	_
+6	दियाउने	_	ADJ	JJ	_	7	amod	_	_
+7	भाव	_	NOUN	NN	_	9	nsubj	_	_
+8	सी	_	ADP	PSP	_	7	case	_	_
+9	लागू	_	VERB	VM	_	2	conj	_	_
+10	की	_	SCONJ	CC	_	11	mark	_	_
+11	केला	_	VERB	VM	_	9	ccomp	_	_
+12	सा	_	AUX	VAUX	_	11	aux	_	_
 
 # sent_id = 367
 # text = ऐस ओछी जी कहवा पीने री जगह न जेतरे सी सेभ धुरंधर सी
-1	ऐस	_	PRON	PRP	_	_	_	_	_
-2	ओछी	_	ADJ	JJ	_	_	_	_	_
-3	जी	_	PART	RP	_	_	_	_	_
-4	कहवा	_	NOUN	NN	_	_	_	_	_
-5	पीने	_	VERB	VM	_	_	_	_	_
-6	री	_	ADP	PSP	_	_	_	_	_
-7	जगह	_	NOUN	NN	_	_	_	_	_
-8	न	_	ADP	PSP	_	_	_	_	_
-9	जेतरे	_	ADV	RB	_	_	_	_	_
-10	सी	_	AUX	VAUX	_	_	_	_	_
-11	सेभ	_	ADV	RB	_	_	_	_	_
-12	धुरंधर	_	ADJ	JJ	_	_	_	_	_
-13	सी	_	AUX	VAUX	_	_	_	_	_
+1	ऐस	_	PRON	PRP	_	7	det	_	_
+2	ओछी	_	ADJ	JJ	_	7	amod	_	_
+3	जी	_	PART	RP	_	2	discourse	_	_
+4	कहवा	_	NOUN	NN	_	5	obj	_	_
+5	पीने	_	VERB	VM	_	7	acl	_	_
+6	री	_	ADP	PSP	_	5	case	_	_
+7	जगह	_	NOUN	NN	_	10	obl	_	_
+8	न	_	ADP	PSP	_	7	case	_	_
+9	जेतरे	_	ADV	RB	_	10	advmod	_	_
+10	सी	_	AUX	VAUX	_	13	advcl	_	_
+11	सेभ	_	PRON	PRP	_	12	nsubj	_	_
+12	धुरंधर	_	ADJ	JJ	_	13	xcomp	_	_
+13	सी	_	AUX	VAUX	_	0	root	_	_
 
 # sent_id = 368
 # text = सेभ रे सेभ सहूलियत संगे आई रे
-1	सेभ	_	ADV	RB	_	_	_	_	_
-2	रे	_	ADP	PSP	_	_	_	_	_
-3	सेभ	_	ADV	RB	_	_	_	_	_
-4	सहूलियत	_	NOUN	NN	_	_	_	_	_
-5	संगे	_	ADP	PSP	_	_	_	_	_
-6	आई	_	VERB	VM	_	_	_	_	_
-7	रे	_	AUX	VAUX	_	_	_	_	_
+1	सेभ	_	PRON	PRP	_	3	nmod	_	_
+2	रे	_	ADP	PSP	_	1	case	_	_
+3	सेभ	_	PRON	PRP	_	6	nsubj	_	_
+4	सहूलियत	_	NOUN	NN	_	6	obl	_	_
+5	संगे	_	ADP	PSP	_	4	case	_	_
+6	आई	_	VERB	VM	_	0	root	_	_
+7	रे	_	AUX	VAUX	_	6	aux	_	_
 
 # sent_id = 369
 # text = आपणे आपणे फन टेबुलों पंदे पटकने लाये सी
-1	आपणे	_	PRON	PRP	_	_	_	_	_
-2	आपणे	_	PRON	PRP	_	_	_	_	_
-3	फन	_	NOUN	NN	_	_	_	_	_
-4	टेबुलों	_	NOUN	NN	_	_	_	_	_
-5	पंदे	_	ADP	PSP	_	_	_	_	_
-6	पटकने	_	VERB	VM	_	_	_	_	_
-7	लाये	_	VERB	VM	_	_	_	_	_
-8	सी	_	AUX	VAUX	_	_	_	_	_
+1	आपणे	_	PRON	PRP	_	3	det	_	_
+2	आपणे	_	PRON	PRP	_	1	fixed	_	_
+3	फन	_	NOUN	NN	_	6	obj	_	_
+4	टेबुलों	_	NOUN	NN	_	6	obl	_	_
+5	पंदे	_	ADP	PSP	_	4	case	_	_
+6	पटकने	_	VERB	VM	_	7	xcomp	_	_
+7	लाये	_	VERB	VM	_	0	root	_	_
+8	सी	_	AUX	VAUX	_	7	aux	_	_
 
 # sent_id = 370
 # text = हाऊँ केला सा नी ता आपणा फन भी पटकदा
-1	हाऊँ	_	PRON	PRP	_	_	_	_	_
-2	केला	_	VERB	VM	_	_	_	_	_
-3	सा	_	AUX	VAUX	_	_	_	_	_
-4	नी	_	PART	NEG	_	_	_	_	_
-5	ता	_	PART	RP	_	_	_	_	_
-6	आपणा	_	PRON	PRP	_	_	_	_	_
-7	फन	_	NOUN	NN	_	_	_	_	_
-8	भी	_	PART	RP	_	_	_	_	_
-9	पटकदा	_	VERB	VM	_	_	_	_	_
+1	हाऊँ	_	PRON	PRP	_	2	nsubj	_	_
+2	केला	_	VERB	VM	_	0	root	_	_
+3	सा	_	AUX	VAUX	_	2	aux	_	_
+4	नी	_	PART	NEG	_	2	advmod	_	_
+5	ता	_	PART	RP	_	9	discourse	_	_
+6	आपणा	_	PRON	PRP	_	7	det	_	_
+7	फन	_	NOUN	NN	_	9	obj	_	_
+8	भी	_	PART	RP	_	7	discourse	_	_
+9	पटकदा	_	VERB	VM	_	2	conj	_	_
 
 # sent_id = 371
 # text = ता चोला बार नीम रे दरख़्त रे बुने बेशना या रेलिंग पंदे टिकना
-1	ता	_	PART	RP	_	_	_	_	_
-2	चोला	_	VERB	VM	_	_	_	_	_
-3	बार	_	NOUN	NN	_	_	_	_	_
-4	नीम	_	NOUN	NN	_	_	_	_	_
-5	रे	_	ADP	PSP	_	_	_	_	_
-6	दरख़्त	_	NOUN	NN	_	_	_	_	_
-7	रे	_	ADP	PSP	_	_	_	_	_
-8	बुने	_	ADP	PSP	_	_	_	_	_
-9	बेशना	_	VERB	VM	_	_	_	_	_
-10	या	_	CCONJ	CC	_	_	_	_	_
-11	रेलिंग	_	NOUN	NN	_	_	_	_	_
-12	पंदे	_	ADP	PSP	_	_	_	_	_
-13	टिकना	_	VERB	VM	_	_	_	_	_
+1	ता	_	PART	RP	_	2	discourse	_	_
+2	चोला	_	VERB	VM	_	0	root	_	_
+3	बार	_	NOUN	NN	_	9	obl	_	_
+4	नीम	_	NOUN	NN	_	6	nmod	_	_
+5	रे	_	ADP	PSP	_	4	case	_	_
+6	दरख़्त	_	NOUN	NN	_	9	obl	_	_
+7	रे	_	ADP	PSP	_	6	case	_	_
+8	बुने	_	ADP	PSP	_	6	case	_	_
+9	बेशना	_	VERB	VM	_	2	xcomp	_	_
+10	या	_	CCONJ	CC	_	13	cc	_	_
+11	रेलिंग	_	NOUN	NN	_	13	obl	_	_
+12	पंदे	_	ADP	PSP	_	11	case	_	_
+13	टिकना	_	VERB	VM	_	9	conj	_	_
 
 # sent_id = 372
 # text = या कोई फूल रे बगीचे न घूमी गाना गुणगुणाना या कोई बे भी पकड़िए तेई संगे बकबास केरनी
-1	या	_	CCONJ	CC	_	_	_	_	_
-2	कोई	_	PRON	PRP	_	_	_	_	_
-3	फूल	_	NOUN	NN	_	_	_	_	_
-4	रे	_	ADP	PSP	_	_	_	_	_
-5	बगीचे	_	NOUN	NN	_	_	_	_	_
-6	न	_	ADP	PSP	_	_	_	_	_
-7	घूमी	_	VERB	VM	_	_	_	_	_
-8	गाना	_	VERB	VM	_	_	_	_	_
-9	गुणगुणाना	_	VERB	VM	_	_	_	_	_
-10	या	_	CCONJ	CC	_	_	_	_	_
-11	कोई	_	PRON	PRP	_	_	_	_	_
-12	बे	_	ADP	PSP	_	_	_	_	_
-13	भी	_	PART	RP	_	_	_	_	_
-14	पकड़िए	_	VERB	VM	_	_	_	_	_
-15	तेई	_	PRON	PRP	_	_	_	_	_
-16	संगे	_	ADP	PSP	_	_	_	_	_
-17	बकबास	_	NOUN	NN	_	_	_	_	_
-18	केरनी	_	VERB	VM	_	_	_	_	_
+1	या	_	CCONJ	CC	_	9	cc	_	_
+2	कोई	_	PRON	PRP	_	5	det	_	_
+3	फूल	_	NOUN	NN	_	5	nmod	_	_
+4	रे	_	ADP	PSP	_	3	case	_	_
+5	बगीचे	_	NOUN	NN	_	7	obl	_	_
+6	न	_	ADP	PSP	_	5	case	_	_
+7	घूमी	_	VERB	VM	_	9	advcl	_	_
+8	गाना	_	NOUN	NN	_	9	obj	_	_
+9	गुणगुणाना	_	VERB	VM	_	0	root	_	_
+10	या	_	CCONJ	CC	_	18	cc	_	_
+11	कोई	_	PRON	PRP	_	14	obj	_	_
+12	बे	_	ADP	PSP	_	11	case	_	_
+13	भी	_	PART	RP	_	11	discourse	_	_
+14	पकड़िए	_	VERB	VM	_	18	advcl	_	_
+15	तेई	_	PRON	PRP	_	18	obl	_	_
+16	संगे	_	ADP	PSP	_	15	case	_	_
+17	बकबास	_	NOUN	NN	_	18	obj	_	_
+18	केरनी	_	VERB	VM	_	9	conj	_	_
 
 # sent_id = 373
 # text = तेई सिविल लाइंस न चार चाँद लाए
-1	तेई	_	PRON	PRP	_	_	_	_	_
-2	सिविल	_	PROPN	NNP	_	_	_	_	_
-3	लाइंस	_	PROPN	NNP	_	_	_	_	_
-4	न	_	ADP	PSP	_	_	_	_	_
-5	चार	_	NUM	QC	_	_	_	_	_
-6	चाँद	_	NOUN	NN	_	_	_	_	_
-7	लाए	_	VERB	VM	_	_	_	_	_
+1	तेई	_	PRON	PRP	_	7	nsubj	_	_
+2	सिविल	_	PROPN	NNP	_	3	compound	_	_
+3	लाइंस	_	PROPN	NNP	_	7	obl	_	_
+4	न	_	ADP	PSP	_	3	case	_	_
+5	चार	_	NUM	QC	_	6	nummod	_	_
+6	चाँद	_	NOUN	NN	_	7	obj	_	_
+7	लाए	_	VERB	VM	_	0	root	_	_
 
 # sent_id = 374
 # text = भद्र होर नाज़ुक लोका रूमाल बे नाक पांदे दबाइएऑटोआले संगे गल केरी
-1	भद्र	_	ADJ	JJ	_	_	_	_	_
-2	होर	_	CCONJ	CC	_	_	_	_	_
-3	नाज़ुक	_	ADJ	JJ	_	_	_	_	_
-4	लोका	_	NOUN	NN	_	_	_	_	_
-5	रूमाल	_	NOUN	NN	_	_	_	_	_
-6	बे	_	ADP	PSP	_	_	_	_	_
-7	नाक	_	NOUN	NN	_	_	_	_	_
-8	पांदे	_	VERB	VM	_	_	_	_	_
-9	दबाइएऑटोआले	_	NOUN	NN	_	_	_	_	_
-10	संगे	_	ADP	PSP	_	_	_	_	_
-11	गल	_	NOUN	NN	_	_	_	_	_
-12	केरी	_	VERB	VM	_	_	_	_	_
+1	भद्र	_	ADJ	JJ	_	4	amod	_	_
+2	होर	_	CCONJ	CC	_	3	cc	_	_
+3	नाज़ुक	_	ADJ	JJ	_	1	conj	_	_
+4	लोका	_	NOUN	NN	_	12	nsubj	_	_
+5	रूमाल	_	NOUN	NN	_	8	obj	_	_
+6	बे	_	ADP	PSP	_	5	case	_	_
+7	नाक	_	NOUN	NN	_	8	obl	_	_
+8	पांदे	_	VERB	VM	_	12	advcl	_	_
+9	दबाइएऑटोआले	_	NOUN	NN	_	12	obl	_	_
+10	संगे	_	ADP	PSP	_	9	case	_	_
+11	गल	_	NOUN	NN	_	12	obj	_	_
+12	केरी	_	VERB	VM	_	0	root	_	_
 
 # sent_id = 375
 # text = ए गर्मी ए गर्मी ता किछ हवाखोर सा बस ये ग़ज़ल गानी लाई सा
-1	ए	_	PRON	PRP	_	_	_	_	_
-2	गर्मी	_	NOUN	NN	_	_	_	_	_
-3	ए	_	PRON	PRP	_	_	_	_	_
-4	गर्मी	_	NOUN	NN	_	_	_	_	_
-5	ता	_	PART	RP	_	_	_	_	_
-6	किछ	_	PRON	PRP	_	_	_	_	_
-7	हवाखोर	_	ADJ	JJ	_	_	_	_	_
-8	सा	_	AUX	VAUX	_	_	_	_	_
-9	बस	_	ADV	RB	_	_	_	_	_
-10	ये	_	PRON	PRP	_	_	_	_	_
-11	ग़ज़ल	_	NOUN	NN	_	_	_	_	_
-12	गानी	_	VERB	VM	_	_	_	_	_
-13	लाई	_	VERB	VM	_	_	_	_	_
-14	सा	_	AUX	VAUX	_	_	_	_	_
+1	ए	_	PRON	PRP	_	2	det	_	_
+2	गर्मी	_	NOUN	NN	_	4	nsubj	_	_
+3	ए	_	PRON	PRP	_	4	det	_	_
+4	गर्मी	_	NOUN	NN	_	8	nsubj	_	_
+5	ता	_	PART	RP	_	8	discourse	_	_
+6	किछ	_	PRON	PRP	_	7	advmod	_	_
+7	हवाखोर	_	ADJ	JJ	_	8	xcomp	_	_
+8	सा	_	AUX	VAUX	_	0	root	_	_
+9	बस	_	ADV	RB	_	13	advmod	_	_
+10	ये	_	PRON	PRP	_	11	det	_	_
+11	ग़ज़ल	_	NOUN	NN	_	12	obj	_	_
+12	गानी	_	VERB	VM	_	13	xcomp	_	_
+13	लाई	_	VERB	VM	_	8	conj	_	_
+14	सा	_	AUX	VAUX	_	13	aux	_	_
 
 # sent_id = 376
 # text = कोक्स री खुलने री छेड़ एंदी लागी सा।
-1	कोक्स	_	NOUN	NN	_	_	_	_	_
-2	री	_	ADP	PSP	_	_	_	_	_
-3	खुलने	_	VERB	VM	_	_	_	_	_
-4	री	_	ADP	PSP	_	_	_	_	_
-5	छेड़	_	NOUN	NN	_	_	_	_	_
-6	एंदी	_	VERB	VM	_	_	_	_	_
-7	लागी	_	VERB	VM	_	_	_	_	_
-8	सा	_	AUX	VAUX	_	_	_	_	_
-9	।	_	PUNCT	SYM	_	_	_	_	_
+1	कोक्स	_	NOUN	NN	_	3	obl	_	_
+2	री	_	ADP	PSP	_	1	case	_	_
+3	खुलने	_	VERB	VM	_	5	acl	_	_
+4	री	_	ADP	PSP	_	3	case	_	_
+5	छेड़	_	NOUN	NN	_	6	nsubj	_	_
+6	एंदी	_	VERB	VM	_	0	root	_	_
+7	लागी	_	VERB	VM	_	6	xcomp	_	_
+8	सा	_	AUX	VAUX	_	6	aux	_	SpaceAfter=No
+9	।	_	PUNCT	SYM	_	6	punct	_	_
 
 # sent_id = 377
 # text = सोचदा लागू हाऊँ की एई शैर पांदे मतवाले थी।
-1	सोचदा	_	VERB	VM	_	_	_	_	_
-2	लागू	_	VERB	VM	_	_	_	_	_
-3	हाऊँ	_	PRON	PRP	_	_	_	_	_
-4	की	_	SCONJ	CC	_	_	_	_	_
-5	एई	_	PRON	PRP	_	_	_	_	_
-6	शैर	_	NOUN	NN	_	_	_	_	_
-7	पांदे	_	ADP	PSP	_	_	_	_	_
-8	मतवाले	_	ADJ	JJ	_	_	_	_	_
-9	थी	_	AUX	VAUX	_	_	_	_	_
-10	।	_	PUNCT	SYM	_	_	_	_	_
+1	सोचदा	_	VERB	VM	_	2	xcomp	_	_
+2	लागू	_	VERB	VM	_	0	root	_	_
+3	हाऊँ	_	PRON	PRP	_	2	nsubj	_	_
+4	की	_	SCONJ	CC	_	8	mark	_	_
+5	एई	_	PRON	PRP	_	6	det	_	_
+6	शैर	_	NOUN	NN	_	8	obl	_	_
+7	पांदे	_	ADP	PSP	_	6	case	_	_
+8	मतवाले	_	ADJ	JJ	_	2	ccomp	_	_
+9	थी	_	AUX	VAUX	_	8	cop	_	SpaceAfter=No
+10	।	_	PUNCT	SYM	_	2	punct	_	_
 
 # sent_id = 378
 # text = एई शैर बे चाटदे फिरा थी
-1	एई	_	PRON	PRP	_	_	_	_	_
-2	शैर	_	NOUN	NN	_	_	_	_	_
-3	बे	_	ADP	PSP	_	_	_	_	_
-4	चाटदे	_	VERB	VM	_	_	_	_	_
-5	फिरा	_	VERB	VM	_	_	_	_	_
-6	थी	_	AUX	VAUX	_	_	_	_	_
+1	एई	_	PRON	PRP	_	2	det	_	_
+2	शैर	_	NOUN	NN	_	4	obj	_	_
+3	बे	_	ADP	PSP	_	2	case	_	_
+4	चाटदे	_	VERB	VM	_	5	xcomp	_	_
+5	फिरा	_	VERB	VM	_	0	root	_	_
+6	थी	_	AUX	VAUX	_	5	aux	_	_
 
 # sent_id = 379
 # text = ऐई शैर री तक हर जगह न बापिस आऊ थी
-1	ऐई	_	PRON	PRP	_	_	_	_	_
-2	शैर	_	NOUN	NN	_	_	_	_	_
-3	री	_	ADP	PSP	_	_	_	_	_
-4	तक	_	ADP	PSP	_	_	_	_	_
-5	हर	_	ADJ	JJ	_	_	_	_	_
-6	जगह	_	NOUN	NN	_	_	_	_	_
-7	न	_	ADP	PSP	_	_	_	_	_
-8	बापिस	_	ADV	RB	_	_	_	_	_
-9	आऊ	_	VERB	VM	_	_	_	_	_
-10	थी	_	AUX	VAUX	_	_	_	_	_
+1	ऐई	_	PRON	PRP	_	2	det	_	_
+2	शैर	_	NOUN	NN	_	9	obl	_	_
+3	री	_	ADP	PSP	_	2	case	_	_
+4	तक	_	ADP	PSP	_	2	case	_	_
+5	हर	_	ADJ	JJ	_	6	amod	_	_
+6	जगह	_	NOUN	NN	_	9	obl	_	_
+7	न	_	ADP	PSP	_	6	case	_	_
+8	बापिस	_	ADV	RB	_	9	advmod	_	_
+9	आऊ	_	VERB	VM	_	0	root	_	_
+10	थी	_	AUX	VAUX	_	9	aux	_	_
 
 # sent_id = 380
 # text = अमीरजादे री तरह एई शैर रा बाशिंदा बनना चाह सा
-1	अमीरजादे	_	NOUN	NN	_	_	_	_	_
-2	री	_	ADP	PSP	_	_	_	_	_
-3	तरह	_	NOUN	NN	_	_	_	_	_
-4	एई	_	PRON	PRP	_	_	_	_	_
-5	शैर	_	NOUN	NN	_	_	_	_	_
-6	रा	_	ADP	PSP	_	_	_	_	_
-7	बाशिंदा	_	NOUN	NN	_	_	_	_	_
-8	बनना	_	VERB	VM	_	_	_	_	_
-9	चाह	_	VERB	VM	_	_	_	_	_
-10	सा	_	AUX	VAUX	_	_	_	_	_
+1	अमीरजादे	_	NOUN	NN	_	3	nmod	_	_
+2	री	_	ADP	PSP	_	1	case	_	_
+3	तरह	_	NOUN	NN	_	8	obl	_	_
+4	एई	_	PRON	PRP	_	5	det	_	_
+5	शैर	_	NOUN	NN	_	7	nmod	_	_
+6	रा	_	ADP	PSP	_	5	case	_	_
+7	बाशिंदा	_	NOUN	NN	_	8	xcomp	_	_
+8	बनना	_	VERB	VM	_	9	xcomp	_	_
+9	चाह	_	VERB	VM	_	0	root	_	_
+10	सा	_	AUX	VAUX	_	9	aux	_	_
 
 # sent_id = 381
 # text = हाऊँ जेबे हो सा ता कॉफी हाउंस न जाई बेशा सा
-1	हाऊँ	_	PRON	PRP	_	_	_	_	_
-2	जेबे	_	ADV	RB	_	_	_	_	_
-3	हो	_	VERB	VM	_	_	_	_	_
-4	सा	_	AUX	VAUX	_	_	_	_	_
-5	ता	_	PART	RP	_	_	_	_	_
-6	कॉफी	_	NOUN	NN	_	_	_	_	_
-7	हाउंस	_	NOUN	NN	_	_	_	_	_
-8	न	_	ADP	PSP	_	_	_	_	_
-9	जाई	_	VERB	VM	_	_	_	_	_
-10	बेशा	_	VERB	VM	_	_	_	_	_
-11	सा	_	AUX	VAUX	_	_	_	_	_
+1	हाऊँ	_	PRON	PRP	_	3	nsubj	_	_
+2	जेबे	_	ADV	RB	_	3	advmod	_	_
+3	हो	_	VERB	VM	_	10	advcl	_	_
+4	सा	_	AUX	VAUX	_	3	aux	_	_
+5	ता	_	PART	RP	_	10	discourse	_	_
+6	कॉफी	_	NOUN	NN	_	7	compound	_	_
+7	हाउंस	_	NOUN	NN	_	9	obl	_	_
+8	न	_	ADP	PSP	_	7	case	_	_
+9	जाई	_	VERB	VM	_	10	advcl	_	_
+10	बेशा	_	VERB	VM	_	0	root	_	_
+11	सा	_	AUX	VAUX	_	10	aux	_	_
 
 # sent_id = 382
 # text = ए शैर री सेभी न आसान जगह थी
-1	ए	_	PRON	PRP	_	_	_	_	_
-2	शैर	_	NOUN	NN	_	_	_	_	_
-3	री	_	ADP	PSP	_	_	_	_	_
-4	सेभी	_	ADV	RB	_	_	_	_	_
-5	न	_	ADP	PSP	_	_	_	_	_
-6	आसान	_	ADJ	JJ	_	_	_	_	_
-7	जगह	_	NOUN	NN	_	_	_	_	_
-8	थी	_	AUX	VAUX	_	_	_	_	_
+1	ए	_	PRON	PRP	_	2	det	_	_
+2	शैर	_	NOUN	NN	_	7	nmod	_	_
+3	री	_	ADP	PSP	_	2	case	_	_
+4	सेभी	_	PRON	PRP	_	7	nmod	_	_
+5	न	_	ADP	PSP	_	4	case	_	_
+6	आसान	_	ADJ	JJ	_	7	amod	_	_
+7	जगह	_	NOUN	NN	_	0	root	_	_
+8	थी	_	AUX	VAUX	_	7	cop	_	_
 
 # sent_id = 383
 # text = ए एक झरोखा थी जोखे बेशिये कॉफी पीनी
-1	ए	_	PRON	PRP	_	_	_	_	_
-2	एक	_	NUM	QC	_	_	_	_	_
-3	झरोखा	_	NOUN	NN	_	_	_	_	_
-4	थी	_	AUX	VAUX	_	_	_	_	_
-5	जोखे	_	ADV	RB	_	_	_	_	_
-6	बेशिये	_	VERB	VM	_	_	_	_	_
-7	कॉफी	_	NOUN	NN	_	_	_	_	_
-8	पीनी	_	VERB	VM	_	_	_	_	_
+1	ए	_	PRON	PRP	_	3	nsubj	_	_
+2	एक	_	NUM	QC	_	3	nummod	_	_
+3	झरोखा	_	NOUN	NN	_	0	root	_	_
+4	थी	_	AUX	VAUX	_	3	cop	_	_
+5	जोखे	_	ADV	RB	_	6	advmod	_	_
+6	बेशिये	_	VERB	VM	_	8	advcl	_	_
+7	कॉफी	_	NOUN	NN	_	8	obj	_	_
+8	पीनी	_	VERB	VM	_	3	acl	_	_
 
 # sent_id = 384
 # text = बड़े चौराहे रे शौउ कदम बढ़ने पांदे सुलटी साइड एकतराई मंज़िल बिल्डिंग खींची थी।
-1	बड़े	_	ADJ	JJ	_	_	_	_	_
-2	चौराहे	_	NOUN	NN	_	_	_	_	_
-3	रे	_	ADP	PSP	_	_	_	_	_
-4	शौउ	_	NUM	QC	_	_	_	_	_
-5	कदम	_	NOUN	NN	_	_	_	_	_
-6	बढ़ने	_	VERB	VM	_	_	_	_	_
-7	पांदे	_	ADP	PSP	_	_	_	_	_
-8	सुलटी	_	ADJ	JJ	_	_	_	_	_
-9	साइड	_	NOUN	NN	_	_	_	_	_
-10	एकतराई	_	ADJ	JJ	_	_	_	_	_
-11	मंज़िल	_	NOUN	NN	_	_	_	_	_
-12	बिल्डिंग	_	NOUN	NN	_	_	_	_	_
-13	खींची	_	VERB	VM	_	_	_	_	_
-14	थी	_	AUX	VAUX	_	_	_	_	_
-15	।	_	PUNCT	SYM	_	_	_	_	_
+1	बड़े	_	ADJ	JJ	_	2	amod	_	_
+2	चौराहे	_	NOUN	NN	_	5	nmod	_	_
+3	रे	_	ADP	PSP	_	2	case	_	_
+4	शौउ	_	NUM	QC	_	5	nummod	_	_
+5	कदम	_	NOUN	NN	_	6	obl	_	_
+6	बढ़ने	_	VERB	VM	_	13	advcl	_	_
+7	पांदे	_	ADP	PSP	_	6	case	_	_
+8	सुलटी	_	ADJ	JJ	_	9	amod	_	_
+9	साइड	_	NOUN	NN	_	13	obl	_	_
+10	एकतराई	_	ADJ	JJ	_	11	amod	_	_
+11	मंज़िल	_	NOUN	NN	_	12	nmod	_	_
+12	बिल्डिंग	_	NOUN	NN	_	13	nsubj	_	_
+13	खींची	_	VERB	VM	_	0	root	_	_
+14	थी	_	AUX	VAUX	_	13	aux	_	SpaceAfter=No
+15	।	_	PUNCT	SYM	_	13	punct	_	_
 
 # sent_id = 385
 # text = सो वास्तु कला रे शैर न एक नुआ नमूना थी।
-1	सो	_	PRON	PRP	_	_	_	_	_
-2	वास्तु	_	NOUN	NN	_	_	_	_	_
-3	कला	_	NOUN	NN	_	_	_	_	_
-4	रे	_	ADP	PSP	_	_	_	_	_
-5	शैर	_	NOUN	NN	_	_	_	_	_
-6	न	_	ADP	PSP	_	_	_	_	_
-7	एक	_	NUM	QC	_	_	_	_	_
-8	नुआ	_	ADJ	JJ	_	_	_	_	_
-9	नमूना	_	NOUN	NN	_	_	_	_	_
-10	थी	_	AUX	VAUX	_	_	_	_	_
-11	।	_	PUNCT	SYM	_	_	_	_	_
+1	सो	_	PRON	PRP	_	9	nsubj	_	_
+2	वास्तु	_	NOUN	NN	_	3	compound	_	_
+3	कला	_	NOUN	NN	_	9	nmod	_	_
+4	रे	_	ADP	PSP	_	3	case	_	_
+5	शैर	_	NOUN	NN	_	9	nmod	_	_
+6	न	_	ADP	PSP	_	5	case	_	_
+7	एक	_	NUM	QC	_	9	nummod	_	_
+8	नुआ	_	ADJ	JJ	_	9	amod	_	_
+9	नमूना	_	NOUN	NN	_	0	root	_	_
+10	थी	_	AUX	VAUX	_	9	cop	_	SpaceAfter=No
+11	।	_	PUNCT	SYM	_	9	punct	_	_
 
 # sent_id = 386
 # text = तुईं न लागू जगह रे हिसाब संगे यंत्र री वजह
-1	तुईं	_	PRON	PRP	_	_	_	_	_
-2	न	_	ADP	PSP	_	_	_	_	_
-3	लागू	_	VERB	VM	_	_	_	_	_
-4	जगह	_	NOUN	NN	_	_	_	_	_
-5	रे	_	ADP	PSP	_	_	_	_	_
-6	हिसाब	_	NOUN	NN	_	_	_	_	_
-7	संगे	_	ADP	PSP	_	_	_	_	_
-8	यंत्र	_	NOUN	NN	_	_	_	_	_
-9	री	_	ADP	PSP	_	_	_	_	_
-10	वजह	_	NOUN	NN	_	_	_	_	_
+1	तुईं	_	PRON	PRP	_	3	obl	_	_
+2	न	_	ADP	PSP	_	1	case	_	_
+3	लागू	_	VERB	VM	_	0	root	_	_
+4	जगह	_	NOUN	NN	_	6	nmod	_	_
+5	रे	_	ADP	PSP	_	4	case	_	_
+6	हिसाब	_	NOUN	NN	_	3	obl	_	_
+7	संगे	_	ADP	PSP	_	6	case	_	_
+8	यंत्र	_	NOUN	NN	_	10	nmod	_	_
+9	री	_	ADP	PSP	_	8	case	_	_
+10	वजह	_	NOUN	NN	_	3	dep	_	_
 
 # sent_id = 387
 # text = सी बार भी किछ ठंड निकली आई थी।
-1	सी	_	NUM	QC	_	_	_	_	_
-2	बार	_	NOUN	NN	_	_	_	_	_
-3	भी	_	PART	RP	_	_	_	_	_
-4	किछ	_	PRON	PRP	_	_	_	_	_
-5	ठंड	_	NOUN	NN	_	_	_	_	_
-6	निकली	_	VERB	VM	_	_	_	_	_
-7	आई	_	VERB	VM	_	_	_	_	_
-8	थी	_	AUX	VAUX	_	_	_	_	_
-9	।	_	PUNCT	SYM	_	_	_	_	_
+1	सी	_	NUM	QC	_	2	nummod	_	_
+2	बार	_	NOUN	NN	_	7	obl	_	_
+3	भी	_	PART	RP	_	2	discourse	_	_
+4	किछ	_	PRON	PRP	_	5	det	_	_
+5	ठंड	_	NOUN	NN	_	6	nsubj	_	_
+6	निकली	_	VERB	VM	_	7	advcl	_	_
+7	आई	_	VERB	VM	_	0	root	_	_
+8	थी	_	AUX	VAUX	_	7	aux	_	SpaceAfter=No
+9	।	_	PUNCT	SYM	_	7	punct	_	_
 
 # sent_id = 388
 # text = किछ लोका इमारत हेरदे लागे थी।
-1	किछ	_	PRON	PRP	_	_	_	_	_
-2	लोका	_	NOUN	NN	_	_	_	_	_
-3	इमारत	_	NOUN	NN	_	_	_	_	_
-4	हेरदे	_	VERB	VM	_	_	_	_	_
-5	लागे	_	VERB	VM	_	_	_	_	_
-6	थी	_	AUX	VAUX	_	_	_	_	_
-7	।	_	PUNCT	SYM	_	_	_	_	_
+1	किछ	_	PRON	PRP	_	2	det	_	_
+2	लोका	_	NOUN	NN	_	5	nsubj	_	_
+3	इमारत	_	NOUN	NN	_	4	obj	_	_
+4	हेरदे	_	VERB	VM	_	5	xcomp	_	_
+5	लागे	_	VERB	VM	_	0	root	_	_
+6	थी	_	AUX	VAUX	_	5	aux	_	SpaceAfter=No
+7	।	_	PUNCT	SYM	_	5	punct	_	_
 
 # sent_id = 389
 # text = तीनरा बोलना थी शैर बड़ा बाँका लागदा लागू ।
-1	तीनरा	_	NUM	QC	_	_	_	_	_
-2	बोलना	_	VERB	VM	_	_	_	_	_
-3	थी	_	AUX	VAUX	_	_	_	_	_
-4	शैर	_	NOUN	NN	_	_	_	_	_
-5	बड़ा	_	ADV	RB	_	_	_	_	_
-6	बाँका	_	ADJ	JJ	_	_	_	_	_
-7	लागदा	_	VERB	VM	_	_	_	_	_
-8	लागू	_	VERB	VM	_	_	_	_	_
-9	।	_	PUNCT	SYM	_	_	_	_	_
+1	तीनरा	_	PRON	PRP	_	2	nsubj	_	_
+2	बोलना	_	VERB	VM	_	7	advcl	_	_
+3	थी	_	AUX	VAUX	_	2	aux	_	_
+4	शैर	_	NOUN	NN	_	7	nsubj	_	_
+5	बड़ा	_	ADV	RB	_	6	advmod	_	_
+6	बाँका	_	ADJ	JJ	_	7	xcomp	_	_
+7	लागदा	_	VERB	VM	_	0	root	_	_
+8	लागू	_	VERB	VM	_	7	xcomp	_	_
+9	।	_	PUNCT	SYM	_	7	punct	_	_
 
 # sent_id = 390
 # text = जेबे की पिछले बी साल न ओखे सोए खपरेल परछाई रोही।
-1	जेबे	_	ADV	RB	_	_	_	_	_
-2	की	_	SCONJ	CC	_	_	_	_	_
-3	पिछले	_	ADJ	JJ	_	_	_	_	_
-4	बी	_	NUM	QC	_	_	_	_	_
-5	साल	_	NOUN	NN	_	_	_	_	_
-6	न	_	ADP	PSP	_	_	_	_	_
-7	ओखे	_	ADV	RB	_	_	_	_	_
-8	सोए	_	VERB	VM	_	_	_	_	_
-9	खपरेल	_	NOUN	NN	_	_	_	_	_
-10	परछाई	_	NOUN	NN	_	_	_	_	_
-11	रोही	_	VERB	VM	_	_	_	_	_
-12	।	_	PUNCT	SYM	_	_	_	_	_
+1	जेबे	_	ADV	RB	_	11	advmod	_	_
+2	की	_	SCONJ	CC	_	11	mark	_	_
+3	पिछले	_	ADJ	JJ	_	5	amod	_	_
+4	बी	_	NUM	QC	_	5	nummod	_	_
+5	साल	_	NOUN	NN	_	11	obl	_	_
+6	न	_	ADP	PSP	_	5	case	_	_
+7	ओखे	_	ADV	RB	_	11	advmod	_	_
+8	सोए	_	VERB	VM	_	11	advcl	_	_
+9	खपरेल	_	NOUN	NN	_	10	nmod	_	_
+10	परछाई	_	NOUN	NN	_	11	nsubj	_	_
+11	रोही	_	VERB	VM	_	0	root	_	SpaceAfter=No
+12	।	_	PUNCT	SYM	_	11	punct	_	_
 
 # sent_id = 391
 # text = ऐबे ज़रूर किछ सही अमेरिकन पैटर्न री इमारत बनी री।
-1	ऐबे	_	ADV	RB	_	_	_	_	_
-2	ज़रूर	_	ADV	RB	_	_	_	_	_
-3	किछ	_	PRON	PRP	_	_	_	_	_
-4	सही	_	ADJ	JJ	_	_	_	_	_
-5	अमेरिकन	_	ADJ	JJ	_	_	_	_	_
-6	पैटर्न	_	NOUN	NN	_	_	_	_	_
-7	री	_	ADP	PSP	_	_	_	_	_
-8	इमारत	_	NOUN	NN	_	_	_	_	_
-9	बनी	_	VERB	VM	_	_	_	_	_
-10	री	_	AUX	VAUX	_	_	_	_	_
-11	।	_	PUNCT	SYM	_	_	_	_	_
+1	ऐबे	_	ADV	RB	_	9	advmod	_	_
+2	ज़रूर	_	ADV	RB	_	9	advmod	_	_
+3	किछ	_	PRON	PRP	_	8	det	_	_
+4	सही	_	ADJ	JJ	_	6	amod	_	_
+5	अमेरिकन	_	ADJ	JJ	_	6	amod	_	_
+6	पैटर्न	_	NOUN	NN	_	8	nmod	_	_
+7	री	_	ADP	PSP	_	6	case	_	_
+8	इमारत	_	NOUN	NN	_	9	nsubj	_	_
+9	बनी	_	VERB	VM	_	0	root	_	_
+10	री	_	AUX	VAUX	_	9	aux	_	SpaceAfter=No
+11	।	_	PUNCT	SYM	_	9	punct	_	_
 
 # sent_id = 392
 # text = एक बाँका जुआन बोलदा लागू थी हाऊँ ता पुराने शैर री साइड जांदा नी।
-1	एक	_	NUM	QC	_	_	_	_	_
-2	बाँका	_	ADJ	JJ	_	_	_	_	_
-3	जुआन	_	NOUN	NN	_	_	_	_	_
-4	बोलदा	_	VERB	VM	_	_	_	_	_
-5	लागू	_	VERB	VM	_	_	_	_	_
-6	थी	_	AUX	VAUX	_	_	_	_	_
-7	हाऊँ	_	PRON	PRP	_	_	_	_	_
-8	ता	_	PART	RP	_	_	_	_	_
-9	पुराने	_	ADJ	JJ	_	_	_	_	_
-10	शैर	_	NOUN	NN	_	_	_	_	_
-11	री	_	ADP	PSP	_	_	_	_	_
-12	साइड	_	NOUN	NN	_	_	_	_	_
-13	जांदा	_	VERB	VM	_	_	_	_	_
-14	नी	_	PART	NEG	_	_	_	_	_
-15	।	_	PUNCT	SYM	_	_	_	_	_
+1	एक	_	NUM	QC	_	3	nummod	_	_
+2	बाँका	_	ADJ	JJ	_	3	amod	_	_
+3	जुआन	_	NOUN	NN	_	5	nsubj	_	_
+4	बोलदा	_	VERB	VM	_	5	xcomp	_	_
+5	लागू	_	VERB	VM	_	0	root	_	_
+6	थी	_	AUX	VAUX	_	5	aux	_	_
+7	हाऊँ	_	PRON	PRP	_	13	nsubj	_	_
+8	ता	_	PART	RP	_	13	discourse	_	_
+9	पुराने	_	ADJ	JJ	_	10	amod	_	_
+10	शैर	_	NOUN	NN	_	12	nmod	_	_
+11	री	_	ADP	PSP	_	10	case	_	_
+12	साइड	_	NOUN	NN	_	13	obl	_	_
+13	जांदा	_	VERB	VM	_	5	ccomp	_	_
+14	नी	_	PART	NEG	_	13	advmod	_	SpaceAfter=No
+15	।	_	PUNCT	SYM	_	5	punct	_	_
 
 # sent_id = 393
 # text = तोखे भीड़ ए भीड़ होआ सा होर भीड़ न ज़िंदगी री उतेजना ख़त्म हो सा।
-1	तोखे	_	PRON	PRP	_	_	_	_	_
-2	भीड़	_	NOUN	NN	_	_	_	_	_
-3	ए	_	PRON	PRP	_	_	_	_	_
-4	भीड़	_	NOUN	NN	_	_	_	_	_
-5	होआ	_	VERB	VM	_	_	_	_	_
-6	सा	_	AUX	VAUX	_	_	_	_	_
-7	होर	_	CCONJ	CC	_	_	_	_	_
-8	भीड़	_	NOUN	NN	_	_	_	_	_
-9	न	_	ADP	PSP	_	_	_	_	_
-10	ज़िंदगी	_	NOUN	NN	_	_	_	_	_
-11	री	_	ADP	PSP	_	_	_	_	_
-12	उतेजना	_	NOUN	NN	_	_	_	_	_
-13	ख़त्म	_	ADJ	JJ	_	_	_	_	_
-14	हो	_	VERB	VM	_	_	_	_	_
-15	सा	_	AUX	VAUX	_	_	_	_	_
-16	।	_	PUNCT	SYM	_	_	_	_	_
+1	तोखे	_	ADV	RB	_	5	advmod	_	_
+2	भीड़	_	NOUN	NN	_	5	nsubj	_	_
+3	ए	_	PART	RP	_	2	discourse	_	_
+4	भीड़	_	NOUN	NN	_	2	compound	_	_
+5	होआ	_	VERB	VM	_	0	root	_	_
+6	सा	_	AUX	VAUX	_	5	aux	_	_
+7	होर	_	CCONJ	CC	_	14	cc	_	_
+8	भीड़	_	NOUN	NN	_	14	obl	_	_
+9	न	_	ADP	PSP	_	8	case	_	_
+10	ज़िंदगी	_	NOUN	NN	_	12	nmod	_	_
+11	री	_	ADP	PSP	_	10	case	_	_
+12	उतेजना	_	NOUN	NN	_	14	nsubj	_	_
+13	ख़त्म	_	ADJ	JJ	_	14	xcomp	_	_
+14	हो	_	VERB	VM	_	5	conj	_	_
+15	सा	_	AUX	VAUX	_	14	aux	_	SpaceAfter=No
+16	।	_	PUNCT	SYM	_	5	punct	_	_
 
 # sent_id = 394
 # text = एंडी तेरे शैर नी बनदा।
-1	एंडी	_	ADV	RB	_	_	_	_	_
-2	तेरे	_	PRON	PRP	_	_	_	_	_
-3	शैर	_	NOUN	NN	_	_	_	_	_
-4	नी	_	PART	NEG	_	_	_	_	_
-5	बनदा	_	VERB	VM	_	_	_	_	_
-6	।	_	PUNCT	SYM	_	_	_	_	_
+1	एंडी	_	ADV	RB	_	5	advmod	_	_
+2	तेरे	_	PRON	PRP	_	3	det	_	_
+3	शैर	_	NOUN	NN	_	5	nsubj	_	_
+4	नी	_	PART	NEG	_	5	advmod	_	_
+5	बनदा	_	VERB	VM	_	0	root	_	SpaceAfter=No
+6	।	_	PUNCT	SYM	_	5	punct	_	_
 
 # sent_id = 395
 # text = बंबई न कोलाबा न मजाल सा कोइंचे पशाब केरा।
-1	बंबई	_	PROPN	NNP	_	_	_	_	_
-2	न	_	ADP	PSP	_	_	_	_	_
-3	कोलाबा	_	PROPN	NNP	_	_	_	_	_
-4	न	_	ADP	PSP	_	_	_	_	_
-5	मजाल	_	NOUN	NN	_	_	_	_	_
-6	सा	_	AUX	VAUX	_	_	_	_	_
-7	कोइंचे	_	PRON	PRP	_	_	_	_	_
-8	पशाब	_	NOUN	NN	_	_	_	_	_
-9	केरा	_	VERB	VM	_	_	_	_	_
-10	।	_	PUNCT	SYM	_	_	_	_	_
+1	बंबई	_	PROPN	NNP	_	3	nmod	_	_
+2	न	_	ADP	PSP	_	1	case	_	_
+3	कोलाबा	_	PROPN	NNP	_	5	obl	_	_
+4	न	_	ADP	PSP	_	3	case	_	_
+5	मजाल	_	NOUN	NN	_	6	nsubj	_	_
+6	सा	_	AUX	VAUX	_	0	root	_	_
+7	कोइंचे	_	PRON	PRP	_	9	nsubj	_	_
+8	पशाब	_	NOUN	NN	_	9	obj	_	_
+9	केरा	_	VERB	VM	_	6	ccomp	_	SpaceAfter=No
+10	।	_	PUNCT	SYM	_	6	punct	_	_
 
 # sent_id = 396
 # text = अंग्रेजों रा टाइम बाँका थी जेबे सिविल लाइन्स न हिंदुस्तानी घुस भी नी पांदे थी।
-1	अंग्रेजों	_	NOUN	NN	_	_	_	_	_
-2	रा	_	ADP	PSP	_	_	_	_	_
-3	टाइम	_	NOUN	NN	_	_	_	_	_
-4	बाँका	_	ADJ	JJ	_	_	_	_	_
-5	थी	_	AUX	VAUX	_	_	_	_	_
-6	जेबे	_	ADV	RB	_	_	_	_	_
-7	सिविल	_	PROPN	NNP	_	_	_	_	_
-8	लाइन्स	_	PROPN	NNP	_	_	_	_	_
-9	न	_	ADP	PSP	_	_	_	_	_
-10	हिंदुस्तानी	_	ADJ	JJ	_	_	_	_	_
-11	घुस	_	NOUN	NN	_	_	_	_	_
-12	भी	_	PART	RP	_	_	_	_	_
-13	नी	_	PART	NEG	_	_	_	_	_
-14	पांदे	_	VERB	VM	_	_	_	_	_
-15	थी	_	AUX	VAUX	_	_	_	_	_
-16	।	_	PUNCT	SYM	_	_	_	_	_
+1	अंग्रेजों	_	NOUN	NN	_	3	nmod	_	_
+2	रा	_	ADP	PSP	_	1	case	_	_
+3	टाइम	_	NOUN	NN	_	4	nsubj	_	_
+4	बाँका	_	ADJ	JJ	_	0	root	_	_
+5	थी	_	AUX	VAUX	_	4	cop	_	_
+6	जेबे	_	ADV	RB	_	14	advmod	_	_
+7	सिविल	_	PROPN	NNP	_	8	compound	_	_
+8	लाइन्स	_	PROPN	NNP	_	14	obl	_	_
+9	न	_	ADP	PSP	_	8	case	_	_
+10	हिंदुस्तानी	_	NOUN	NN	_	14	nsubj	_	_
+11	घुस	_	VERB	VM	_	14	xcomp	_	_
+12	भी	_	PART	RP	_	11	discourse	_	_
+13	नी	_	PART	NEG	_	14	advmod	_	_
+14	पांदे	_	VERB	VM	_	4	advcl	_	_
+15	थी	_	AUX	VAUX	_	14	aux	_	SpaceAfter=No
+16	।	_	PUNCT	SYM	_	4	punct	_	_
 
 # sent_id = 397
 # text = की बीच सड़क न होगदे लागे।
-1	की	_	PRON	PRP	_	_	_	_	_
-2	बीच	_	NOUN	NN	_	_	_	_	_
-3	सड़क	_	NOUN	NN	_	_	_	_	_
-4	न	_	ADP	PSP	_	_	_	_	_
-5	होगदे	_	VERB	VM	_	_	_	_	_
-6	लागे	_	VERB	VM	_	_	_	_	_
-7	।	_	PUNCT	SYM	_	_	_	_	_
+1	की	_	PRON	PRP	_	5	nsubj	_	_
+2	बीच	_	NOUN	NN	_	3	nmod	_	_
+3	सड़क	_	NOUN	NN	_	5	obl	_	_
+4	न	_	ADP	PSP	_	3	case	_	_
+5	होगदे	_	VERB	VM	_	0	root	_	_
+6	लागे	_	VERB	VM	_	5	xcomp	_	SpaceAfter=No
+7	।	_	PUNCT	SYM	_	5	punct	_	_
 
 # sent_id = 398
 # text = गला ऊईंन भी जादा मनोरंजक हो सकदी थी। पर हाऊँ वापस हुआ।
-1	गला	_	NOUN	NN	_	_	_	_	_
-2	ऊईंन	_	ADV	RB	_	_	_	_	_
-3	भी	_	PART	RP	_	_	_	_	_
-4	जादा	_	ADV	RB	_	_	_	_	_
-5	मनोरंजक	_	ADJ	JJ	_	_	_	_	_
-6	हो	_	VERB	VM	_	_	_	_	_
-7	सकदी	_	VERB	VM	_	_	_	_	_
-8	थी	_	AUX	VAUX	_	_	_	_	_
-9	।	_	PUNCT	SYM	_	_	_	_	_
-10	पर	_	CCONJ	CC	_	_	_	_	_
-11	हाऊँ	_	PRON	PRP	_	_	_	_	_
-12	वापस	_	ADV	RB	_	_	_	_	_
-13	हुआ	_	VERB	VM	_	_	_	_	_
-14	।	_	PUNCT	SYM	_	_	_	_	_
+1	गला	_	NOUN	NN	_	6	nsubj	_	_
+2	ऊईंन	_	ADV	RB	_	5	advmod	_	_
+3	भी	_	PART	RP	_	2	discourse	_	_
+4	जादा	_	ADV	RB	_	5	advmod	_	_
+5	मनोरंजक	_	ADJ	JJ	_	6	xcomp	_	_
+6	हो	_	VERB	VM	_	0	root	_	_
+7	सकदी	_	VERB	VM	_	6	xcomp	_	_
+8	थी	_	AUX	VAUX	_	6	aux	_	SpaceAfter=No
+9	।	_	PUNCT	SYM	_	6	punct	_	_
+10	पर	_	CCONJ	CC	_	13	cc	_	_
+11	हाऊँ	_	PRON	PRP	_	13	nsubj	_	_
+12	वापस	_	ADV	RB	_	13	advmod	_	_
+13	हुआ	_	VERB	VM	_	6	conj	_	SpaceAfter=No
+14	।	_	PUNCT	SYM	_	13	punct	_	_
 
 # sent_id = 399
 # text = मुमे लागू की मारू होना पर दबुआ नी सो।
-1	मुमे	_	PRON	PRP	_	_	_	_	_
-2	लागू	_	VERB	VM	_	_	_	_	_
-3	की	_	SCONJ	CC	_	_	_	_	_
-4	मारू	_	ADJ	JJ	_	_	_	_	_
-5	होना	_	VERB	VM	_	_	_	_	_
-6	पर	_	CCONJ	CC	_	_	_	_	_
-7	दबुआ	_	ADJ	JJ	_	_	_	_	_
-8	नी	_	PART	NEG	_	_	_	_	_
-9	सो	_	AUX	VAUX	_	_	_	_	_
+1	मुमे	_	PRON	PRP	_	2	obl	_	_
+2	लागू	_	VERB	VM	_	0	root	_	_
+3	की	_	SCONJ	CC	_	5	mark	_	_
+4	मारू	_	ADJ	JJ	_	5	xcomp	_	_
+5	होना	_	VERB	VM	_	2	ccomp	_	_
+6	पर	_	CCONJ	CC	_	9	cc	_	_
+7	दबुआ	_	ADJ	JJ	_	9	xcomp	_	_
+8	नी	_	PART	NEG	_	9	advmod	_	_
+9	सो	_	AUX	VAUX	_	5	conj	_	SpaceAfter=No
+10	।	_	PUNCT	SYM	_	2	punct	_	_
 
 # sent_id = 400
 # text = गड्डी खड़ी केरीया तेथ बे चलानु आला जेबे बाहर आऊ उतरू ता सो मोईत्रा थी।
-1	गड्डी	_	NOUN	NN	_	_	_	_	_
-2	खड़ी	_	ADJ	JJ	_	_	_	_	_
-3	केरीया	_	VERB	VM	_	_	_	_	_
-4	तेथ	_	PRON	PRP	_	_	_	_	_
-5	बे	_	ADP	PSP	_	_	_	_	_
-6	चलानु	_	VERB	VM	_	_	_	_	_
-7	आला	_	NOUN	NN	_	_	_	_	_
-8	जेबे	_	ADV	RB	_	_	_	_	_
-9	बाहर	_	ADV	RB	_	_	_	_	_
-10	आऊ	_	VERB	VM	_	_	_	_	_
-11	उतरू	_	VERB	VM	_	_	_	_	_
-12	ता	_	PART	RP	_	_	_	_	_
-13	सो	_	PRON	PRP	_	_	_	_	_
-14	मोईत्रा	_	NOUN	NN	_	_	_	_	_
-15	थी	_	AUX	VAUX	_	_	_	_	_
+1	गड्डी	_	NOUN	NN	_	3	obj	_	_
+2	खड़ी	_	ADJ	JJ	_	3	xcomp	_	_
+3	केरीया	_	VERB	VM	_	11	advcl	_	_
+4	तेथ	_	PRON	PRP	_	6	obl	_	_
+5	बे	_	ADP	PSP	_	4	case	_	_
+6	चलानु	_	VERB	VM	_	7	acl	_	_
+7	आला	_	NOUN	NN	_	10	nsubj	_	_
+8	जेबे	_	ADV	RB	_	10	advmod	_	_
+9	बाहर	_	ADV	RB	_	10	advmod	_	_
+10	आऊ	_	VERB	VM	_	11	advcl	_	_
+11	उतरू	_	VERB	VM	_	15	advcl	_	_
+12	ता	_	PART	RP	_	15	discourse	_	_
+13	सो	_	PRON	PRP	_	14	det	_	_
+14	मोईत्रा	_	NOUN	NN	_	15	nsubj	_	_
+15	थी	_	AUX	VAUX	_	0	root	_	SpaceAfter=No
+16	।	_	PUNCT	SYM	_	15	punct	_	_
 
 # sent_id = 401
 # text = फिरी मैं बोलू बोला कोखे न लागे सी एंदे ए जीप कोखे कबाड़ न लेई
-1	फिरी	_	ADV	RB	_	_	_	_	_
-2	मैं	_	PRON	PRP	_	_	_	_	_
-3	बोलू	_	VERB	VM	_	_	_	_	_
-4	बोला	_	VERB	VM	_	_	_	_	_
-5	कोखे	_	ADV	RB	_	_	_	_	_
-6	न	_	ADP	PSP	_	_	_	_	_
-7	लागे	_	VERB	VM	_	_	_	_	_
-8	सी	_	AUX	VAUX	_	_	_	_	_
-9	एंदे	_	ADV	RB	_	_	_	_	_
-10	ए	_	PRON	PRP	_	_	_	_	_
-11	जीप	_	NOUN	NN	_	_	_	_	_
-12	कोखे	_	ADV	RB	_	_	_	_	_
-13	कबाड़	_	NOUN	NN	_	_	_	_	_
-14	न	_	ADP	PSP	_	_	_	_	_
-15	लेई	_	VERB	VM	_	_	_	_	_
+1	फिरी	_	ADV	RB	_	3	advmod	_	_
+2	मैं	_	PRON	PRP	_	3	nsubj	_	_
+3	बोलू	_	VERB	VM	_	0	root	_	_
+4	बोला	_	VERB	VM	_	3	conj	_	_
+5	कोखे	_	ADV	RB	_	7	advmod	_	_
+6	न	_	ADP	PSP	_	7	mark	_	_
+7	लागे	_	VERB	VM	_	4	ccomp	_	_
+8	सी	_	AUX	VAUX	_	7	aux	_	_
+9	एंदे	_	ADV	RB	_	15	advmod	_	_
+10	ए	_	PRON	PRP	_	11	det	_	_
+11	जीप	_	NOUN	NN	_	15	obj	_	_
+12	कोखे	_	ADV	RB	_	15	advmod	_	_
+13	कबाड़	_	NOUN	NN	_	15	obl	_	_
+14	न	_	ADP	PSP	_	13	case	_	_
+15	लेई	_	VERB	VM	_	7	conj	_	_
 
 # sent_id = 402
 # text = बोलू खून केरिए आऊ
-1	बोलू	_	VERB	VM	_	_	_	_	_
-2	खून	_	NOUN	NN	_	_	_	_	_
-3	केरिए	_	VERB	VM	_	_	_	_	_
-4	आऊ	_	VERB	VM	_	_	_	_	_
+1	बोलू	_	VERB	VM	_	0	root	_	_
+2	खून	_	NOUN	NN	_	3	obj	_	_
+3	केरिए	_	VERB	VM	_	4	advcl	_	_
+4	आऊ	_	VERB	VM	_	1	ccomp	_	_
 
 # sent_id = 403
 # text = फ़तेहपुर न एक बे जीप संगे चाक केरू।
-1	फ़तेहपुर	_	PROPN	NNP	_	_	_	_	_
-2	न	_	ADP	PSP	_	_	_	_	_
-3	एक	_	NUM	QC	_	_	_	_	_
-4	बे	_	ADP	PSP	_	_	_	_	_
-5	जीप	_	NOUN	NN	_	_	_	_	_
-6	संगे	_	ADP	PSP	_	_	_	_	_
-7	चाक	_	NOUN	NN	_	_	_	_	_
-8	केरू	_	VERB	VM	_	_	_	_	_
-9	।	_	PUNCT	SYM	_	_	_	_	_
+1	फ़तेहपुर	_	PROPN	NNP	_	8	obl	_	_
+2	न	_	ADP	PSP	_	1	case	_	_
+3	एक	_	NUM	QC	_	8	iobj	_	_
+4	बे	_	ADP	PSP	_	3	case	_	_
+5	जीप	_	NOUN	NN	_	8	obl	_	_
+6	संगे	_	ADP	PSP	_	5	case	_	_
+7	चाक	_	NOUN	NN	_	8	obj	_	_
+8	केरू	_	VERB	VM	_	0	root	_	SpaceAfter=No
+9	।	_	PUNCT	SYM	_	8	punct	_	_
 
 # sent_id = 404
 # text = बोहू रोज़ न परेशान केरी रखी थी ।
-1	बोहू	_	ADV	RB	_	_	_	_	_
-2	रोज़	_	NOUN	NN	_	_	_	_	_
-3	न	_	ADP	PSP	_	_	_	_	_
-4	परेशान	_	ADJ	JJ	_	_	_	_	_
-5	केरी	_	VERB	VM	_	_	_	_	_
-6	रखी	_	VERB	VM	_	_	_	_	_
-7	थी	_	AUX	VAUX	_	_	_	_	_
-8	।	_	PUNCT	SYM	_	_	_	_	_
+1	बोहू	_	ADV	RB	_	2	advmod	_	_
+2	रोज़	_	NOUN	NN	_	5	obl	_	_
+3	न	_	ADP	PSP	_	2	case	_	_
+4	परेशान	_	ADJ	JJ	_	5	xcomp	_	_
+5	केरी	_	VERB	VM	_	6	xcomp	_	_
+6	रखी	_	VERB	VM	_	0	root	_	_
+7	थी	_	AUX	VAUX	_	6	aux	_	_
+8	।	_	PUNCT	SYM	_	6	punct	_	_
 
 # sent_id = 405
 # text = बेरी मोइत्रा बे तेईरे साथी ईसा मसीह रे कुत्ता बोला थी।
-1	बेरी	_	PRON	PRP	_	_	_	_	_
-2	मोइत्रा	_	NOUN	NN	_	_	_	_	_
-3	बे	_	ADP	PSP	_	_	_	_	_
-4	तेईरे	_	PRON	PRP	_	_	_	_	_
-5	साथी	_	NOUN	NN	_	_	_	_	_
-6	ईसा	_	PROPN	NNP	_	_	_	_	_
-7	मसीह	_	PROPN	NNP	_	_	_	_	_
-8	रे	_	ADP	PSP	_	_	_	_	_
-9	कुत्ता	_	NOUN	NN	_	_	_	_	_
-10	बोला	_	VERB	VM	_	_	_	_	_
-11	थी	_	AUX	VAUX	_	_	_	_	_
-12	।	_	PUNCT	SYM	_	_	_	_	_
+1	बेरी	_	PRON	PRP	_	2	det	_	_
+2	मोइत्रा	_	NOUN	NN	_	10	obl	_	_
+3	बे	_	ADP	PSP	_	2	case	_	_
+4	तेईरे	_	PRON	PRP	_	5	det	_	_
+5	साथी	_	NOUN	NN	_	10	nsubj	_	_
+6	ईसा	_	PROPN	NNP	_	7	compound	_	_
+7	मसीह	_	PROPN	NNP	_	9	nmod	_	_
+8	रे	_	ADP	PSP	_	7	case	_	_
+9	कुत्ता	_	NOUN	NN	_	10	obj	_	_
+10	बोला	_	VERB	VM	_	0	root	_	_
+11	थी	_	AUX	VAUX	_	10	aux	_	SpaceAfter=No
+12	।	_	PUNCT	SYM	_	10	punct	_	_
 
 # sent_id = 406
 # text = मैं बोलू कुत्ते तो की मर्डर केरना।
-1	मैं	_	PRON	PRP	_	_	_	_	_
-2	बोलू	_	VERB	VM	_	_	_	_	_
-3	कुत्ते	_	NOUN	NN	_	_	_	_	_
-4	तो	_	ADP	PSP	_	_	_	_	_
-5	की	_	PRON	PRP	_	_	_	_	_
-6	मर्डर	_	NOUN	NN	_	_	_	_	_
-7	केरना	_	VERB	VM	_	_	_	_	_
-8	।	_	PUNCT	SYM	_	_	_	_	_
+1	मैं	_	PRON	PRP	_	2	nsubj	_	_
+2	बोलू	_	VERB	VM	_	0	root	_	_
+3	कुत्ते	_	NOUN	NN	_	7	nsubj	_	_
+4	तो	_	ADP	PSP	_	3	case	_	_
+5	की	_	PRON	PRP	_	6	det	_	_
+6	मर्डर	_	NOUN	NN	_	7	obj	_	_
+7	केरना	_	VERB	VM	_	2	ccomp	_	SpaceAfter=No
+8	।	_	PUNCT	SYM	_	2	punct	_	_
 
 # sent_id = 407
 # text = तेई पुछू नशा केरना मूँ आगे थोड़ी रम सा।
-1	तेई	_	PRON	PRP	_	_	_	_	_
-2	पुछू	_	VERB	VM	_	_	_	_	_
-3	नशा	_	NOUN	NN	_	_	_	_	_
-4	केरना	_	VERB	VM	_	_	_	_	_
-5	मूँ	_	PRON	PRP	_	_	_	_	_
-6	आगे	_	ADV	RB	_	_	_	_	_
-7	थोड़ी	_	ADV	RB	_	_	_	_	_
-8	रम	_	NOUN	NN	_	_	_	_	_
-9	सा	_	AUX	VAUX	_	_	_	_	_
-10	।	_	PUNCT	SYM	_	_	_	_	_
+1	तेई	_	PRON	PRP	_	2	nsubj	_	_
+2	पुछू	_	VERB	VM	_	0	root	_	_
+3	नशा	_	NOUN	NN	_	4	obj	_	_
+4	केरना	_	VERB	VM	_	2	ccomp	_	_
+5	मूँ	_	PRON	PRP	_	9	obl	_	_
+6	आगे	_	ADV	RB	_	9	advmod	_	_
+7	थोड़ी	_	ADV	RB	_	8	advmod	_	_
+8	रम	_	NOUN	NN	_	9	nsubj	_	_
+9	सा	_	AUX	VAUX	_	2	conj	_	SpaceAfter=No
+10	।	_	PUNCT	SYM	_	2	punct	_	_
 
 # sent_id = 408
 # text = न रम पंदे न खून केरने पांदे
-1	न	_	PART	NEG	_	_	_	_	_
-2	रम	_	NOUN	NN	_	_	_	_	_
-3	पंदे	_	ADP	PSP	_	_	_	_	_
-4	न	_	PART	NEG	_	_	_	_	_
-5	खून	_	NOUN	NN	_	_	_	_	_
-6	केरने	_	VERB	VM	_	_	_	_	_
-7	पांदे	_	ADP	PSP	_	_	_	_	_
+1	न	_	PART	NEG	_	6	advmod	_	_
+2	रम	_	NOUN	NN	_	6	obl	_	_
+3	पंदे	_	ADP	PSP	_	2	case	_	_
+4	न	_	PART	NEG	_	6	advmod	_	_
+5	खून	_	NOUN	NN	_	6	obj	_	_
+6	केरने	_	VERB	VM	_	0	root	_	_
+7	पांदे	_	ADP	PSP	_	6	mark	_	_
 
 # sent_id = 409
 # text = इन दुई रूप न तुसरी बेटी तुस बे सुत समेत वापस देंदी लागी
-1	इन	_	PRON	PRP	_	5	obl	_	_
+1	इन	_	PRON	PRP	_	3	det	_	_
 2	दुई	_	NUM	QC	_	3	nummod	_	_
-3	रूप	_	NOUN	NN	_	5	obl	_	_
+3	रूप	_	NOUN	NN	_	12	obl	_	_
 4	न	_	ADP	PSP	_	3	case	_	_
-5	तुसरी	_	PRON	PRP	_	8	nsubj	_	_
-6	बेटी	_	NOUN	NN	_	8	obj	_	_
-7	तुस	_	PRON	PRP	_	8	iobj	_	_
-8	बे	_	VERB	VM	_	0	root	_	_
-9	सुत	_	NOUN	NN	_	8	obj	_	_
+5	तुसरी	_	PRON	PRP	_	6	det	_	_
+6	बेटी	_	NOUN	NN	_	12	nsubj	_	_
+7	तुस	_	PRON	PRP	_	12	iobj	_	_
+8	बे	_	ADP	PSP	_	7	case	_	_
+9	सुत	_	NOUN	NN	_	12	obl	_	_
 10	समेत	_	ADP	PSP	_	9	case	_	_
-11	वापस	_	ADV	RB	_	8	advmod	_	_
-12	देंदी	_	VERB	VM	_	8	aux	_	_
-13	लागी	_	AUX	VAUX	_	8	aux	_	_
+11	वापस	_	ADV	RB	_	12	advmod	_	_
+12	देंदी	_	VERB	VM	_	0	root	_	_
+13	लागी	_	AUX	VAUX	_	12	aux	_	_
 
 # sent_id = 410
 # text = इन न तू मूमे हेरी सक सा शायद
-1	इन	_	PRON	PRP	_	4	obl	_	_
+1	इन	_	PRON	PRP	_	5	obl	_	_
 2	न	_	ADP	PSP	_	1	case	_	_
-3	तू	_	PRON	PRP	_	4	nsubj	_	_
-4	मूमे	_	VERB	VM	_	0	root	_	_
-5	हेरी	_	VERB	VM	_	4	aux	_	_
-6	सक	_	VERB	VM	_	4	aux	_	_
-7	सा	_	AUX	VAUX	_	4	aux	_	_
-8	शायद	_	ADV	RB	_	4	advmod	_	_
+3	तू	_	PRON	PRP	_	5	nsubj	_	_
+4	मूमे	_	PRON	PRP	_	5	obj	_	_
+5	हेरी	_	VERB	VM	_	0	root	_	_
+6	सक	_	AUX	VAUX	_	5	aux	_	_
+7	सा	_	AUX	VAUX	_	5	aux	_	_
+8	शायद	_	ADV	RB	_	5	advmod	_	_
 
 # sent_id = 411
 # text = बाबा तू बोला थी न आत्माए कदी नी मोरदी
@@ -5626,8 +5628,8 @@
 3	बोला	_	VERB	VM	_	0	root	_	_
 4	थी	_	AUX	VAUX	_	3	aux	_	_
 5	न	_	PART	RP	_	3	discourse	_	_
-6	आत्माए	_	NOUN	NN	_	8	nsubj	_	_
-7	कदी	_	ADV	RB	_	8	advmod	_	_
+6	आत्माए	_	NOUN	NN	_	9	nsubj	_	_
+7	कदी	_	ADV	RB	_	9	advmod	_	_
 8	नी	_	PART	NEG	_	9	advmod	_	_
 9	मोरदी	_	VERB	VM	_	3	ccomp	_	_
 
@@ -5640,29 +5642,29 @@
 5	शून्य	_	NOUN	NN	_	7	obl	_	_
 6	न	_	ADP	PSP	_	5	case	_	_
 7	तैरदी	_	VERB	VM	_	0	root	_	_
-8	रोहा	_	VERB	VM	_	7	aux	_	_
+8	रोहा	_	AUX	VAUX	_	7	aux	_	_
 9	सा	_	AUX	VAUX	_	7	aux	_	_
-10	शांत	_	ADJ	JJ	_	7	xcomp	_	_
-11	होइया	_	VERB	VM	_	10	aux	_	_
+10	शांत	_	ADJ	JJ	_	11	xcomp	_	_
+11	होइया	_	VERB	VM	_	7	advcl	_	_
 
 # sent_id = 413
 # text = हऊँ तेस शांति बे छूगना चाह सा
-1	हऊँ	_	PRON	PRP	_	5	nsubj	_	_
+1	हऊँ	_	PRON	PRP	_	6	nsubj	_	_
 2	तेस	_	PRON	PRP	_	3	det	_	_
 3	शांति	_	NOUN	NN	_	5	obj	_	_
 4	बे	_	ADP	PSP	_	3	case	_	_
-5	छूगना	_	VERB	VM	_	0	root	_	_
-6	चाह	_	VERB	VM	_	5	aux	_	_
-7	सा	_	AUX	VAUX	_	5	aux	_	_
+5	छूगना	_	VERB	VM	_	6	xcomp	_	_
+6	चाह	_	VERB	VM	_	0	root	_	_
+7	सा	_	AUX	VAUX	_	6	aux	_	_
 
 # sent_id = 414
 # text = हर शिर री थकने री आपणी एक सीमा हो सा
 1	हर	_	DET	DT	_	2	det	_	_
-2	शिर	_	NOUN	NN	_	8	nsubj	_	_
+2	शिर	_	NOUN	NN	_	4	nmod	_	_
 3	री	_	ADP	PSP	_	2	case	_	_
-4	थकने	_	NOUN	NN	_	8	obl	_	_
+4	थकने	_	NOUN	NN	_	8	nmod	_	_
 5	री	_	ADP	PSP	_	4	case	_	_
-6	आपणी	_	PRON	PRP	_	7	det:poss	_	_
+6	आपणी	_	PRON	PRP	_	8	det	_	_
 7	एक	_	NUM	QC	_	8	nummod	_	_
 8	सीमा	_	NOUN	NN	_	9	nsubj	_	_
 9	हो	_	VERB	VM	_	0	root	_	_
@@ -5673,12 +5675,12 @@
 1	हाँऊ	_	PRON	PRP	_	3	nsubj	_	_
 2	छेके	_	ADV	RB	_	3	advmod	_	_
 3	थकी	_	VERB	VM	_	0	root	_	_
-4	एथ	_	ADV	RB	_	6	advmod	_	_
-5	न	_	PART	NEG	_	6	advmod	_	_
+4	एथ	_	ADV	RB	_	8	advmod	_	_
+5	न	_	PART	NEG	_	8	advmod	_	_
 6	दोष	_	NOUN	NN	_	8	nsubj	_	_
 7	ता	_	PART	RP	_	8	discourse	_	_
-8	मेरा	_	PRON	PRP	_	3	ccomp	_	_
-9	सा	_	AUX	VAUX	_	8	aux	_	_
+8	मेरा	_	PRON	PRP	_	3	conj	_	_
+9	सा	_	AUX	VAUX	_	8	cop	_	_
 
 # sent_id = 416
 # text = तुस दुइ मुमे माफ़ केरी सक सी ता केरना
@@ -5687,7 +5689,7 @@
 3	मुमे	_	PRON	PRP	_	5	obj	_	_
 4	माफ़	_	ADJ	JJ	_	5	xcomp	_	_
 5	केरी	_	VERB	VM	_	0	root	_	_
-6	सक	_	VERB	VM	_	5	aux	_	_
+6	सक	_	AUX	VAUX	_	5	aux	_	_
 7	सी	_	AUX	VAUX	_	5	aux	_	_
 8	ता	_	PART	RP	_	9	discourse	_	_
 9	केरना	_	VERB	VM	_	5	conj	_	_
@@ -5696,14 +5698,14 @@
 # text = सोचा होले की एक साल बाद आख़िर हाँऊ तुस सेभी बे चिठ्ठी लिखदी कीबे बेशी
 1	सोचा	_	VERB	VM	_	0	root	_	_
 2	होले	_	ADV	RB	_	1	advmod	_	_
-3	की	_	SCONJ	CC	_	1	mark	_	_
+3	की	_	SCONJ	CC	_	13	mark	_	_
 4	एक	_	NUM	QC	_	5	nummod	_	_
-5	साल	_	NOUN	NN	_	7	obl	_	_
+5	साल	_	NOUN	NN	_	13	obl	_	_
 6	बाद	_	ADP	PSP	_	5	case	_	_
-7	आख़िर	_	ADV	RB	_	9	advmod	_	_
-8	हाँऊ	_	PRON	PRP	_	9	nsubj	_	_
-9	तुस	_	PRON	PRP	_	12	iobj	_	_
-10	सेभी	_	PRON	PRP	_	12	obj	_	_
+7	आख़िर	_	ADV	RB	_	13	advmod	_	_
+8	हाँऊ	_	PRON	PRP	_	13	nsubj	_	_
+9	तुस	_	PRON	PRP	_	10	nmod	_	_
+10	सेभी	_	PRON	PRP	_	13	iobj	_	_
 11	बे	_	ADP	PSP	_	10	case	_	_
 12	चिठ्ठी	_	NOUN	NN	_	13	obj	_	_
 13	लिखदी	_	VERB	VM	_	1	ccomp	_	_
@@ -5712,24 +5714,24 @@
 
 # sent_id = 418
 # text = मता डोरे एंडा किच्छ भी नूया नी घटी रा
-1	मता	_	ADV	RB	_	6	advmod	_	_
-2	डोरे	_	ADV	RB	_	6	advmod	_	_
+1	मता	_	ADV	RB	_	8	advmod	_	_
+2	डोरे	_	ADV	RB	_	8	advmod	_	_
 3	एंडा	_	ADJ	JJ	_	4	amod	_	_
-4	किच्छ	_	PRON	PRP	_	6	nsubj	_	_
-5	भी	_	PART	RP	_	4	advmod	_	_
-6	नूया	_	ADJ	JJ	_	0	root	_	_
-7	नी	_	PART	NEG	_	6	advmod	_	_
-8	घटी	_	VERB	VM	_	6	aux	_	_
-9	रा	_	AUX	VAUX	_	6	aux	_	_
+4	किच्छ	_	PRON	PRP	_	8	nsubj	_	_
+5	भी	_	PART	RP	_	4	discourse	_	_
+6	नूया	_	ADJ	JJ	_	4	amod	_	_
+7	नी	_	PART	NEG	_	8	advmod	_	_
+8	घटी	_	VERB	VM	_	0	root	_	_
+9	रा	_	AUX	VAUX	_	8	aux	_	_
 
 # sent_id = 419
 # text = किच्छ नुआ होई भी की सक सा
 1	किच्छ	_	PRON	PRP	_	3	nsubj	_	_
 2	नुआ	_	ADJ	JJ	_	3	xcomp	_	_
-3	होई	_	VERB	VM	_	0	root	_	_
-4	भी	_	PART	RP	_	3	advmod	_	_
-5	की	_	PRON	PRP	_	6	nsubj	_	_
-6	सक	_	VERB	VM	_	3	conj	_	_
+3	होई	_	VERB	VM	_	6	xcomp	_	_
+4	भी	_	PART	RP	_	3	discourse	_	_
+5	की	_	PRON	PRP	_	6	discourse	_	_
+6	सक	_	VERB	VM	_	0	root	_	_
 7	सा	_	AUX	VAUX	_	6	aux	_	_
 
 # sent_id = 420
@@ -5738,63 +5740,63 @@
 2	पता	_	NOUN	NN	_	3	nsubj	_	_
 3	सा	_	AUX	VAUX	_	0	root	_	_
 4	न	_	ADP	PSP	_	5	case	_	_
-5	बंबई	_	PROPN	NNP	_	8	obl	_	_
+5	बंबई	_	PROPN	NNP	_	11	obl	_	_
 6	न	_	ADP	PSP	_	7	case	_	_
-7	बरसात	_	NOUN	NN	_	8	nmod	_	_
-8	रा	_	ADP	PSP	_	9	case	_	_
-9	मौसम	_	NOUN	NN	_	10	nsubj	_	_
-10	शुरू	_	ADJ	JJ	_	3	ccomp	_	_
-11	हुई	_	VERB	VM	_	10	aux	_	_
-12	रा	_	AUX	VAUX	_	10	aux	_	_
+7	बरसात	_	NOUN	NN	_	9	nmod	_	_
+8	रा	_	ADP	PSP	_	7	case	_	_
+9	मौसम	_	NOUN	NN	_	11	nsubj	_	_
+10	शुरू	_	ADJ	JJ	_	11	xcomp	_	_
+11	हुई	_	VERB	VM	_	3	ccomp	_	_
+12	रा	_	AUX	VAUX	_	11	aux	_	_
 
 # sent_id = 421
 # text = होर मूमे जूनी री डोर थी सोए हुआ
-1	होर	_	CCONJ	CC	_	5	cc	_	_
-2	मूमे	_	PRON	PRP	_	5	nsubj	_	_
-3	जूनी	_	NOUN	NN	_	4	nmod	_	_
+1	होर	_	CCONJ	CC	_	8	cc	_	_
+2	मूमे	_	PRON	PRP	_	8	obl	_	_
+3	जूनी	_	NOUN	NN	_	5	nmod	_	_
 4	री	_	ADP	PSP	_	3	case	_	_
-5	डोर	_	NOUN	NN	_	0	root	_	_
-6	थी	_	AUX	VAUX	_	5	aux	_	_
-7	सोए	_	ADV	RB	_	5	advmod	_	_
-8	हुआ	_	VERB	VM	_	5	aux	_	_
+5	डोर	_	NOUN	NN	_	8	nsubj	_	_
+6	थी	_	AUX	VAUX	_	8	aux	_	_
+7	सोए	_	ADV	RB	_	8	advmod	_	_
+8	हुआ	_	VERB	VM	_	0	root	_	_
 
 # sent_id = 422
 # text = बस ए यादा सी तौ संगे बोंडना चाह थी
-1	बस	_	ADV	RB	_	5	advmod	_	_
+1	बस	_	ADV	RB	_	8	advmod	_	_
 2	ए	_	PRON	PRP	_	3	det	_	_
-3	यादा	_	NOUN	NN	_	5	obj	_	_
+3	यादा	_	NOUN	NN	_	7	obj	_	_
 4	सी	_	ADP	PSP	_	3	case	_	_
 5	तौ	_	PRON	PRP	_	7	obl	_	_
 6	संगे	_	ADP	PSP	_	5	case	_	_
-7	बोंडना	_	VERB	VM	_	0	root	_	_
-8	चाह	_	VERB	VM	_	7	aux	_	_
-9	थी	_	AUX	VAUX	_	7	aux	_	_
+7	बोंडना	_	VERB	VM	_	8	xcomp	_	_
+8	चाह	_	VERB	VM	_	0	root	_	_
+9	थी	_	AUX	VAUX	_	8	aux	_	_
 
 # sent_id = 423
 # text = बाबला होर मू न होड़ लागी थी की कुनी केतरे जादा केंचुए मारे
-1	बाबला	_	NOUN	NN	_	4	vocative	_	_
-2	होर	_	CCONJ	CC	_	4	cc	_	_
-3	मू	_	PRON	PRP	_	4	nsubj	_	_
-4	न	_	PART	NEG	_	5	advmod	_	_
-5	होड़	_	NOUN	NN	_	6	obl	_	_
+1	बाबला	_	NOUN	NN	_	6	vocative	_	_
+2	होर	_	CCONJ	CC	_	6	cc	_	_
+3	मू	_	PRON	PRP	_	5	nmod	_	_
+4	न	_	PART	NEG	_	5	discourse	_	_
+5	होड़	_	NOUN	NN	_	6	nsubj	_	_
 6	लागी	_	VERB	VM	_	0	root	_	_
 7	थी	_	AUX	VAUX	_	6	aux	_	_
-8	की	_	SCONJ	CC	_	6	mark	_	_
-9	कुनी	_	PRON	PRP	_	12	nsubj	_	_
-10	केतरे	_	ADV	RB	_	12	advmod	_	_
-11	जादा	_	ADV	RB	_	12	advmod	_	_
-12	केंचुए	_	NOUN	NN	_	6	ccomp	_	_
-13	मारे	_	VERB	VM	_	12	aux	_	_
+8	की	_	SCONJ	CC	_	13	mark	_	_
+9	कुनी	_	PRON	PRP	_	13	nsubj	_	_
+10	केतरे	_	ADV	RB	_	13	advmod	_	_
+11	जादा	_	ADV	RB	_	13	advmod	_	_
+12	केंचुए	_	NOUN	NN	_	13	obj	_	_
+13	मारे	_	VERB	VM	_	6	ccomp	_	_
 
 # sent_id = 424
 # text = बाबला ता एक एक केंचुए पंदे मुठी भोरी भोरी लून पा थी
 1	बाबला	_	NOUN	NN	_	11	nsubj	_	_
-2	ता	_	PART	RP	_	1	discourse	_	_
-3	एक	_	NUM	QC	_	4	nummod	_	_
-4	एक	_	NUM	QC	_	5	nummod	_	_
+2	ता	_	PART	RP	_	11	discourse	_	_
+3	एक	_	NUM	QC	_	5	nummod	_	_
+4	एक	_	NUM	QC	_	3	fixed	_	_
 5	केंचुए	_	NOUN	NN	_	11	obl	_	_
 6	पंदे	_	ADP	PSP	_	5	case	_	_
-7	मुठी	_	NOUN	NN	_	8	nmod	_	_
+7	मुठी	_	NOUN	NN	_	10	nmod	_	_
 8	भोरी	_	ADV	RB	_	11	advmod	_	_
 9	भोरी	_	ADV	RB	_	8	conj	_	_
 10	लून	_	NOUN	NN	_	11	obj	_	_
@@ -5804,64 +5806,64 @@
 # sent_id = 425
 # text = ओज मुमे लागा सा बाबा तू ठीक बोला थी
 1	ओज	_	ADV	RB	_	3	advmod	_	_
-2	मुमे	_	PRON	PRP	_	3	nsubj	_	_
+2	मुमे	_	PRON	PRP	_	3	obl	_	_
 3	लागा	_	VERB	VM	_	0	root	_	_
 4	सा	_	AUX	VAUX	_	3	aux	_	_
-5	बाबा	_	NOUN	NN	_	7	vocative	_	_
-6	तू	_	PRON	PRP	_	7	nsubj	_	_
-7	ठीक	_	ADJ	JJ	_	3	ccomp	_	_
-8	बोला	_	VERB	VM	_	7	aux	_	_
-9	थी	_	AUX	VAUX	_	7	aux	_	_
+5	बाबा	_	NOUN	NN	_	8	vocative	_	_
+6	तू	_	PRON	PRP	_	8	nsubj	_	_
+7	ठीक	_	ADJ	JJ	_	8	xcomp	_	_
+8	बोला	_	VERB	VM	_	3	ccomp	_	_
+9	थी	_	AUX	VAUX	_	8	aux	_	_
 
 # sent_id = 426
 # text = हत्या चाहे माहनु री हो या पशु री हत्या ता हत्या सा
-1	हत्या	_	NOUN	NN	_	11	nsubj	_	_
+1	हत्या	_	NOUN	NN	_	9	nmod	_	_
 2	चाहे	_	CCONJ	CC	_	5	cc	_	_
-3	माहनु	_	NOUN	NN	_	5	nmod	_	_
+3	माहनु	_	NOUN	NN	_	1	nmod	_	_
 4	री	_	ADP	PSP	_	3	case	_	_
 5	हो	_	VERB	VM	_	1	acl	_	_
-6	या	_	CCONJ	CC	_	8	cc	_	_
-7	पशु	_	NOUN	NN	_	8	nmod	_	_
+6	या	_	CCONJ	CC	_	7	cc	_	_
+7	पशु	_	NOUN	NN	_	9	nmod	_	_
 8	री	_	ADP	PSP	_	7	case	_	_
-9	हत्या	_	NOUN	NN	_	10	nsubj	_	_
+9	हत्या	_	NOUN	NN	_	11	nsubj	_	_
 10	ता	_	PART	RP	_	11	discourse	_	_
 11	हत्या	_	NOUN	NN	_	0	root	_	_
-12	सा	_	AUX	VAUX	_	11	aux	_	_
+12	सा	_	AUX	VAUX	_	11	cop	_	_
 
 # sent_id = 427
 # text = ए मेरे ब्याह न बाद की पोंजउई बरसात सा
-1	ए	_	PRON	PRP	_	7	nsubj	_	_
-2	मेरे	_	PRON	PRP	_	3	det:poss	_	_
+1	ए	_	PRON	PRP	_	8	det	_	_
+2	मेरे	_	PRON	PRP	_	3	det	_	_
 3	ब्याह	_	NOUN	NN	_	5	nmod	_	_
 4	न	_	ADP	PSP	_	3	case	_	_
-5	बाद	_	NOUN	NN	_	7	obl	_	_
+5	बाद	_	NOUN	NN	_	8	nmod	_	_
 6	की	_	ADP	PSP	_	5	case	_	_
 7	पोंजउई	_	ADJ	JJ	_	8	amod	_	_
-8	बरसात	_	NOUN	NN	_	9	nsubj	_	_
-9	सा	_	AUX	VAUX	_	0	root	_	_
+8	बरसात	_	NOUN	NN	_	0	root	_	_
+9	सा	_	AUX	VAUX	_	8	cop	_	_
 
 # sent_id = 428
 # text = बरसात रे ठीक पहले तें मेरा बयाह कराऊ थी
-1	बरसात	_	NOUN	NN	_	4	obl	_	_
+1	बरसात	_	NOUN	NN	_	4	nmod	_	_
 2	रे	_	ADP	PSP	_	1	case	_	_
 3	ठीक	_	ADV	RB	_	4	advmod	_	_
-4	पहले	_	ADV	RB	_	7	advmod	_	_
-5	तें	_	PRON	PRP	_	7	nsubj	_	_
-6	मेरा	_	PRON	PRP	_	7	obj	_	_
-7	बयाह	_	VERB	VM	_	0	root	_	_
-8	कराऊ	_	VERB	VM	_	7	aux	_	_
-9	थी	_	AUX	VAUX	_	7	aux	_	_
+4	पहले	_	ADV	RB	_	8	advmod	_	_
+5	तें	_	PRON	PRP	_	8	nsubj	_	_
+6	मेरा	_	PRON	PRP	_	7	det	_	_
+7	बयाह	_	NOUN	NN	_	8	obj	_	_
+8	कराऊ	_	VERB	VM	_	0	root	_	_
+9	थी	_	AUX	VAUX	_	8	aux	_	_
 
 # sent_id = 429
 # text = इतरे माहनु ता मैं आपने पूरे ग्रां न नि हेरे थी
 1	इतरे	_	ADV	RB	_	2	advmod	_	_
-2	माहनु	_	NOUN	NN	_	8	obl	_	_
+2	माहनु	_	NOUN	NN	_	10	obj	_	_
 3	ता	_	PART	RP	_	2	discourse	_	_
-4	मैं	_	PRON	PRP	_	8	nsubj	_	_
-5	आपने	_	PRON	PRP	_	7	det:poss	_	_
+4	मैं	_	PRON	PRP	_	10	nsubj	_	_
+5	आपने	_	PRON	PRP	_	7	det	_	_
 6	पूरे	_	ADJ	JJ	_	7	amod	_	_
-7	ग्रां	_	NOUN	NN	_	8	obl	_	_
-8	न	_	ADP	PSP	_	9	case	_	_
+7	ग्रां	_	NOUN	NN	_	10	obl	_	_
+8	न	_	ADP	PSP	_	7	case	_	_
 9	नि	_	PART	NEG	_	10	advmod	_	_
 10	हेरे	_	VERB	VM	_	0	root	_	_
 11	थी	_	AUX	VAUX	_	10	aux	_	_
@@ -5872,21 +5874,23 @@
 2	हाँऊ	_	PRON	PRP	_	4	nsubj	_	_
 3	बोहु	_	ADV	RB	_	4	advmod	_	_
 4	ख़ुश	_	ADJ	JJ	_	0	root	_	_
-5	थी	_	AUX	VAUX	_	4	aux	_	_
+5	थी	_	AUX	VAUX	_	4	cop	_	_
 
 # sent_id = 431
 # text = मूमे लागू मेरा बाँकुड़ा मेरे घुंडू न बोनू होंदा मू संगे संगे उंढदा लागा।
-1	मूमे	_	PRON	PRP	_	2	nsubj	_	_
+1	मूमे	_	PRON	PRP	_	2	obl	_	_
 2	लागू	_	VERB	VM	_	0	root	_	_
-3	मेरा	_	PRON	PRP	_	4	det:poss	_	_
+3	मेरा	_	PRON	PRP	_	4	det	_	_
 4	बाँकुड़ा	_	NOUN	NN	_	8	nsubj	_	_
-5	मेरे	_	PRON	PRP	_	6	det:poss	_	_
+5	मेरे	_	PRON	PRP	_	6	det	_	_
 6	घुंडू	_	NOUN	NN	_	8	obl	_	_
 7	न	_	ADP	PSP	_	6	case	_	_
 8	बोनू	_	VERB	VM	_	2	ccomp	_	_
-9	होंदा	_	VERB	VM	_	8	aux	_	_
-10	मू	_	PRON	PRP	_	12	obl	_	_
+9	होंदा	_	AUX	VAUX	_	8	aux	_	_
+10	मू	_	PRON	PRP	_	13	obl	_	_
 11	संगे	_	ADP	PSP	_	10	case	_	_
 12	संगे	_	ADV	RB	_	13	advmod	_	_
 13	उंढदा	_	VERB	VM	_	8	conj	_	_
-14	लागा	_	AUX	VAUX	_	13	aux	_	_
+14	लागा	_	AUX	VAUX	_	13	aux	_	SpaceAfter=No
+15	।	_	PUNCT	SYM	_	13	punct	_	_
+
