@@ -444,7 +444,7 @@
 2	नौकर	_	NOUN	NN	_	4	obj	_	_
 3	न	_	PART	NEG	_	4	advmod	_	_
 4	तंग	_	ADJ	JJ	_	0	root	_	_
-5	हुई	_	VERB	VM	_	4	cop	_	SpaceAfter=No
+5	हुई	_	VERB	VM	_	4	xcomp	_	SpaceAfter=No
 6	।	_	PUNCT	SYM	_	4	punct	_	_
 
 # sent_id = 36
@@ -468,8 +468,8 @@
 5	मिली	_	VERB	VM	_	6	advcl	_	_
 6	ता	_	PART	RP	_	10	discourse	_	_
 7	सीधे	_	ADV	RB	_	10	advmod	_	_
-8	डॉक्टर	_	NOUN	NN	_	9	nmod	_	_
-9	आगे	_	ADP	PSP	_	10	case	_	_
+8	डॉक्टर	_	NOUN	NN	_	10	nmod	_	_
+9	आगे	_	ADP	PSP	_	8	case	_	_
 10	नोठे	_	VERB	VM	_	0	root	_	SpaceAfter=No
 11	।	_	PUNCT	SYM	_	10	punct	_	_
 
