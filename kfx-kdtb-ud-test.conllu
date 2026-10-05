@@ -1,17 +1,17 @@
 # sent_id = 1
 # text = तुसरा घोर कोखे सा ?
-1	तुसरा	_	PRON	PRP	_	2	det:poss	_	_
+1	तुसरा	_	PRON	PRP	_	2	det	_	_
 2	घोर	_	NOUN	NN	_	4	nsubj	_	_
 3	कोखे	_	ADV	RB	_	4	advmod	_	_
-4	सा	_	VERB	VM	_	0	root	_	SpaceAfter=No
+4	सा	_	VERB	VM	_	0	root	_	_
 5	?	_	PUNCT	SYM	_	4	punct	_	_
 
 # sent_id = 2
 # text = तुसरा नाम की सा ?
-1	तुसरा	_	PRON	PRP	_	2	det:poss	_	_
+1	तुसरा	_	PRON	PRP	_	2	det	_	_
 2	नाम	_	NOUN	NN	_	4	nsubj	_	_
 3	की	_	PRON	WQ	_	2	det	_	_
-4	सा	_	VERB	VM	_	0	root	_	SpaceAfter=No
+4	सा	_	VERB	VM	_	0	root	_	_
 5	?	_	PUNCT	SYM	_	4	punct	_	_
 
 # sent_id = 3
