@@ -335,7 +335,7 @@
 
 # sent_id = 28
 # text = खाने न पहले प्लेटा साफ़ केरनी बड़ी जरूरी होआ सी ।
-1	खाने	_	VERB	VM	_	4	obl	_	_
+1	खाने	_	VERB	VM	_	4	nmod	_	_
 2	न	_	ADP	PSP	_	1	case	_	_
 3	पहले	_	ADV	RB	_	4	advmod	_	_
 4	प्लेटा	_	NOUN	NN	_	7	nsubj	_	_
@@ -349,13 +349,13 @@
 
 # sent_id = 29
 # text = आसे ओज़ शिमला न बड़ा मज़ा केरदे लागे सी
-1	आसे	_	PRON	PRP	_	6	nsubj	_	_
-2	ओज़	_	ADV	RB	_	6	advmod	_	_
-3	शिमला	_	PROPN	NNP	_	4	nmod	_	_
+1	आसे	_	PRON	PRP	_	8	nsubj	_	_
+2	ओज़	_	ADV	RB	_	8	advmod	_	_
+3	शिमला	_	PROPN	NNP	_	6	obl	_	_
 4	न	_	ADP	PSP	_	3	case	_	_
 5	बड़ा	_	ADV	RB	_	6	advmod	_	_
 6	मज़ा	_	NOUN	NN	_	7	obj	_	_
-7	केरदे	_	VERB	VM	_	8	advmod	_	_
+7	केरदे	_	VERB	VM	_	8	xcomp	_	_
 8	लागे	_	VERB	VM	_	0	root	_	_
 9	सी	_	AUX	VAUX	_	8	aux	_	_
 
