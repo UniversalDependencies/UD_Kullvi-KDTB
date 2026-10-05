@@ -25,7 +25,7 @@
 # text = मेरे पाहुने लोड़ी आए
 1	मेरे	_	PRON	PRP	_	2	det	_	_
 2	पाहुने	_	NOUN	NN	_	4	nsubj	_	_
-3	लोड़ी	_	VERB	VM	_	4	advmod	_	_
+3	लोड़ी	_	ADV	RB	_	4	advmod	_	_
 4	आए	_	VERB	VM	_	0	root	_	_
 
 # sent_id = 5
