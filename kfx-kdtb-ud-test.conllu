@@ -4609,14 +4609,16 @@
 7	।	_	PUNCT	SYM	_	5	punct	_	_
 
 # sent_id = 335
-# text = पुल आगे रोहा सा हाऊँ।
-1	पुल	_	NOUN	NN	_	3	obl	_	_
-2	आगे	_	ADV	RB	_	3	advmod	_	_
-3	रोहा	_	VERB	VM	_	0	root	_	_
-4	सा	_	AUX	VAUX	_	3	aux	_	_
-5	हाऊँ	_	PRON	PRP	_	3	nsubj	_	SpaceAfter=No
-6	।	_	PUNCT	SYM	_	3	punct	_	_
-
+# text = ए चमार रा मुखिया बड़ा दुष्ट माहनु थी।
+1	ए	_	DET	DT	_	2	det	_	_
+2	चमार	_	NOUN	NN	_	4	nmod	_	_
+3	रा	_	ADP	PSP	_	2	case	_	_
+4	मुखिया	_	NOUN	NN	_	7	nsubj	_	_
+5	बड़ा	_	ADV	RB	_	6	advmod	_	_
+6	दुष्ट	_	ADJ	JJ	_	7	amod	_	_
+7	माहनु	_	NOUN	NN	_	8	nsubj	_	_
+8	थी	_	AUX	VAUX	_	0	root	_	SpaceAfter=No
+9	।	_	PUNCT	SYM	_	8	punct	_	_
 
 # sent_id = 337
 # text = असली न ता ए सा की जनाब की आपणे शैर रे माटे होर ओख रा पेड़ा
@@ -4893,19 +4895,21 @@
 5	मनुस	_	NOUN	NN	_	3	dep	_	_
 
 # sent_id = 357
-# text = हाऊँ बाहर निकली न बाद भी वापस कॉफ़ी हाउंस न पूजू होर बेशू
-1	हाऊँ	_	PRON	PRP	_	10	nsubj	_	_
-2	बाहर	_	ADV	RB	_	10	advmod	_	_
-3	न	_	ADP	PSP	_	2	case	_	_
-4	बाद	_	NOUN	NN	_	10	obl	_	_
-5	भी	_	PART	RP	_	4	discourse	_	_
-6	वापस	_	ADV	RB	_	10	advmod	_	_
-7	कॉफ़ी	_	NOUN	NN	_	8	compound	_	_
-8	हाउंस	_	NOUN	NN	_	10	obl	_	_
-9	न	_	ADP	PSP	_	8	case	_	_
-10	पूजू	_	VERB	VM	_	0	root	_	_
-11	होर	_	CCONJ	CC	_	12	cc	_	_
-12	बेशू	_	VERB	VM	_	10	conj	_	_
+# text = हाऊँ बाहर निकली न बाद भी वापस कॉफ़ी हाउंस न पूजू होर बेशू |
+1	हाऊँ	_	PRON	PRP	_	11	nsubj	_	_
+2	बाहर	_	ADV	RB	_	3	advmod	_	_
+3	निकली	_	VERB	VM	_	11	advcl	_	_
+4	न	_	ADP	PSP	_	5	case	_	_
+5	बाद	_	NOUN	NN	_	11	obl	_	_
+6	भी	_	PART	RP	_	5	discourse	_	_
+7	वापस	_	ADV	RB	_	11	advmod	_	_
+8	कॉफ़ी	_	NOUN	NN	_	9	compound	_	_
+9	हाउंस	_	NOUN	NN	_	11	obl	_	_
+10	न	_	ADP	PSP	_	9	case	_	_
+11	पूजू	_	VERB	VM	_	0	root	_	_
+12	होर	_	CCONJ	CC	_	13	cc	_	_
+13	बेशू	_	VERB	VM	_	11	conj	_	_
+14	|	_	PUNCT	SYM	_	11	punct	_	_
 
 # sent_id = 358
 # text = तेबे न फेटे हाऊँ ए समझी बेशू
