@@ -2695,23 +2695,25 @@
 9	।	_	PUNCT	SYM	_	7	punct	_	_
 
 # sent_id = 185
-# text = दूजी जगह जोखे सौ लागा सी तोखे इनरा दस लाई ए भी कोम चला सा।
+# text = दूजी जगह जोखे सौ लागा सी, तोखे इनरा दस लाई, ए भी कोम चला सा।
 1	दूजी	_	ADJ	JJ	_	2	amod	_	_
 2	जगह	_	NOUN	NN	_	5	obl	_	_
 3	जोखे	_	ADV	RB	_	5	advmod	_	_
 4	सौ	_	NUM	QC	_	5	nsubj	_	_
 5	लागा	_	VERB	VM	_	0	root	_	_
-6	सी	_	AUX	VAUX	_	5	aux	_	_
-7	तोखे	_	ADV	RB	_	14	advmod	_	_
-8	इनरा	_	PRON	PRP	_	9	nmod	_	_
-9	दस	_	NUM	QC	_	14	obl	_	_
-10	लाई	_	ADP	PSP	_	9	case	_	_
-11	ए	_	PRON	PRP	_	14	nsubj	_	_
-12	भी	_	PART	RP	_	11	advmod	_	_
-13	कोम	_	NOUN	NN	_	14	nsubj	_	_
-14	चला	_	VERB	VM	_	5	conj	_	_
-15	सा	_	AUX	VAUX	_	14	aux	_	SpaceAfter=No
-16	।	_	PUNCT	SYM	_	14	punct	_	_
+6	सी	_	AUX	VAUX	_	5	aux	_	SpaceAfter=No
+7	,	_	PUNCT	SYM	_	5	punct	_	_
+8	तोखे	_	ADV	RB	_	16	advmod	_	_
+9	इनरा	_	PRON	PRP	_	10	nmod	_	_
+10	दस	_	NUM	QC	_	16	obl	_	_
+11	लाई	_	ADP	PSP	_	10	case	_	SpaceAfter=No
+12	,	_	PUNCT	SYM	_	16	punct	_	_
+13	ए	_	PRON	PRP	_	15	det	_	_
+14	भी	_	PART	RP	_	13	advmod	_	_
+15	कोम	_	NOUN	NN	_	16	nsubj	_	_
+16	चला	_	VERB	VM	_	5	conj	_	_
+17	सा	_	AUX	VAUX	_	16	aux	_	SpaceAfter=No
+18	।	_	PUNCT	SYM	_	16	punct	_	_
 
 # sent_id = 186
 # text = दौड़ भाग केरने री तक सिपाही री एक फ़ौज ता थी।
