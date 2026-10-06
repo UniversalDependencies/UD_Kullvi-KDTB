@@ -84,18 +84,19 @@
 10	।	_	PUNCT	SYM	_	7	punct	_	_
 
 # sent_id = 10
-# text = हाऊँ चोली सा दुजे देश ना घुमदी, तुसे भी चोला संगे
+# text = हाऊँ चोली सा दुजे देश ना घुमदी तुसे भी चोला संगे ।
 1	हाऊँ	_	PRON	PRP	_	3	nsubj	_	_
 2	चोली	_	VERB	VM	_	3	advcl	_	_
 3	सा	_	VERB	VM	_	0	root	_	_
 4	दुजे	_	ADJ	JJ	_	5	amod	_	_
 5	देश	_	NOUN	NN	_	7	obl	_	_
 6	ना	_	ADP	PSP	_	5	case	_	_
-7	घुमदी	_	VERB	VM	_	3	parataxis	_	SpaceAfter=No
+7	घुमदी	_	VERB	VM	_	3	parataxis	_	_
 8	तुसे	_	PRON	PRP	_	11	nsubj	_	_
 9	भी	_	PART	RP	_	8	advmod	_	_
 10	चोला	_	NOUN	NN	_	11	obl	_	_
-11	संगे	_	ADP	PSP	_	7	conj	_	_
+11	संगे	_	ADP	PSP	_	7	conj	_	SpaceAfter=No
+12	।	_	PUNCT	SYM	_	3	punct	_	_
 
 # sent_id = 11
 # text = होरी बे ज्ञान आपू बे गोशटे ।
@@ -172,7 +173,7 @@
 11	।	_	PUNCT	SYM	_	2	punct	_	_
 
 # sent_id = 17
-# text = ओज़ आसरा भारत आजाद हुआ थी, अंग्रेज़े बड़े जुल्म केरे थी आसरे देश पंदे ।
+# text = ओज़ आसरा भारत आजाद हुआ थी, अंग्रेज़े बड़े जुल्म केरे थी आसरे देश पंदे।
 1	ओज़	_	ADV	RB	_	5	advmod	_	_
 2	आसरा	_	PRON	PRP	_	5	nsubj	_	_
 3	भारत	_	PROPN	NNP	_	2	compound	_	_
@@ -523,10 +524,11 @@
 # sent_id = 42
 # text = सारा कोम बेगार न हुआ।
 1	सारा	_	ADJ	JJ	_	2	amod	_	_
-2	कोम	_	NOUN	NN	_	4	nsubj	_	_
-3	बेगार	_	ADV	RB	_	4	advmod	_	_
-4	हुआ	_	VERB	VM	_	0	root	_	SpaceAfter=No
-5	।	_	PUNCT	SYM	_	4	punct	_	_
+2	कोम	_	NOUN	NN	_	5	nsubj	_	_
+3	बेगार	_	ADV	RB	_	5	advmod	_	_
+4	न	_	PART	NEG	_	5	advmod	_	_
+5	हुआ	_	VERB	VM	_	0	root	_	SpaceAfter=No
+6	।	_	PUNCT	SYM	_	5	punct	_	_
 
 # sent_id = 43
 # text = मुफ़्त न अच्छा ख़ासा घोर तैयार हुआ।
@@ -594,13 +596,13 @@
 # sent_id = 48
 # text = एक रोज़ सो टहलदे टहलदे चमार रे टोले री साइड नौठू।
 1	एक	_	NUM	QC	_	2	nummod	_	_
-2	रोज़	_	NOUN	NN	_	8	obl	_	_
-3	सो	_	PRON	PRP	_	8	nsubj	_	_
-4	टहलदे	_	VERB	VM	_	6	advcl	_	_
+2	रोज़	_	NOUN	NN	_	11	obl	_	_
+3	सो	_	PRON	PRP	_	11	nsubj	_	_
+4	टहलदे	_	VERB	VM	_	11	advcl	_	_
 5	टहलदे	_	VERB	VM	_	4	conj	_	_
 6	चमार	_	NOUN	NN	_	8	nmod	_	_
 7	रे	_	ADP	PSP	_	6	case	_	_
-8	टोले	_	NOUN	NN	_	10	obl	_	_
+8	टोले	_	NOUN	NN	_	10	nmod	_	_
 9	री	_	ADP	PSP	_	8	case	_	_
 10	साइड	_	NOUN	NN	_	11	obl	_	_
 11	नौठू	_	VERB	VM	_	0	root	_	SpaceAfter=No
@@ -698,10 +700,10 @@
 
 # sent_id = 56
 # text = मुँह मुँह आन्दरे गुरबानी रा पाठ लाऊ थी केरना, कैसेट रे संगे संगे।
-1	मुँह	_	NOUN	NN	_	6	nmod	_	_
+1	मुँह	_	NOUN	NN	_	7	obl	_	_
 2	मुँह	_	NOUN	NN	_	1	compound	_	_
-3	आन्दरे	_	ADV	RB	_	6	advmod	_	_
-4	गुरबानी	_	NOUN	NN	_	6	obj	_	_
+3	आन्दरे	_	ADV	RB	_	7	advmod	_	_
+4	गुरबानी	_	NOUN	NN	_	6	nmod	_	_
 5	रा	_	ADP	PSP	_	4	case	_	_
 6	पाठ	_	NOUN	NN	_	7	obj	_	_
 7	लाऊ	_	VERB	VM	_	0	root	_	_
@@ -710,7 +712,7 @@
 10	,	_	PUNCT	SYM	_	9	punct	_	_
 11	कैसेट	_	NOUN	NN	_	9	obl	_	_
 12	रे	_	ADP	PSP	_	11	case	_	_
-13	संगे	_	ADP	PSP	_	11	case	_	_
+13	संगे	_	ADP	PSP	_	11	case	_	ExtPos=ADP
 14	संगे	_	ADP	PSP	_	13	fixed	_	SpaceAfter=No
 15	।	_	PUNCT	SYM	_	7	punct	_	_
 
@@ -807,7 +809,7 @@
 13	थी	_	AUX	VAUX	_	12	aux	_	_
 14	बस	_	NOUN	NN	_	12	obl	_	_
 15	न	_	ADP	PSP	_	14	case	_	SpaceAfter=No
-16	।	_	PUNCT	SYM	_	5	punct	_
+16	।	_	PUNCT	SYM	_	5	punct	_	_
 
 # sent_id = 64
 # text = आसरी लाइन न बाक़ी तराई सीटा पन्दे एक टब्बर थी।
@@ -895,9 +897,9 @@
 
 # sent_id = 69
 # text = मैं इशारे सी दस्सू थी बस तक जाना।
-1	मैं	_	PRON	PRP	_	3	nsubj	_	_
-2	इशारे	_	NOUN	NN	_	3	obl	_	_
-3	सी	_	ADP	PSP	_	4	case	_	_
+1	मैं	_	PRON	PRP	_	4	nsubj	_	_
+2	इशारे	_	NOUN	NN	_	4	obl	_	_
+3	सी	_	ADP	PSP	_	2	case	_	_
 4	दस्सू	_	VERB	VM	_	0	root	_	_
 5	थी	_	AUX	VAUX	_	4	aux	_	_
 6	बस	_	NOUN	NN	_	8	obl	_	_
@@ -911,21 +913,21 @@
 2	किछ	_	PRON	PRP	_	5	obj	_	_
 3	होर	_	ADV	RB	_	2	advmod	_	_
 4	भी	_	PART	RP	_	2	advmod	_	_
-5	पूछना	_	VERB	VM	_	7	advcl	_	_
+5	पूछना	_	VERB	VM	_	0	root	_	_
 6	थी	_	AUX	VAUX	_	5	aux	_	_
-7	पर	_	CCONJ	CC	_	0	root	_	_
-8	मैं	_	PRON	PRP	_	12	nsubj	_	_
-9	तेइबे	_	ADV	RB	_	12	advmod	_	_
+7	पर	_	CCONJ	CC	_	13	cc	_	_
+8	मैं	_	PRON	PRP	_	13	nsubj	_	_
+9	तेइबे	_	ADV	RB	_	13	advmod	_	_
 10	कोई	_	PRON	PRP	_	11	det	_	_
-11	मौक़ा	_	NOUN	NN	_	12	obj	_	_
-12	नहीं	_	PART	NEG	_	14	advmod	_	_
-13	धीनू	_	VERB	VM	_	14	conj	_	_
-14	होर	_	ADV	RB	_	16	advmod	_	_
+11	मौक़ा	_	NOUN	NN	_	13	obj	_	_
+12	नहीं	_	PART	NEG	_	13	advmod	_	_
+13	धीनू	_	VERB	VM	_	5	conj	_	_
+14	होर	_	CCONJ	CC	_	17	cc	_	_
 15	एक	_	NUM	QC	_	16	nummod	_	_
 16	किताब	_	NOUN	NN	_	17	obj	_	_
 17	खोली	_	VERB	VM	_	13	conj	_	_
 18	थी	_	AUX	VAUX	_	17	aux	_	SpaceAfter=No
-19	।	_	PUNCT	SYM	_	7	punct	_	_
+19	।	_	PUNCT	SYM	_	5	punct	_	_
 
 # sent_id = 71
 # text = दरअसल सो थी बोहू भला होर शोभला माँहनु।
@@ -1294,7 +1296,7 @@
 1	ड्राइवर	_	NOUN	NN	_	12	nsubj	_	_
 2	कंडक्टर	_	NOUN	NN	_	1	conj	_	_
 3	शुआरी	_	NOUN	NN	_	1	conj	_	_
-4	हाऊँ	_	PRON	PRP	_	1	conj	_	_
+4	हाऊँ	_	PRON	PRP	_	1	conj	_	ExtPos=PRON
 5	आपु	_	PRON	PRP	_	4	fixed	_	_
 6	पहले	_	ADV	RB	_	10	advmod	_	_
 7	री	_	ADP	PSP	_	6	case	_	_
