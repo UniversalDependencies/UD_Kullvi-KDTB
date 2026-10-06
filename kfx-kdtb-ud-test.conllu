@@ -3005,14 +3005,15 @@
 
 # sent_id = 208
 # text = नौकर बाहर जाईए होरी होरी गाह पंदे बिशाउ।
-1	नौकर	_	NOUN	NN	_	7	nsubj	_	_
+1	नौकर	_	NOUN	NN	_	8	nsubj	_	_
 2	बाहर	_	ADV	RB	_	3	advmod	_	_
-3	जाईए	_	VERB	VM	_	7	advcl	_	_
+3	जाईए	_	VERB	VM	_	8	advcl	_	_
 4	होरी	_	ADV	RB	_	5	advmod	_	_
-5	होरी	_	ADV	RB	_	7	advmod	_	_
-6	गाह	_	NOUN	NN	_	7	obl	_	_
-7	बिशाउ	_	VERB	VM	_	0	root	_	SpaceAfter=No
-8	।	_	PUNCT	SYM	_	7	punct	_	_
+5	होरी	_	ADV	RB	_	8	advmod	_	_
+6	गाह	_	NOUN	NN	_	8	obl	_	_
+7	पंदे	_	ADP	PSP	_	6	case	_	_
+8	बिशाउ	_	VERB	VM	_	0	root	_	SpaceAfter=No
+9	।	_	PUNCT	SYM	_	8	punct	_	_
 
 # sent_id = 209
 # text = पाणि बरसी ए निकलू थी।
@@ -3054,14 +3055,15 @@
 # sent_id = 212
 # text = बोहू लोभ न ख़ुशी संगे पाणि न खेलिदा लागू।
 1	बोहू	_	ADV	RB	_	2	advmod	_	_
-2	लोभ	_	NOUN	NN	_	7	obl	_	_
+2	लोभ	_	NOUN	NN	_	8	obl	_	_
 3	न	_	ADP	PSP	_	2	case	_	_
-4	ख़ुशी	_	NOUN	NN	_	7	obl	_	_
+4	ख़ुशी	_	NOUN	NN	_	8	obl	_	_
 5	संगे	_	ADP	PSP	_	4	case	_	_
-6	पाणि	_	NOUN	NN	_	7	obl	_	_
-7	खेलिदा	_	VERB	VM	_	0	root	_	_
-8	लागू	_	AUX	VAUX	_	7	aux	_	SpaceAfter=No
-9	।	_	PUNCT	SYM	_	7	punct	_	_
+6	पाणि	_	NOUN	NN	_	8	obl	_	_
+7	न	_	ADP	PSP	_	6	case	_	_
+8	खेलिदा	_	VERB	VM	_	0	root	_	_
+9	लागू	_	AUX	VAUX	_	8	aux	_	SpaceAfter=No
+10	।	_	PUNCT	SYM	_	8	punct	_	_
 
 # sent_id = 213
 # text = नौकर बेशू होर माहनु संगे फ़ाण्डा मारदा रोहू।
