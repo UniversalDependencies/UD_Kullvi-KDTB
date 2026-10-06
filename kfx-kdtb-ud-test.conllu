@@ -2501,22 +2501,22 @@
 # sent_id = 171
 # text = ज़बरदस्ती निकलना भिखारण बनना टहलनी बनना मू चाहे झूठ भी बोलना सेभ ग़लत कोम केरने मू।
 1	ज़बरदस्ती	_	ADV	RB	_	2	advmod	_	_
-2	निकलना	_	VERB	VM	_	15	conj	_	_
+2	निकलना	_	VERB	VM	_	0	root	_	_
 3	भिखारण	_	NOUN	NN	_	4	xcomp	_	_
 4	बनना	_	VERB	VM	_	2	conj	_	_
 5	टहलनी	_	NOUN	NN	_	6	xcomp	_	_
 6	बनना	_	VERB	VM	_	4	conj	_	_
-7	मू	_	PRON	PRP	_	15	nsubj	_	_
+7	मू	_	PRON	PRP	_	2	nsubj	_	_
 8	चाहे	_	ADV	RB	_	11	advmod	_	_
 9	झूठ	_	NOUN	NN	_	11	obj	_	_
 10	भी	_	PART	RP	_	9	advmod	_	_
-11	बोलना	_	VERB	VM	_	15	conj	_	_
+11	बोलना	_	VERB	VM	_	6	conj	_	_
 12	सेभ	_	PRON	PRP	_	14	det	_	_
 13	ग़लत	_	ADJ	JJ	_	14	amod	_	_
 14	कोम	_	NOUN	NN	_	15	obj	_	_
-15	केरने	_	VERB	VM	_	0	root	_	_
-16	मू	_	PRON	PRP	_	15	nsubj	_	SpaceAfter=No
-17	।	_	PUNCT	SYM	_	15	punct	_	_
+15	केरने	_	VERB	VM	_	11	conj	_	_
+16	मू	_	PRON	PRP	_	15	discourse	_	SpaceAfter=No
+17	।	_	PUNCT	SYM	_	2	punct	_	_
 
 # sent_id = 172
 # text = सही कोम री तक दुनिया न जगह नहीं आथी।
