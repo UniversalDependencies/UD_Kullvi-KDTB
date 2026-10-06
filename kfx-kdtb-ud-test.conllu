@@ -4268,7 +4268,7 @@
 4	न	_	ADP	PSP	_	3	case	_	_
 5	मेरा	_	PRON	PRP	_	6	det	_	_
 6	मामला	_	NOUN	NN	_	8	nsubj	_	_
-7	किछ	_	PRON	PRP	_	8	advmod	_	_
+7	किछ	_	PRON	PRP	_	8	obl	_	_
 8	एंडा	_	ADJ	JJ	_	0	root	_	_
 9	सा	_	AUX	VAUX	_	8	cop	_	_
 10	असंतुलित	_	ADJ	JJ	_	8	conj	_	_
@@ -4405,7 +4405,7 @@
 
 # sent_id = 318
 # text = ए तेबे मैं आर्थिक गल नी समझी।
-1	ए	_	PRON	PRP	_	7	obj	_	_
+1	ए	_	PRON	PRP	_	7	discourse	_	_
 2	तेबे	_	ADV	RB	_	7	advmod	_	_
 3	मैं	_	PRON	PRP	_	7	nsubj	_	_
 4	आर्थिक	_	ADJ	JJ	_	5	amod	_	_
@@ -4504,7 +4504,7 @@
 5	होना	_	VERB	VM	_	0	root	_	_
 
 # sent_id = 327
-# text = तीन रोज़ न जेबें हाऊँ शैर न नोठू थी आर पार ख़ुशी ख़ुशी थी।
+# text = तीन रोज़ न जेबें हाऊँ शैर न नोठू थी आर पार ख़ुशी थी।
 1	तीन	_	NUM	QC	_	2	nummod	_	_
 2	रोज़	_	NOUN	NN	_	8	obl	_	_
 3	न	_	ADP	PSP	_	2	case	_	_
@@ -4514,12 +4514,11 @@
 7	न	_	ADP	PSP	_	6	case	_	_
 8	नोठू	_	VERB	VM	_	0	root	_	_
 9	थी	_	AUX	VAUX	_	8	aux	_	_
-10	आर	_	ADV	RB	_	14	advmod	_	_
+10	आर	_	ADV	RB	_	13	advmod	_	ExtPos=ADV
 11	पार	_	ADV	RB	_	10	fixed	_	_
-12	ख़ुशी	_	NOUN	NN	_	14	nsubj	_	_
-13	ख़ुशी	_	NOUN	NN	_	12	compound	_	_
-14	थी	_	AUX	VAUX	_	8	conj	_	SpaceAfter=No
-15	।	_	PUNCT	SYM	_	8	punct	_	_
+12	ख़ुशी	_	NOUN	NN	_	13	nsubj	_	_
+13	थी	_	AUX	VAUX	_	8	conj	_	SpaceAfter=No
+14	।	_	PUNCT	SYM	_	8	punct	_	_
 
 # sent_id = 328
 # text = बाहर जाने पंदे लोका विस्फारित हो थी।
