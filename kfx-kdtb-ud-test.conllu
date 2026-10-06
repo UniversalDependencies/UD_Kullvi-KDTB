@@ -4504,7 +4504,7 @@
 5	होना	_	VERB	VM	_	0	root	_	_
 
 # sent_id = 327
-# text = तीन रोज़ न जेबें हाऊँ शैर न नोठू थी आर पार ख़ुशी थी।
+# text = तीन रोज़ न जेबें हाऊँ शैर न नोठू थी आर-पार ख़ुशी थी।
 1	तीन	_	NUM	QC	_	2	nummod	_	_
 2	रोज़	_	NOUN	NN	_	8	obl	_	_
 3	न	_	ADP	PSP	_	2	case	_	_
@@ -4514,11 +4514,12 @@
 7	न	_	ADP	PSP	_	6	case	_	_
 8	नोठू	_	VERB	VM	_	0	root	_	_
 9	थी	_	AUX	VAUX	_	8	aux	_	_
-10	आर	_	ADV	RB	_	13	advmod	_	ExtPos=ADV
-11	पार	_	ADV	RB	_	10	fixed	_	_
-12	ख़ुशी	_	NOUN	NN	_	13	nsubj	_	_
-13	थी	_	AUX	VAUX	_	8	conj	_	SpaceAfter=No
-14	।	_	PUNCT	SYM	_	8	punct	_	_
+10	आर	_	ADV	RB	ExtPos=ADV	14	advmod	_	SpaceAfter=No
+11	-	_	PUNCT	SYM	_	10	punct	_	SpaceAfter=No
+12	पार	_	ADV	RB	_	10	fixed	_	_
+13	ख़ुशी	_	NOUN	NN	_	14	nsubj	_	_
+14	थी	_	AUX	VAUX	_	8	conj	_	SpaceAfter=No
+15	।	_	PUNCT	SYM	_	8	punct	_	_
 
 # sent_id = 328
 # text = बाहर जाने पंदे लोका विस्फारित हो थी।
@@ -4624,7 +4625,7 @@
 4	कोई	_	PRON	PRP	_	5	det	_	_
 5	पाप	_	NOUN	NN	_	0	root	_	_
 6	थी	_	AUX	VAUX	_	5	cop	_	_
-7	जो	_	PRON	PRP	_	11	nsubj	_	_
+7	जो	_	PRON	PRP	_	11	mark	_	_
 8	आसें	_	PRON	PRP	_	11	nsubj	_	_
 9	ओखे	_	ADV	RB	_	11	advmod	_	_
 10	टिंगलियूई	_	VERB	VM	_	11	advcl	_	_
