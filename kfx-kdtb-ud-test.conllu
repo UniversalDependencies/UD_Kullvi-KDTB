@@ -699,22 +699,24 @@
 10	।	_	PUNCT	SYM	_	8	punct	_	_
 
 # sent_id = 56
-# text = मुँह मुँह आन्दरे गुरबानी रा पाठ लाऊ थी केरना, कैसेट रे संगे संगे।
-1	मुँह	_	NOUN	NN	_	7	obl	_	_
-2	मुँह	_	NOUN	NN	_	1	compound	_	_
-3	आन्दरे	_	ADV	RB	_	7	advmod	_	_
-4	गुरबानी	_	NOUN	NN	_	6	nmod	_	_
-5	रा	_	ADP	PSP	_	4	case	_	_
-6	पाठ	_	NOUN	NN	_	7	obj	_	_
-7	लाऊ	_	VERB	VM	_	0	root	_	_
-8	थी	_	AUX	VAUX	_	7	aux	_	_
-9	केरना	_	VERB	VM	_	7	advcl	_	SpaceAfter=No
-10	,	_	PUNCT	SYM	_	9	punct	_	_
-11	कैसेट	_	NOUN	NN	_	9	obl	_	_
-12	रे	_	ADP	PSP	_	11	case	_	_
-13	संगे	_	ADP	PSP	_	11	case	_	ExtPos=ADP
-14	संगे	_	ADP	PSP	_	13	fixed	_	SpaceAfter=No
-15	।	_	PUNCT	SYM	_	7	punct	_	_
+# text = मुँह-मुँह आन्दरे गुरबानी रा पाठ लाऊ थी केरना, कैसेट रे संगे-संगे।
+1	मुँह	_	NOUN	NN	_	8	obl	_	SpaceAfter=No
+2	-	_	PUNCT	SYM	_	1	punct	_	SpaceAfter=No
+3	मुँह	_	NOUN	NN	_	1	compound	_	_
+4	आन्दरे	_	ADV	RB	_	8	advmod	_	_
+5	गुरबानी	_	NOUN	NN	_	7	nmod	_	_
+6	रा	_	ADP	PSP	_	5	case	_	_
+7	पाठ	_	NOUN	NN	_	8	obj	_	_
+8	लाऊ	_	VERB	VM	_	0	root	_	_
+9	थी	_	AUX	VAUX	_	8	aux	_	_
+10	केरना	_	VERB	VM	_	8	advcl	_	SpaceAfter=No
+11	,	_	PUNCT	SYM	_	10	punct	_	_
+12	कैसेट	_	NOUN	NN	_	10	obl	_	_
+13	रे	_	ADP	PSP	_	12	case	_	_
+14	संगे	_	ADP	PSP	_	12	case	_	ExtPos=ADP|SpaceAfter=No
+15	-	_	PUNCT	SYM	_	14	punct	_	SpaceAfter=No
+16	संगे	_	ADP	PSP	_	14	fixed	_	SpaceAfter=No
+17	।	_	PUNCT	SYM	_	8	punct	_	_
 
 # sent_id = 57
 # text = मेरी सुल्टी साइड एक जुआन सिक्ख बेशू थी।
@@ -1292,22 +1294,23 @@
 13	।	_	PUNCT	SYM	_	11	punct	_	_
 
 # sent_id = 93
-# text = ड्राइवर कंडक्टर शुआरी हाऊँ आपु पहले री आपणी आपणी गल न खोई रे थी।
-1	ड्राइवर	_	NOUN	NN	_	12	nsubj	_	_
+# text = ड्राइवर कंडक्टर शुआरी हाऊँ, आपु पहले री आपणी आपणी गल न खोई रे थी।
+1	ड्राइवर	_	NOUN	NN	_	13	nsubj	_	_
 2	कंडक्टर	_	NOUN	NN	_	1	conj	_	_
 3	शुआरी	_	NOUN	NN	_	1	conj	_	_
-4	हाऊँ	_	PRON	PRP	_	1	conj	_	ExtPos=PRON
-5	आपु	_	PRON	PRP	_	4	fixed	_	_
-6	पहले	_	ADV	RB	_	10	advmod	_	_
-7	री	_	ADP	PSP	_	6	case	_	_
-8	आपणी	_	PRON	PRP	_	9	det	_	_
-9	आपणी	_	PRON	PRP	_	10	nmod	_	_
-10	गल	_	NOUN	NN	_	12	obl	_	_
-11	न	_	ADP	PSP	_	10	case	_	_
-12	खोई	_	VERB	VM	_	0	root	_	_
-13	रे	_	AUX	VAUX	_	12	aux	_	_
-14	थी	_	AUX	VAUX	_	12	aux	_	SpaceAfter=No
-15	।	_	PUNCT	SYM	_	12	punct	_	_
+4	हाऊँ	_	PRON	PRP	_	1	conj	_	ExtPos=PRON|SpaceAfter=No
+5	,	_	PUNCT	SYM	_	4	punct	_	_
+6	आपु	_	PRON	PRP	_	4	fixed	_	_
+7	पहले	_	ADV	RB	_	11	advmod	_	_
+8	री	_	ADP	PSP	_	7	case	_	_
+9	आपणी	_	PRON	PRP	_	10	det	_	_
+10	आपणी	_	PRON	PRP	_	11	nmod	_	_
+11	गल	_	NOUN	NN	_	13	obl	_	_
+12	न	_	ADP	PSP	_	11	case	_	_
+13	खोई	_	VERB	VM	_	0	root	_	_
+14	रे	_	AUX	VAUX	_	13	aux	_	_
+15	थी	_	AUX	VAUX	_	13	aux	_	SpaceAfter=No
+16	।	_	PUNCT	SYM	_	13	punct	_	_
 
 # sent_id = 94
 # text = बस जोंधरे भी आपणी एक दुनिया थी आपणी स्पीड न ऊँढदी लागी थी।
