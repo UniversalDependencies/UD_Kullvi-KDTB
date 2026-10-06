@@ -699,7 +699,7 @@
 10	।	_	PUNCT	SYM	_	8	punct	_	_
 
 # sent_id = 56
-# text = मुँह-मुँह आन्दरे गुरबानी रा पाठ लाऊ थी केरना, कैसेट रे संगे-संगे।
+# text = मुँह-मुँह आन्दरे गुरबानी रा पाठ लाऊ थी केरना, कैसेट रे संगे।
 1	मुँह	_	NOUN	NN	_	8	obl	_	SpaceAfter=No
 2	-	_	PUNCT	SYM	_	1	punct	_	SpaceAfter=No
 3	मुँह	_	NOUN	NN	_	1	compound	_	_
@@ -713,10 +713,8 @@
 11	,	_	PUNCT	SYM	_	10	punct	_	_
 12	कैसेट	_	NOUN	NN	_	10	obl	_	_
 13	रे	_	ADP	PSP	_	12	case	_	_
-14	संगे	_	ADP	PSP	_	12	case	_	ExtPos=ADP|SpaceAfter=No
-15	-	_	PUNCT	SYM	_	14	punct	_	SpaceAfter=No
-16	संगे	_	ADP	PSP	_	14	fixed	_	SpaceAfter=No
-17	।	_	PUNCT	SYM	_	8	punct	_	_
+14	संगे	_	ADP	PSP	_	12	case	_	SpaceAfter=No
+15	।	_	PUNCT	SYM	_	8	punct	_	_
 
 # sent_id = 57
 # text = मेरी सुल्टी साइड एक जुआन सिक्ख बेशू थी।
@@ -1294,23 +1292,21 @@
 13	।	_	PUNCT	SYM	_	11	punct	_	_
 
 # sent_id = 93
-# text = ड्राइवर कंडक्टर शुआरी हाऊँ, आपु पहले री आपणी आपणी गल न खोई रे थी।
-1	ड्राइवर	_	NOUN	NN	_	13	nsubj	_	_
+# text = ड्राइवर कंडक्टर शुआरी आपु पहले री आपणी आपणी गल न खोई रे थी।
+1	ड्राइवर	_	NOUN	NN	_	11	nsubj	_	_
 2	कंडक्टर	_	NOUN	NN	_	1	conj	_	_
 3	शुआरी	_	NOUN	NN	_	1	conj	_	_
-4	हाऊँ	_	PRON	PRP	_	1	conj	_	ExtPos=PRON|SpaceAfter=No
-5	,	_	PUNCT	SYM	_	4	punct	_	_
-6	आपु	_	PRON	PRP	_	4	fixed	_	_
-7	पहले	_	ADV	RB	_	11	advmod	_	_
-8	री	_	ADP	PSP	_	7	case	_	_
-9	आपणी	_	PRON	PRP	_	10	det	_	_
-10	आपणी	_	PRON	PRP	_	11	nmod	_	_
-11	गल	_	NOUN	NN	_	13	obl	_	_
-12	न	_	ADP	PSP	_	11	case	_	_
-13	खोई	_	VERB	VM	_	0	root	_	_
-14	रे	_	AUX	VAUX	_	13	aux	_	_
-15	थी	_	AUX	VAUX	_	13	aux	_	SpaceAfter=No
-16	।	_	PUNCT	SYM	_	13	punct	_	_
+4	आपु	_	PRON	PRP	_	1	conj	_	_
+5	पहले	_	ADV	RB	_	9	advmod	_	_
+6	री	_	ADP	PSP	_	5	case	_	_
+7	आपणी	_	PRON	PRP	_	8	det	_	_
+8	आपणी	_	PRON	PRP	_	9	nmod	_	_
+9	गल	_	NOUN	NN	_	11	obl	_	_
+10	न	_	ADP	PSP	_	9	case	_	_
+11	खोई	_	VERB	VM	_	0	root	_	_
+12	रे	_	AUX	VAUX	_	11	aux	_	_
+13	थी	_	AUX	VAUX	_	11	aux	_	SpaceAfter=No
+14	।	_	PUNCT	SYM	_	11	punct	_	_
 
 # sent_id = 94
 # text = बस जोंधरे भी आपणी एक दुनिया थी आपणी स्पीड न ऊँढदी लागी थी।
