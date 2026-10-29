@@ -13,7 +13,7 @@ Kullvi is an Indo-Aryan language spoken primarily in the Kullu region of Himacha
 
 # Acknowledgments
 
-We acknowledge the contributions of all annotators and researchers, especially Mr. Bhupender Bhupi, for his valuable assistance in developing the Kullvi POS tagset.
+We extend our sincere gratitude to the Himachal Academy of Arts, Culture, and Languages, Shimla, Himachal Pradesh, India, for facilitating the provision of annotators for Universal Dependencies (UD) annotation. We also acknowledge the valuable contributions of Mr. Bhupender Bhupi, for his significant assistance in developing the Kullvi UD Treebank (KDTB).
 
 ## References
 
