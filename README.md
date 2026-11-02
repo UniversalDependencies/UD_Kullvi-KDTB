@@ -38,7 +38,7 @@ UPOS: manual native
 XPOS: not available
 Features: manual native
 Relations: manual native
-Contributors: Chauhan, Shweta , Saxena , Shefali , Jain , Shweta
+Contributors: Chauhan, Shweta; Saxena, Shefali; Jain, Shweta
 Contributing: here
 Contact: shweta@nith.ac.in ,saxena.shefali07@gmail.com ,shwetajain@iitrpr.ac.in
 ===============================================================================
